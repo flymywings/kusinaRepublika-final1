@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kusina Republika | Contact</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+    <style>
+        header {
+            position: relative;
+            display: flex;
+            align-items: center;
+            height: 80px;
+            padding: 0 20px;
+            background-color: #fff;
+            box-shadow: 0 4px 14px rgba(0, 0, 0, 0.18);
+            top: 0;
+            z-index: 1000;
+        }
+
+        header .logo img {
+            height: 40px;
+            width: auto;
+            margin-top: 35px;
+        }
+
+        header nav.header-buttons a {
+            font-size: 1rem;
+            font-weight: 600;
+            margin-left: 20px;
+            color: #333;
+            text-decoration: none;
+        }
+
+        .header-buttons a.active {
+            color: #ff8c42;
+        }
+
+        .contact-page {
+            background-color: #fff5e6;
+            padding: 25px 20px 60px 20px;
+        }
+
+        .contact-page .section-title {
+            font-size: 2.5rem;
+            text-align: center;
+            color: #d35400;
+            margin-top: 10px;
+            margin-bottom: 50px;
+        }
+
+        .contact-page .contact-container,
+        .contact-page .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        .contact-page input,
+        .contact-page textarea {
+            width: 100%;
+            padding: 12px 15px;
+            margin-bottom: 20px;
+            border-radius: 6px;
+            border: 2px solid #ff8c42;
+            box-sizing: border-box;
+            font-size: 1rem;
+            transition: border-color 0.3s, box-shadow 0.3s;
+        }
+
+        .contact-info {
+            max-width: 700px;
+            margin: 0 auto 50px auto;
+            text-align: center;
+            font-size: 1.1rem;
+            line-height: 1.8;
+        }
+
+        .contact-info a {
+            color: #d35400;
+            text-decoration: none;
+            font-weight: 600;
+        }
+
+        .contact-info a:hover {
+            text-decoration: underline;
+        }
+
+        .contact-form-wrapper {
+            max-width: 600px;
+            margin: 0 auto;
+            background: #fff;
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 6px 20px rgba(0,0,0,0.15);
+        }
+
+        .contact-form label {
+            display: block;
+            margin-bottom: 6px;
+            font-weight: 600;
+            color: #333;
+        }
+
+        .contact-page input:focus,
+        .contact-page textarea:focus {
+            outline: none;
+            border-color: #ff7043;
+            box-shadow: 0 0 5px rgba(255, 140, 66, 0.5);
+        }
+
+        .contact-form textarea {
+            resize: none;
+        }
+
+        .contact-page button {
+            padding: 12px 25px;
+            font-size: 1rem;
+            border-radius: 6px;
+            border: none;
+            background-color: #ff8c42;
+            color: #fff;
+            cursor: pointer;
+            transition: 0.2s;
+        }
+
+        .contact-page button:hover {
+            background-color: #ff7043;
+        }
+
+        .contact-page .breadcrumb a {
+            color: #ff8c42 !important;
+            text-decoration: none;
+        }
+
+        .contact-page .breadcrumb a:hover {
+            text-decoration: underline;
+        }
+
+        @media (max-width: 600px) {
+            .contact-form-wrapper {
+                padding: 25px 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <div class="logo">
+            <img src="images/kusinarepublika.png" alt="Kusina Republika Logo">
+        </div>
+        <nav class="header-buttons">
+            <a href="index.html">Home</a>
+            <a href="recipes.html">Recipes</a>
+            <a href="index.html#about">About</a>
+            <a href="contact.html" class="active">Contact</a>
+        </nav>
+    </header>
+
+    <div class="page-wrapper">
+        <main class="contact-page">
+            <div class="container">
+                <nav class="breadcrumb">
+                    <a href="index.html">Home</a> &gt; 
+                    <span>Contact</span>
+                </nav>
+
+                <h1 class="section-title">Get in Touch</h1>
+
+                <div class="contact-info">
+                    <p>Have questions or want to share your feedback? We’d love to hear from you!</p>
+                    <p>Email: 
+                        <a href="mailto:2025-2-01848@lpunetwork.edu.ph">2025-2-01848@lpunetwork.edu.ph</a>, 
+                        <a href="mailto:2024-2-02325@lpunetwork.edu.ph">2024-2-02325@lpunetwork.edu.ph</a>, 
+                        <a href="mailto:2025-2-02667@lpunetwork.edu.ph">2025-2-02667@lpunetwork.edu.ph</a>, 
+                        <a href="mailto:2025-2-01993@lpunetwork.edu.ph">2025-2-01993@lpunetwork.edu.ph</a>,
+                        <a href="mailto:2025-2-02276@lpunetwork.edu.ph">2025-2-02276@lpunetwork.edu.ph</a>,
+                        <a href="mailto:2025-2-02888@lpunetwork.edu.ph">2025-2-02888@lpunetwork.edu.ph</a>
+                    </p>
+                    <p>Phone: +63 947 882 3354</p>
+                </div>
+
+                <div class="contact-form-wrapper">
+                    <form class="contact-form" action="https://formsubmit.co/2025-2-01848@lpunetwork.edu.ph" method="POST">
+                        <input type="hidden" name="_subject" value="New message from Kusina Republika Contact Form">
+                        <input type="hidden" name="_captcha" value="false">
+
+                        <label for="name">Name</label>
+                        <input type="text" name="name" id="name" placeholder="Your Name" required>
+
+                        <label for="email">Email</label>
+                        <input type="email" name="email" id="email" placeholder="Your Email" required>
+
+                        <label for="message">Message</label>
+                        <textarea name="message" id="message" rows="6" placeholder="Write your message here..." required></textarea>
+
+                        <button type="submit">Send Message</button>
+                    </form>
+                </div>
+            </div>
+        </main>
+
+        <footer>
+            <p>&copy; 2025 Kusina Republika. All rights reserved.</p>
+            <div>
+                <a href="index.html">Home</a> |
+                <a href="recipes.html">Recipes</a> |
+                <a href="index.html#about">About</a> |
+                <a href="contact.html">Contact</a>
+            </div>
+        </footer>
+    </div>
+
+</body>
+</html>

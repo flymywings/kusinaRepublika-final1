@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Kusina Republika | Home</title>
+    <link rel="stylesheet" href="css/style.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <img src="images/kusinarepublika.png" alt="Kusina Republika Logo">
+        </div>
+        <nav class="header-buttons">
+            <a href="index.html" class="active">Home</a>
+            <a href="recipes.html">Recipes</a>
+            <a href="index.html#about">About</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </header>
+<section class="hero-banner">
+    <div class="hero-content">
+        <h1>Welcome to <span>Kusina Republika</span></h1>
+        <p>
+            Discover delicious, authentic Filipino recipes — tested, tasty, 
+            and perfect for every handa!
+        </p>
+
+        <a href="recipes.html" class="hero-btn">Explore Recipes</a>
+    </div>
+</section>
+
+<section class="featured-recipes">
+  <div class="container">
+    <div class="section-title">Featured Recipes</div>
+    <div class="carousel-container" data-carousel>
+      <button class="carousel-btn prev" aria-label="Previous">&#10094;</button>
+
+      <div class="carousel-wrapper">
+        <div class="carousel">
+          <a href="adobo.html" class="recipe-card">
+            <img src="images/adobo.png" alt="Adobong Manok" />
+            <div class="recipe-title">Adobong Manok</div>
+          </a>
+          <a href="sinigang.html" class="recipe-card">
+            <img src="images/sinigang_baboy.jpg" alt="Sinigang na Baboy" />
+            <div class="recipe-title">Sinigang na Baboy</div>
+          </a>
+          <a href="kare-kare.html" class="recipe-card">
+            <img src="images/karekare.jpg" alt="Kare-Kare" />
+            <div class="recipe-title">Kare-Kare</div>
+          </a>
+          <a href="pancit-canton.html" class="recipe-card">
+            <img src="images/pancit_canton.jpg" alt="Pancit Canton" />
+            <div class="recipe-title">Pancit Canton</div>
+          </a>
+          <a href="chicken-inasal.html" class="recipe-card">
+            <img src="images/chicken_inasal.jpg" alt="Chicken Inasal" />
+            <div class="recipe-title">Chicken Inasal</div>
+          </a>
+          <a href="crispy-pata.html" class="recipe-card">
+            <img src="images/crispy_pata.jpg" alt="Crispy Pata" />
+            <div class="recipe-title">Crispy Pata</div>
+          </a>
+          <a href="laing.html" class="recipe-card">
+            <img src="images/laing.jpg" alt="Laing" />
+            <div class="recipe-title">Laing</div>
+          </a>
+          <a href="beef-caldereta.html" class="recipe-card">
+            <img src="images/beef_caldereta.jpg" alt="Beef Caldereta" />
+            <div class="recipe-title">Beef Caldereta</div>
+          </a>
+        </div>
+      </div>
+
+      <button class="carousel-btn next" aria-label="Next">&#10095;</button>
+    </div>
+  </div>
+</section>
+
+<section class="about" id="about">
+  <div class="about-container">
+    <div class="about-text">
+      <h2>About Kusina Republika</h2>
+      <p>
+        Kusina Republika is your go-to destination for authentic Filipino flavors. We are passionate about preserving traditional recipes while making them accessible to home cooks everywhere. 
+      </p>
+      <p>
+        Our mission is to bring the heart and soul of Filipino cuisine to every kitchen. From savory adobo and sinigang to sweet desserts like leche flan and halo-halo, we guide you step by step so that cooking Filipino dishes becomes simple and enjoyable.
+      </p>
+      <p>
+        Beyond recipes, Kusina Republika is a community. We share tips, cooking hacks, and cultural stories behind every dish. Whether you are a beginner cook or a seasoned chef, our goal is to inspire you to create delicious meals that bring people together.
+      </p>
+      <p>
+        Join us on this culinary journey and discover the rich flavors, vibrant colors, and unique stories that make Filipino food truly unforgettable.
+      </p>
+    </div>
+    <div class="about-image">
+      <img src="images/about-cooking.jpg" alt="Filipino Cooking" />
+    </div>
+  </div>
+</section>
+
+<section class="cta">
+
+  <div class="cta-content">
+    <h2>Join Our Culinary Community!</h2>
+    <p>Get the latest Filipino recipes, cooking tips, and special updates delivered straight to your inbox.</p>
+
+    <form 
+      class="cta-form"
+      action="https://formsubmit.co/2025-2-01848@lpunetwork.edu.ph" 
+      method="POST"
+    >
+      <input 
+        type="email" 
+        name="email" 
+        placeholder="Enter your email:" 
+        required
+        pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$"
+        title="Please enter a valid email address"
+      />
+      <button type="submit">Subscribe Now</button>
+    </form>
+  </div>
+</section>
+
+    <footer>
+    <p>&copy; 2025 Kusina Republika. All rights reserved.</p>
+    <div>
+        <a href="#">Home</a> |
+        <a href="#">Recipes</a> |
+        <a href="#">About</a> |
+        <a href="#">Contact</a>
+    </div>
+</footer>
+<script src="js/carouselScript.js"></script>
+</body>
+</html>

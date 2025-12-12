@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Kusina Republika | Chicken Adobo</title>
+    <link rel="stylesheet" href="css/style.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+    <style>
+    .breadcrumbs {
+        margin-bottom: 20px;
+    }
+
+    .breadcrumbs a {
+        color: #ff8c42 !important;
+        text-decoration: none;
+    }
+    .breadcrumbs a:hover {
+        text-decoration: underline;
+    }
+
+    .recipe-page .container {
+        max-width: 1200px;
+        margin: 40px auto 0 auto;
+        padding: 0 40px;
+    }
+
+    .hero {
+        position: relative;
+        margin-bottom: 40px;
+        margin-top: 20px;
+    }
+
+    .hero-img {
+        width: 100%;
+        border-radius: 12px;
+    }
+
+    .hero-title {
+        position: absolute;
+        bottom: 20px;
+        left: 20px;
+        color: #fff;
+        font-size: 3rem;
+        text-shadow: 0 2px 6px rgba(0,0,0,0.5);
+    }
+
+    .hero-info {
+        margin-top: 15px;
+        font-size: 1rem;
+    }
+
+    .recipe-summary {
+        font-size: 1.1rem;
+        margin-bottom: 30px;
+    }
+
+    .recipe-columns {
+        display: flex;
+        gap: 40px;
+        flex-wrap: wrap;
+    }
+
+    .ingredients, .instructions {
+        flex: 1 1 45%;
+    }
+
+    .ingredients ul, .instructions ol {
+        margin-left: 20px;
+    }
+
+    .tips-box, .nutrition {
+        margin-top: 40px;
+        background: #ffffff;
+        padding: 20px;
+        border-radius: 12px;
+    }
+
+    .page-wrapper {
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column;
+    }
+
+    main {
+        flex: 1;
+    }
+
+    .extra-info-container {
+        display: flex;
+        gap: 30px;
+        flex-wrap: wrap;
+        margin-top: 40px;
+        margin-bottom: 60px;
+    }
+
+    .nutrition {
+        background-color: #fff;
+        border: 2px solid #000;
+        padding: 20px;
+        flex: 1;
+        min-width: 300px;
+        box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);
+    }
+
+    .recipe-video {
+        flex: 1;
+        min-width: 300px;
+    }
+
+    .recipe-video h3 {
+        margin-bottom: 10px;
+    }
+
+    body {
+        display: flex;
+        flex-direction: column;
+        min-height: 100vh;
+        margin: 0;
+    }
+
+    main.page-wrapper {
+        flex: 1;
+    }
+
+    .hero {
+        position: relative;
+    }
+
+    .hero-overlay {
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.35);
+        pointer-events: none;
+        position: absolute;
+        top: 0;
+        left: 0;
+        border-radius: 12px;
+    }
+
+    body, html {
+        background-color: #fff5e6;
+        margin: 0;
+        padding: 0;
+        font-family: 'Poppins', sans-serif;
+    }
+
+    .recipe-summary, .tips-box {
+        background-color: #fff;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);
+        margin-bottom: 30px;
+    }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <img src="images/kusinarepublika.png" alt="Kusina Republika Logo">
+        </div>
+        <nav class="header-buttons">
+            <a href="index.html">Home</a>
+            <a href="recipes.html" class="active">Recipes</a>
+            <a href="index.html#about">About</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </header>
+
+    <div class="page-wrapper">
+        <main class="recipe-page">
+            <div class="container">
+                <nav class="breadcrumbs">
+                    <a href="index.html">Home</a> &gt;
+                    <a href="recipes.html">Recipes</a> &gt;
+                    <span>Chicken Adobo</span>
+                </nav>
+
+                <section class="hero">
+                    <img src="images/adobo1.png" class="hero-img" alt="Chicken Adobo">
+                    <div class="hero-overlay"></div>
+                    <h1 class="hero-title">Chicken Adobo</h1>
+                    <div class="hero-info">
+                        <span>⏱ Prep: 10 mins</span>
+                        <span>🔥 Cook: 40–50 mins</span>
+                        <span>🍽 Serves: 4–5 pax</span>
+                    </div>
+                </section>
+
+                <div class="recipe-summary">
+                    Chicken Adobo is one of the Philippines’ most iconic dishes—savory, tangy, garlicky, and deeply comforting. Simmered in soy sauce, vinegar, aromatics, and spices, the chicken becomes tender while the sauce reduces into a rich glaze. Simple ingredients, bold flavor, and effortless cooking make Adobo a true Filipino favorite.
+                </div>
+
+                <div class="recipe-columns">
+                    <div class="ingredients">
+                        <h2>Ingredients</h2>
+                        <ul>
+                            <li>1 kg chicken (cut into serving pieces)</li>
+                            <li>1/2 cup soy sauce</li>
+                            <li>1/3 cup vinegar</li>
+                            <li>6 cloves garlic, crushed</li>
+                            <li>1 medium onion, sliced</li>
+                            <li>2 bay leaves</li>
+                            <li>1 tsp whole peppercorns</li>
+                            <li>1 cup water</li>
+                            <li>Cooking oil</li>
+                        </ul>
+                    </div>
+
+                    <div class="instructions">
+                        <h2>Instructions</h2>
+                        <ol>
+                            <li><b>Sauté aromatics.</b> Heat a small amount of oil in a pot. Sauté garlic and onion until fragrant.</li>
+                            <li><b>Brown the chicken.</b> Add chicken pieces and cook until lightly browned on the outside.</li>
+                            <li><b>Add liquids and spices.</b> Pour in soy sauce, vinegar, and water. Add bay leaves and peppercorns.</li>
+                            <li><b>Simmer.</b> Cover and simmer for 30–40 minutes or until the chicken becomes tender.</li>
+                            <li><b>Reduce the sauce.</b> Uncover and continue simmering until the sauce slightly thickens and coats the chicken.</li>
+                            <li><b>Serve.</b> Enjoy with hot steamed rice.</li>
+                        </ol>
+                    </div>
+                </div>
+
+                <div class="tips-box">
+                    <h3>Chef's Tips 👩‍🍳</h3>
+                    <p>For richer flavor, marinate the chicken in soy sauce, vinegar, garlic, and peppercorns for at least 30 minutes. Don’t stir right after adding vinegar—let it boil first to prevent a raw, sharp taste. You can also pan-fry the chicken before simmering for deeper flavor.</p>
+                </div>
+
+                <div class="extra-info-container">
+                    <div class="nutrition">
+                        <h3>Nutrition (per serving)</h3>
+                        <ul>
+                            <li>Calories: ~420</li>
+                            <li>Protein: 32g</li>
+                            <li>Fat: 28g</li>
+                            <li>Carbohydrates: 6g</li>
+                            <li>Fiber: 0g</li>
+                        </ul>
+                    </div>
+
+                    <div class="recipe-video">
+                        <h3>Watch How It's Done</h3>
+                        <iframe width="100%" height="250" src="https://www.youtube-nocookie.com/embed/wwapBsT0oc8?si=5i100KzrONqYfqEf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                    </div>
+                </div>
+            </div>
+        </main>
+
+        <footer>
+            <p>&copy; 2025 Kusina Republika. All rights reserved.</p>
+            <div>
+                <a href="index.html">Home</a> |
+                <a href="recipes.html">Recipes</a> |
+                <a href="index.html#about">About</a> |
+                <a href="contact.html">Contact</a>
+            </div>
+        </footer>
+    </div>
+</body>
+</html>

@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Kusina Republika | Laing</title>
+    <link rel="stylesheet" href="css/style.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+    <style>
+    .breadcrumbs {
+        margin-bottom: 20px; 
+    }
+
+    .breadcrumbs a {
+        color: #ff8c42 !important;
+        text-decoration: none;
+    }
+    .breadcrumbs a:hover {
+        text-decoration: underline;
+    }
+
+    .recipe-page .container {
+        max-width: 1200px;
+        margin: 40px auto 0 auto;
+        padding: 0 40px;
+    }
+
+    .hero {
+        position: relative;
+        margin-bottom: 40px;
+        margin-top: 20px;
+    }
+
+    .hero-img {
+        width: 100%;
+        border-radius: 12px;
+    }
+
+    .hero-title {
+        position: absolute;
+        bottom: 20px;
+        left: 20px;
+        color: #fff;
+        font-size: 3rem;
+        text-shadow: 0 2px 6px rgba(0,0,0,0.5);
+    }
+
+    .hero-info {
+        margin-top: 15px;
+        font-size: 1rem;
+    }
+
+    .recipe-summary {
+        font-size: 1.1rem;
+        margin-bottom: 30px;
+        background-color: #fff;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 6px 15px rgba(0,0,0,0.1);
+    }
+
+    .recipe-columns {
+        display: flex;
+        gap: 40px;
+        flex-wrap: wrap;
+    }
+
+    .ingredients, .instructions {
+        flex: 1 1 45%;
+    }
+
+    .ingredients ul, .instructions ol {
+        margin-left: 20px;
+    }
+
+    .tips-box, .nutrition {
+        margin-top: 40px;
+        background: #ffffff;
+        padding: 20px;
+        border-radius: 12px;
+        box-shadow: 0 6px 15px rgba(0,0,0,0.1);
+    }
+
+    .extra-info-container {
+        display: flex;
+        gap: 30px;
+        flex-wrap: wrap;
+        margin-top: 40px;
+        margin-bottom: 60px;
+    }
+
+    .nutrition {
+        flex: 1;
+        min-width: 300px;
+        border: 2px solid #000;
+    }
+
+    .recipe-video {
+        flex: 1;
+        min-width: 300px;
+    }
+
+    .recipe-video h3 {
+        margin-bottom: 10px;
+    }
+
+    body {
+        display: flex;
+        flex-direction: column;
+        min-height: 100vh;
+        margin: 0;
+        background-color: #fff5e6;
+        font-family: 'Poppins', sans-serif;
+    }
+
+    main.page-wrapper {
+        flex: 1;
+    }
+
+    .hero-overlay {
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.35);
+        pointer-events: none;
+    }
+    </style>
+</head>
+<body>
+<header>
+    <div class="logo">
+        <img src="images/kusinarepublika.png" alt="Kusina Republika Logo">
+    </div>
+    <nav class="header-buttons">
+        <a href="index.html">Home</a>
+        <a href="recipes.html" class="active">Recipes</a>
+        <a href="index.html#about">About</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+</header>
+
+<div class="page-wrapper">
+    <main class="recipe-page">
+        <div class="container">
+            <nav class="breadcrumbs">
+                <a href="index.html">Home</a> &gt;
+                <a href="recipes.html">Recipes</a> &gt;
+                <span>Laing</span>
+            </nav>
+
+            <section class="hero">
+                <img src="images/laing1.png" class="hero-img" alt="Laing">
+                <div class="hero-overlay"></div>
+                <h1 class="hero-title">Laing</h1>
+                <div class="hero-info">
+                    <span>⏱ Prep: 15 mins</span>
+                    <span>🔥 Cook: 1 hour</span>
+                    <span>🍽 Serves: 4–5 pax</span>
+                </div>
+            </section>
+
+            <div class="recipe-summary">
+                Laing is a beloved Bicolano dish made with dried taro leaves slowly simmered in coconut milk, aromatics, chilies, and optional pork or dried fish. Known for its creamy texture, fragrant coconut aroma, and balanced heat, Laing is proof that simple ingredients can create bold, comforting flavors. Slow cooking and careful handling of the leaves are key.
+            </div>
+
+            <div class="recipe-columns">
+                <div class="ingredients">
+                    <h2>Ingredients</h2>
+                    <ul>
+                        <li>4–5 cups dried taro leaves</li>
+                        <li>2 cups coconut milk</li>
+                        <li>1 cup coconut cream</li>
+                        <li>150g pork belly or dried fish (daing or dilis)</li>
+                        <li>1 thumb ginger, sliced</li>
+                        <li>1 medium onion, chopped</li>
+                        <li>4 cloves garlic, minced</li>
+                        <li>3–5 red chilies (adjust to taste)</li>
+                        <li>Salt and pepper to taste</li>
+                    </ul>
+                </div>
+
+                <div class="instructions">
+                    <h2>Instructions</h2>
+                    <ol>
+                        <li><b>Build the coconut base.</b> In a pot, pour the coconut milk. Add ginger, onion, garlic, and chilies. Simmer gently until aromatic.</li>
+                        <li><b>Add meat or dried fish.</b> Add pork belly or dried fish and cook for 10–15 minutes to infuse flavor.</li>
+                        <li><b>Add taro leaves carefully.</b> Place dried taro leaves on top without stirring. This prevents an itchy texture.</li>
+                        <li><b>Simmer until leaves soften.</b> Lower heat and simmer uncovered for 25–30 minutes until the coconut milk thickens and oils appear.</li>
+                        <li><b>Finish with coconut cream.</b> Pour in coconut cream and simmer for another 10–15 minutes until creamy and rich.</li>
+                        <li><b>Season and serve.</b> Adjust salt and pepper. Serve hot with steamed rice. Optionally top with extra chilies for heat.</li>
+                    </ol>
+                </div>
+            </div>
+
+            <div class="tips-box">
+                <h3>Chef's Tips 👩‍🍳</h3>
+                <p>Avoid stirring the taro leaves until fully softened to prevent itchiness. Use siling labuyo for authentic Bicolano heat. Slow cooking helps release coconut oil for a rich, creamy texture. If using pork, lightly brown it before simmering for deeper flavor. Add extra coconut cream for a silkier sauce.</p>
+            </div>
+
+            <div class="extra-info-container">
+                <div class="nutrition">
+                    <h3>Nutrition (per serving)</h3>
+                    <ul>
+                        <li>Calories: ~480</li>
+                        <li>Protein: 20g</li>
+                        <li>Fat: 38g</li>
+                        <li>Carbohydrates: 16g</li>
+                        <li>Fiber: 4g</li>
+                    </ul>
+                </div>
+
+                <div class="recipe-video">
+                    <h3>Watch How It's Done</h3>
+                    <iframe width="100%" height="250" src="https://www.youtube-nocookie.com/embed/y9k09vX44tA?si=gd2vcP43dmRiYIuN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Kusina Republika. All rights reserved.</p>
+        <div>
+            <a href="index.html">Home</a> |
+            <a href="recipes.html">Recipes</a> |
+            <a href="index.html#about">About</a> |
+            <a href="contact.html">Contact</a>
+        </div>
+    </footer>
+</div>
+</body>
+</html>

@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Kusina Republika | Kare-Kare</title>
+    <link rel="stylesheet" href="css/style.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            font-family: 'Poppins', sans-serif;
+            background-color: #fff5e6;
+        }
+
+        .page-wrapper {
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        main {
+            flex: 1;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 40px auto 0 auto;
+            padding: 0 40px;
+        }
+
+        .breadcrumbs {
+            margin-bottom: 20px;
+        }
+
+        .breadcrumbs a {
+            color: #ff8c42 !important;
+            text-decoration: none;
+        }
+
+        .breadcrumbs a:hover {
+            text-decoration: underline;
+        }
+
+        .hero {
+            position: relative;
+            margin-bottom: 40px;
+            margin-top: 20px;
+        }
+
+        .hero-img {
+            width: 100%;
+            border-radius: 12px;
+        }
+
+        .hero-overlay {
+            position: absolute;
+            top: 0; 
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0,0,0,0.35);
+            border-radius: 12px;
+        }
+
+        .hero-title {
+            position: absolute;
+            bottom: 20px;
+            left: 20px;
+            color: #fff;
+            font-size: 3rem;
+            text-shadow: 0 2px 6px rgba(0,0,0,0.5);
+        }
+
+        .hero-info {
+            margin-top: 15px;
+            font-size: 1rem;
+        }
+
+        .recipe-summary, .tips-box {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 6px 15px rgba(0,0,0,0.1);
+            margin-bottom: 30px;
+        }
+
+        .recipe-columns {
+            display: flex;
+            gap: 40px;
+            flex-wrap: wrap;
+        }
+
+        .ingredients, .instructions {
+            flex: 1 1 45%;
+        }
+
+        .ingredients ul, .instructions ol {
+            margin-left: 20px;
+        }
+
+        .extra-info-container {
+            display: flex;
+            gap: 30px;
+            flex-wrap: wrap;
+            margin-top: 40px;
+            margin-bottom: 60px;
+        }
+
+        .nutrition {
+            background-color: #fff;
+            border: 2px solid #000;
+            border-radius: 12px;
+            padding: 20px;
+            flex: 1;
+            min-width: 300px;
+            box-shadow: 0 6px 15px rgba(0,0,0,0.1);
+        }
+
+        .recipe-video {
+            flex: 1;
+            min-width: 300px;
+        }
+
+        .recipe-video h3 {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <div class="logo">
+        <img src="images/kusinarepublika.png" alt="Kusina Republika Logo">
+    </div>
+    <nav class="header-buttons">
+        <a href="index.html">Home</a>
+        <a href="recipes.html" class="active">Recipes</a>
+        <a href="index.html#about">About</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+</header>
+
+<div class="page-wrapper">
+    <main class="recipe-page">
+        <div class="container">
+
+            <nav class="breadcrumbs">
+                <a href="index.html">Home</a> &gt;
+                <a href="recipes.html">Recipes</a> &gt;
+                <span>Kare-Kare</span>
+            </nav>
+
+            <section class="hero">
+                <img src="images/karekare1.png" class="hero-img" alt="Kare-Kare">
+                <div class="hero-overlay"></div>
+                <h1 class="hero-title">Kare-Kare</h1>
+                <div class="hero-info">
+                    <span>⏱ Prep: 20 mins</span>
+                    <span>🔥 Cook: 2 hours</span>
+                    <span>🍽 Serves: 6 pax</span>
+                </div>
+            </section>
+
+            <div class="recipe-summary">
+                A rich and iconic Filipino stew made with tender oxtail, creamy peanut sauce, and vibrant vegetables. Kare-Kare is traditionally served with bagoong, creating a perfect balance of savory, nutty, and slightly sweet flavors.
+            </div>
+
+            <div class="recipe-columns">
+                <div class="ingredients">
+                    <h2>Ingredients</h2>
+                    <ul>
+                        <li>1 kg oxtail (may combine with beef shank or tripe)</li>
+                        <li>8 cups water</li>
+                        <li>1 medium onion, quartered</li>
+                        <li>1 tsp salt</li>
+                        <li>1 tsp peppercorns</li>
+                        <li>5 tbsp peanut butter</li>
+                        <li>2 tbsp ground roasted peanuts</li>
+                        <li>1 tbsp annatto seeds (soaked in warm water)</li>
+                        <li>1 tbsp cornstarch slurry (optional)</li>
+                        <li>1 medium eggplant, sliced</li>
+                        <li>1 bunch sitaw, cut</li>
+                        <li>1 bundle pechay</li>
+                        <li>1 banana heart, sliced (optional)</li>
+                        <li>5 cloves garlic, minced</li>
+                    </ul>
+                </div>
+
+                <div class="instructions">
+                    <h2>Instructions</h2>
+                    <ol>
+                        <li>Boil oxtail (and optional tripe/shank) with onion, peppercorns, and salt until tender. Reserve broth.</li>
+                        <li>Soak annatto seeds in warm water and strain.</li>
+                        <li>Sauté garlic and onions in oil.</li>
+                        <li>Add peanut butter and ground peanuts, stirring until smooth.</li>
+                        <li>Add 4–5 cups broth and annatto water. Simmer. Add slurry if thicker sauce is desired.</li>
+                        <li>Return oxtail to pot and simmer 15–20 minutes.</li>
+                        <li>Blanch vegetables separately and set aside.</li>
+                        <li>Arrange vegetables on top of stew.</li>
+                        <li>Serve hot with sautéed bagoong and rice.</li>
+                    </ol>
+                </div>
+            </div>
+
+            <div class="tips-box">
+                <h3>Chef’s Tips 👩‍🍳</h3>
+                <p>Toast peanuts before grinding for deeper flavor. Use rice powder instead of cornstarch for a traditional thickener. Blanch vegetables separately to keep their color vibrant.</p>
+            </div>
+
+            <div class="extra-info-container">
+                <div class="nutrition">
+                    <h3>Nutrition (per serving)</h3>
+                    <ul>
+                        <li>Calories: ~550</li>
+                        <li>Protein: 38g</li>
+                        <li>Fat: 36g</li>
+                        <li>Carbohydrates: 18g</li>
+                        <li>Fiber: 4g</li>
+                    </ul>
+                </div>
+
+                <div class="recipe-video">
+                    <h3>Watch How It's Done</h3>
+                    <iframe width="100%" height="250" src="https://www.youtube-nocookie.com/embed/DZ5HpF6B0kw?si=aaIX-yqFaYzjmxf1" frameborder="0" allowfullscreen></iframe>
+                </div>
+            </div>
+
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Kusina Republika. All rights reserved.</p>
+        <div>
+            <a href="index.html">Home</a> |
+            <a href="recipes.html">Recipes</a> |
+            <a href="index.html#about">About</a> |
+            <a href="contact.html">Contact</a>
+        </div>
+    </footer>
+</div>
+
+</body>
+</html>
