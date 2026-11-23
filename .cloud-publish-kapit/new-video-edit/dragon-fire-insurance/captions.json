@@ -1,0 +1,482 @@
+[
+  {
+    "word": "A",
+    "start": -2,
+    "end": 0
+  },
+  {
+    "word": "dragon",
+    "start": 0,
+    "end": 12
+  },
+  {
+    "word": "sold",
+    "start": 12,
+    "end": 21
+  },
+  {
+    "word": "fire",
+    "start": 21,
+    "end": 30
+  },
+  {
+    "word": "insurance",
+    "start": 30,
+    "end": 52
+  },
+  {
+    "word": "for",
+    "start": 52,
+    "end": 57
+  },
+  {
+    "word": "one",
+    "start": 57,
+    "end": 63
+  },
+  {
+    "word": "coin",
+    "start": 63,
+    "end": 73
+  },
+  {
+    "word": "per",
+    "start": 73,
+    "end": 84
+  },
+  {
+    "word": "house.",
+    "start": 84,
+    "end": 102
+  },
+  {
+    "word": "Easy",
+    "start": 102,
+    "end": 109
+  },
+  {
+    "word": "money.",
+    "start": 109,
+    "end": 125
+  },
+  {
+    "word": "He’d",
+    "start": 125,
+    "end": 136
+  },
+  {
+    "word": "just",
+    "start": 136,
+    "end": 139
+  },
+  {
+    "word": "stop",
+    "start": 139,
+    "end": 143
+  },
+  {
+    "word": "breathing",
+    "start": 143,
+    "end": 154
+  },
+  {
+    "word": "fire.",
+    "start": 154,
+    "end": 185
+  },
+  {
+    "word": "The",
+    "start": 185,
+    "end": 190
+  },
+  {
+    "word": "villagers",
+    "start": 190,
+    "end": 205
+  },
+  {
+    "word": "lined",
+    "start": 205,
+    "end": 214
+  },
+  {
+    "word": "up.",
+    "start": 214,
+    "end": 231
+  },
+  {
+    "word": "He",
+    "start": 231,
+    "end": 236
+  },
+  {
+    "word": "insured",
+    "start": 236,
+    "end": 246
+  },
+  {
+    "word": "the",
+    "start": 246,
+    "end": 251
+  },
+  {
+    "word": "bakery,",
+    "start": 251,
+    "end": 264
+  },
+  {
+    "word": "the",
+    "start": 264,
+    "end": 270
+  },
+  {
+    "word": "forge,",
+    "start": 270,
+    "end": 284
+  },
+  {
+    "word": "even",
+    "start": 284,
+    "end": 293
+  },
+  {
+    "word": "a",
+    "start": 293,
+    "end": 295
+  },
+  {
+    "word": "wooden",
+    "start": 295,
+    "end": 312
+  },
+  {
+    "word": "inn.",
+    "start": 312,
+    "end": 326
+  },
+  {
+    "word": "Then",
+    "start": 326,
+    "end": 336
+  },
+  {
+    "word": "an",
+    "start": 336,
+    "end": 343
+  },
+  {
+    "word": "ember",
+    "start": 343,
+    "end": 352
+  },
+  {
+    "word": "burned",
+    "start": 352,
+    "end": 363
+  },
+  {
+    "word": "down",
+    "start": 363,
+    "end": 370
+  },
+  {
+    "word": "an",
+    "start": 370,
+    "end": 373
+  },
+  {
+    "word": "empty",
+    "start": 373,
+    "end": 382
+  },
+  {
+    "word": "shed.",
+    "start": 382,
+    "end": 401
+  },
+  {
+    "word": "Its",
+    "start": 401,
+    "end": 408
+  },
+  {
+    "word": "owner",
+    "start": 408,
+    "end": 414
+  },
+  {
+    "word": "presented",
+    "start": 414,
+    "end": 429
+  },
+  {
+    "word": "his",
+    "start": 429,
+    "end": 434
+  },
+  {
+    "word": "policy.",
+    "start": 434,
+    "end": 455
+  },
+  {
+    "word": "One",
+    "start": 455,
+    "end": 463
+  },
+  {
+    "word": "coin",
+    "start": 463,
+    "end": 473
+  },
+  {
+    "word": "in.",
+    "start": 473,
+    "end": 489
+  },
+  {
+    "word": "A",
+    "start": 489,
+    "end": 491
+  },
+  {
+    "word": "wheelbarrow",
+    "start": 491,
+    "end": 511
+  },
+  {
+    "word": "of",
+    "start": 511,
+    "end": 516
+  },
+  {
+    "word": "gold",
+    "start": 516,
+    "end": 536
+  },
+  {
+    "word": "out.",
+    "start": 536,
+    "end": 554
+  },
+  {
+    "word": "The",
+    "start": 554,
+    "end": 559
+  },
+  {
+    "word": "dragon",
+    "start": 559,
+    "end": 568
+  },
+  {
+    "word": "reread",
+    "start": 568,
+    "end": 576
+  },
+  {
+    "word": "the",
+    "start": 576,
+    "end": 583
+  },
+  {
+    "word": "promise.",
+    "start": 583,
+    "end": 615
+  },
+  {
+    "word": "Any",
+    "start": 615,
+    "end": 622
+  },
+  {
+    "word": "fire.",
+    "start": 622,
+    "end": 655
+  },
+  {
+    "word": "Now",
+    "start": 655,
+    "end": 668
+  },
+  {
+    "word": "he",
+    "start": 668,
+    "end": 670
+  },
+  {
+    "word": "guarded",
+    "start": 670,
+    "end": 685
+  },
+  {
+    "word": "ovens,",
+    "start": 685,
+    "end": 704
+  },
+  {
+    "word": "chased",
+    "start": 704,
+    "end": 713
+  },
+  {
+    "word": "sparks,",
+    "start": 713,
+    "end": 726
+  },
+  {
+    "word": "and",
+    "start": 726,
+    "end": 734
+  },
+  {
+    "word": "slept",
+    "start": 734,
+    "end": 737
+  },
+  {
+    "word": "beside",
+    "start": 737,
+    "end": 741
+  },
+  {
+    "word": "a",
+    "start": 741,
+    "end": 746
+  },
+  {
+    "word": "bucket.",
+    "start": 746,
+    "end": 771
+  },
+  {
+    "word": "Then",
+    "start": 771,
+    "end": 778
+  },
+  {
+    "word": "a",
+    "start": 778,
+    "end": 780
+  },
+  {
+    "word": "child",
+    "start": 780,
+    "end": 789
+  },
+  {
+    "word": "lit",
+    "start": 789,
+    "end": 794
+  },
+  {
+    "word": "one",
+    "start": 794,
+    "end": 803
+  },
+  {
+    "word": "birthday",
+    "start": 803,
+    "end": 815
+  },
+  {
+    "word": "candle.",
+    "start": 815,
+    "end": 843
+  },
+  {
+    "word": "The",
+    "start": 843,
+    "end": 848
+  },
+  {
+    "word": "dragon",
+    "start": 848,
+    "end": 857
+  },
+  {
+    "word": "came",
+    "start": 857,
+    "end": 863
+  },
+  {
+    "word": "charging",
+    "start": 863,
+    "end": 882
+  },
+  {
+    "word": "across",
+    "start": 882,
+    "end": 885
+  },
+  {
+    "word": "the",
+    "start": 885,
+    "end": 890
+  },
+  {
+    "word": "square.",
+    "start": 890,
+    "end": 916
+  },
+  {
+    "word": "The",
+    "start": 916,
+    "end": 921
+  },
+  {
+    "word": "village",
+    "start": 921,
+    "end": 933
+  },
+  {
+    "word": "was",
+    "start": 933,
+    "end": 938
+  },
+  {
+    "word": "insured",
+    "start": 938,
+    "end": 949
+  },
+  {
+    "word": "against",
+    "start": 949,
+    "end": 962
+  },
+  {
+    "word": "fire.",
+    "start": 962,
+    "end": 983
+  },
+  {
+    "word": "The",
+    "start": 983,
+    "end": 988
+  },
+  {
+    "word": "cake",
+    "start": 988,
+    "end": 994
+  },
+  {
+    "word": "wasn’t",
+    "start": 994,
+    "end": 1004
+  },
+  {
+    "word": "insured",
+    "start": 1004,
+    "end": 1015
+  },
+  {
+    "word": "against",
+    "start": 1015,
+    "end": 1026
+  },
+  {
+    "word": "buckets.",
+    "start": 1026,
+    "end": 1047
+  }
+]

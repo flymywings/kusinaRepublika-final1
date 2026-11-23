@@ -1,0 +1,11 @@
+# Approved scriptR2 / filmV7
+
+User approved the revised120-word narration and supplied the Darian take. Existing character designs remain approved. Continue the agreed autonomous production flow; user supplies final continuous audiovisual feedback. Preserve V6 and all old audio.
+
+- [x] Receive/hash source; local word recognition matches approved120words. Prepare193.081WPM narration with20detected pauses/8.9293125seconds and.4seconds of edge guards preserved exactly. Keep source and adjusted takes.
+- [x] Save V6 source snapshot. Anchor the reused semantic scene/acting timeline to26 new word-time points. Make the opening a denial; stage both characters already outside for the shorter light request. Reuse approved designs, clear entrance/counter paths, detail inserts and memory-to-present dissolve.
+- [x] Produce new sound against the semantic-to-new-audio map; only pictured arrival footsteps; keep music at its natural tempo and reduce it during the emotional turn.
+- [x] Check every output frame for continuity/physical clearance, caption integrity and preserved pauses; inspect actual integrated footage samples and revise any material mismatch. At most two focused repair passes before restaging.
+- [x] Render one final2K draft after internal review. Decode, verify intended audio, original hashes and inspect actual final-file samples. Deliver for user normal-speed audiovisual review; no automated listening claim.
+
+Internal review complete within sampled coverage. Two economical full previews and targeted clips were used. The light request was staged closer and the closing pullback starts earlier; semantic interpolation is monotone/smooth. A reviewer identified the obsolete DAILYDEALS stand obscuring both cashier moves; it moved to the far left, its entire store-pass screen exclusion is checked, and the corrected clip was cleared in sampled re-review. Source and actual mapped-frame checks pass. Approved character source is byte-identical toV6. One2K final export completed: 1139frames/37.966667seconds, full decode and intended-mix checks passed. Lead inspected five chronological final-file sheets, two denser arrival/register sheets and seven detail/ending frames. Continuous audiovisual review and final acceptance remain user-owned. Verification: `supermarket-after-hours/proof/v7-export-verification.json`.

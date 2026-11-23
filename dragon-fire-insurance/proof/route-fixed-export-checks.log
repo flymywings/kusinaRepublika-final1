@@ -1,0 +1,58 @@
+[
+  {
+    "id": "DragonHook",
+    "duration": "6.016000",
+    "video": {
+      "codec_name": "h264",
+      "codec_type": "video",
+      "width": 540,
+      "height": 960,
+      "r_frame_rate": "30/1",
+      "nb_frames": "180",
+      "side_data_list": [
+        {}
+      ]
+    },
+    "flags": [
+      "[Parsed_freezedetect_1 @ 000002327cd65a00] lavfi.freezedetect.freeze_start: 2.933333",
+      "[Parsed_freezedetect_1 @ 000002327cd65a00] lavfi.freezedetect.freeze_end: 3.4"
+    ]
+  },
+  {
+    "id": "DragonClaim",
+    "duration": "8.171000",
+    "video": {
+      "codec_name": "h264",
+      "codec_type": "video",
+      "width": 540,
+      "height": 960,
+      "r_frame_rate": "30/1",
+      "nb_frames": "245",
+      "side_data_list": [
+        {}
+      ]
+    },
+    "flags": []
+  },
+  {
+    "id": "DragonEnding",
+    "duration": "9.451000",
+    "video": {
+      "codec_name": "h264",
+      "codec_type": "video",
+      "width": 540,
+      "height": 960,
+      "r_frame_rate": "30/1",
+      "nb_frames": "283",
+      "side_data_list": [
+        {}
+      ]
+    },
+    "flags": [
+      "[Parsed_freezedetect_1 @ 000001b7e04a69c0] lavfi.freezedetect.freeze_start: 1.966667",
+      "[Parsed_freezedetect_1 @ 000001b7e04a69c0] lavfi.freezedetect.freeze_end: 2.366667",
+      "[Parsed_freezedetect_1 @ 000001b7e04a69c0] lavfi.freezedetect.freeze_start: 6.133333",
+      "[Parsed_freezedetect_1 @ 000001b7e04a69c0] lavfi.freezedetect.freeze_end: 6.6"
+    ]
+  }
+]

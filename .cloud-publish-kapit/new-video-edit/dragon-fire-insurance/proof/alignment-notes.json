@@ -1,0 +1,72 @@
+{
+  "recognition": "Local FFmpeg whisper.cpp tiny.en max_len=1",
+  "corrections": [
+    {
+      "index": 46,
+      "recognized": "inn,",
+      "approved": "in."
+    }
+  ],
+  "alignment": "Fifteen approved spoken clauses anchored to fourteen measured gaps; token timing fitted within each speech interval.",
+  "anyFire": "Merged recognition expanded within measured 20.547–21.163s speech interval.",
+  "lastWord": "Recognition end overshoot clamped before actual sound tail.",
+  "silenceGaps": [
+    [
+      3.094083,
+      3.432208
+    ],
+    [
+      5.560271,
+      6.210708
+    ],
+    [
+      7.21525,
+      7.7245
+    ],
+    [
+      10.387229,
+      10.892417
+    ],
+    [
+      12.998667,
+      13.392062
+    ],
+    [
+      14.698458,
+      15.209625
+    ],
+    [
+      16.030917,
+      16.336667
+    ],
+    [
+      17.941042,
+      18.515792
+    ],
+    [
+      19.910438,
+      20.547167
+    ],
+    [
+      21.163354,
+      21.871333
+    ],
+    [
+      25.186458,
+      25.720646
+    ],
+    [
+      27.744062,
+      28.136229
+    ],
+    [
+      30.019604,
+      30.559083
+    ],
+    [
+      32.071354,
+      32.807354
+    ]
+  ],
+  "coverage": "Recognition/transcript and waveform checks; no listening review."
+}

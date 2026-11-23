@@ -1,0 +1,355 @@
+{
+ "film": "Fragrant Flower, cards 2-7 (card 1 is the hook, see HOOK-SHOTLIST.md)",
+ "words": "voice/johnny-take-02/words-v4.json",
+ "fps": 30,
+ "hookEndsOnFrame": 149,
+ "rules": "LOOP.md sections 2 and 5. Mirror only in 5C (reveal) and 7F (ending). Hands are the big dot (cast/b-hands). Every shot starts on a word. Light follows the story: day one late-afternoon gold, next day morning daylight, no night. Merged moves (card 2, 3, 4, 6, 7): one continuous camera move per pair, ids kept from the first shot.",
+ "build": {
+  "proof": [
+   "5A",
+   "5B",
+   "5C",
+   "5D",
+   "5E",
+   "5F"
+  ],
+  "chunkA": [
+   "2A",
+   "2B",
+   "2D",
+   "3A",
+   "3C",
+   "3D",
+   "3E",
+   "4A",
+   "4C",
+   "4E"
+  ],
+  "chunkB": [
+   "6A",
+   "6B",
+   "6C",
+   "7A",
+   "7C",
+   "7D",
+   "7F"
+  ]
+ },
+ "shots": [
+  {
+   "id": "2A",
+   "at": {
+    "line": 3,
+    "word": "is"
+   },
+   "subject": "Rintaro on the street, chest-up from the hook, pulling back to his full height by 'tall'. Hands in pockets, then one to the bag strap. Earring glint on 'pierced'.",
+   "camera": "Pull back and up to a medium, ease to rest",
+   "light": "Afternoon gold, street",
+   "sound": "Street air, earring tick on 'pierced'",
+   "captions": "tall, | pierced,"
+  },
+  {
+   "id": "2B",
+   "at": {
+    "line": 3,
+    "word": "so"
+   },
+   "subject": "Two blurred backs in the foreground stop and stiffen on 'intimidating'. He keeps walking, eyes lowered. THEN: The backs streak out sideways, one drops a satchel and a hand snatches it back. He stops and lets out one breath.",
+   "camera": "Medium, slow push, 4 degree roll THEN: Hold with drift",
+   "light": "Coolest light of the setup to Cool",
+   "sound": "Two scuffs; Quick uneven steps panning away",
+   "risk": "foreground backs; foreground backs, satchel",
+   "captions": "run",
+   "merged": [
+    "2B",
+    "2C"
+   ],
+   "exception": "merged move on purpose: the reference median is 2.93 s per shot (the user accepted this in the hook)"
+  },
+  {
+   "id": "2D",
+   "at": {
+    "line": 4,
+    "word": "when"
+   },
+   "subject": "Dissolve to the shop. In his apron he sets a cake into the case with both hands. Chairs empty. The camera travels to the one occupied table, a tower of plates.",
+   "camera": "Wide, then a travel to the table",
+   "light": "Late-afternoon gold, empty chairs in the light",
+   "sound": "Case hum, one glass clink, no bell",
+   "captions": "cake shop."
+  },
+  {
+   "id": "3A",
+   "at": {
+    "line": 5,
+    "word": "So"
+   },
+   "subject": "She eats steadily, untroubled, fork in hand. Plates climb the frame. THEN: The full nine-plate tower with her whole face above it. Glide across to him wiping a plate; he stops wiping.",
+   "camera": "Medium, rise along the tower to her face THEN: Glide to his medium close-up",
+   "light": "Gold window to Warm cooling as his tunnel closes",
+   "sound": "Fork on plate; A plate set down on 'mountain', the cloth stops",
+   "merged": [
+    "3A",
+    "3B"
+   ],
+   "exception": "merged move on purpose: the reference median is 2.93 s per shot (the user accepted this in the hook)"
+  },
+  {
+   "id": "3C",
+   "at": {
+    "line": 5,
+    "word": "staring"
+   },
+   "subject": "Her face in the hook's frame-0 framing: close, fork held, eyes lift and lock. This is the exact STARE state, no mirror.",
+   "camera": "Push, matched to the hook's frame 0",
+   "light": "Cool grade on her, gold wall",
+   "sound": "The same fork ticks at the same spacing",
+   "captions": "staring."
+  },
+  {
+   "id": "3D",
+   "at": {
+    "line": 6,
+    "word": "him"
+   },
+   "subject": "She turns in 2-3 frames. One hair streak wipes the frame to the door, already swinging with nobody in it.",
+   "camera": "Follow the streak, settle on the doorway",
+   "light": "Smear, then the door in gold",
+   "sound": "Fork drop, chair, bell, three shrinking steps outside",
+   "captions": "door.",
+   "risk": "door swing"
+  },
+  {
+   "id": "3E",
+   "at": {
+    "line": 7,
+    "word": "sure"
+   },
+   "subject": "He sinks behind the case until only his eyes and brow show over it, whole head inside the frame. One blink, breathing.",
+   "camera": "Slow push",
+   "light": "Cool",
+   "sound": "The bell dies away, case hum",
+   "captions": "traumatized"
+  },
+  {
+   "id": "4A",
+   "at": {
+    "line": 8,
+    "word": "But"
+   },
+   "subject": "Next morning, a dip. She waits behind the door glass with the box in both hands; his blurred arm pushes the leaf open; four weighted steps in. THEN: She bows with the box. He starts to raise a hand and stops. On 'insisting' she straightens and holds the box out.",
+   "camera": "Medium-wide, feet visible, drift THEN: Medium two-shot, glide in",
+   "light": "Morning daylight to Morning",
+   "sound": "Bell, hinge, four different contacts; Cloth, one breath",
+   "captions": "back, | insisting",
+   "risk": "walk cycle",
+   "fallback": "DEFAULT: waist-up, she glides in with a body bob and no feet in frame; only build the foot walk if time allows",
+   "merged": [
+    "4A",
+    "4B"
+   ],
+   "exception": "merged move on purpose: the reference median is 2.93 s per shot (the user accepted this in the hook)"
+  },
+  {
+   "id": "4C",
+   "at": {
+    "line": 8,
+    "word": "on"
+   },
+   "subject": "At yesterday's table she pushes the box over, he pushes it back, she pushes it again and keeps her hand on it. Both faces above the table. THEN: He looks from the box to her. His brows lift on 'Wait,'.",
+   "camera": "Medium, high enough for both faces THEN: His close-up, 0.6 percent punch on 'Wait'",
+   "light": "Morning to Cooling",
+   "sound": "Three short slides; Music holds one note",
+   "risk": "box exchange with dot hands",
+   "fallback": "Show only the box moving between two big-dot hands, faces in the next shot",
+   "captions": "Wait,",
+   "merged": [
+    "4C",
+    "4D"
+   ],
+   "exception": "merged move on purpose: the reference median is 2.93 s per shot (the user accepted this in the hook)"
+  },
+  {
+   "id": "4E",
+   "at": {
+    "line": 11,
+    "word": "run"
+   },
+   "subject": "Her face in the hook's frame-0 framing, eyes widening on 'scared'. His reading comes back.",
+   "camera": "Drift into the frame-0 framing",
+   "light": "Warmth drains",
+   "sound": "The room narrows, one tick"
+  },
+  {
+   "id": "5A",
+   "at": {
+    "line": 11,
+    "edge": "end"
+   },
+   "subject": "REWIND, no freeze. The picture slows and reverses at once through the question, the entrance, the streak and the stare, then lands on frame 0.",
+   "camera": "Reversed versions of those moves",
+   "light": "Cold grey, subtle tape tear and scan overlay",
+   "sound": "Accelerating tape whir, reversed bell, chair and clink",
+   "captions": "none",
+   "exception": "the rewind (user rule)"
+  },
+  {
+   "id": "5B",
+   "at": {
+    "line": 12,
+    "word": "from"
+   },
+   "subject": "The first frame equals hook frame 0 (captions off). Then the camera rises past the plates on 'HER'.",
+   "camera": "Rise begins",
+   "light": "Cool",
+   "sound": "A clunk on the landing frame, then the tick, then room",
+   "captions": "HER"
+  },
+  {
+   "id": "5C",
+   "at": {
+    "line": 12,
+    "word": "look"
+   },
+   "subject": "The plates stop hiding her: full cheek, a crumb, a small closed mouth, not a frightened face. The mirror behind her appears for the first time and shows him watching, as an ordinary boy in an apron.",
+   "camera": "Settle higher, drift",
+   "light": "Focus opens, gold spreads from her window",
+   "sound": "Piano opens",
+   "captions": "fear.",
+   "risk": "mirror reflection card"
+  },
+  {
+   "id": "5D",
+   "at": {
+    "line": 13,
+    "word": "No"
+   },
+   "subject": "As she sees him: an ordinary boy in an apron, staring, the cloth in his hand.",
+   "camera": "Over her blurred shoulder",
+   "light": "Warm",
+   "sound": "Soft cloth, low piano"
+  },
+  {
+   "id": "5E",
+   "at": {
+    "line": 13,
+    "word": "before,"
+   },
+   "subject": "Her again. She glances away and back; her hand closes on her collar; the flush starts as 'and her heart was' begins.",
+   "camera": "Hushed push",
+   "light": "Warmest light",
+   "sound": "Music out at the flush"
+  },
+  {
+   "id": "5F",
+   "at": {
+    "line": 15,
+    "word": "POUNDING."
+   },
+   "subject": "Her collar and the fork jump with each beat; eye color opens. Then the camera pulls back past his blurred shoulder.",
+   "camera": "0.6 percent punch and one 4 degree roll on the word, then the pull",
+   "light": "Warm",
+   "sound": "Heartbeat and tick together on the word, then two more beats",
+   "captions": "POUNDING."
+  },
+  {
+   "id": "6A",
+   "at": {
+    "line": 16,
+    "word": "just"
+   },
+   "subject": "Past his blurred shoulder: he has only just found her, and she is already looking. Color and flush fade.",
+   "camera": "Slow pull, no profiles",
+   "light": "Gold",
+   "sound": "Room returns"
+  },
+  {
+   "id": "6B",
+   "at": {
+    "line": 16,
+    "word": "noticed",
+    "nth": 2
+   },
+   "subject": "An earlier day, one plate. She watches him straighten a slice with tongs, with great care, unaware.",
+   "camera": "Dissolve, slow push past her plate",
+   "light": "Pale morning",
+   "sound": "Distant plate, soft piano",
+   "captions": "long before"
+  },
+  {
+   "id": "6C",
+   "at": {
+    "line": 17,
+    "word": "He"
+   },
+   "subject": "Her face in the hook's frame-0 framing again, cool. THEN: Face-matched dissolve: her whole face becomes his whole face, eyes aligned. Blurred backs close in on both sides.",
+   "camera": "Dissolve to the framing, push THEN: Same framing, 0.6 percent punch and 4 degree roll on 'EVERYONE'",
+   "light": "Cool to Cold",
+   "sound": "A single tick; Scuffs from card 2, stopping on 'his.'",
+   "captions": "EVERYONE | his.",
+   "merged": [
+    "6C",
+    "6D"
+   ],
+   "exception": "merged move on purpose: the reference median is 2.93 s per shot (the user accepted this in the hook)"
+  },
+  {
+   "id": "7A",
+   "at": {
+    "line": 18,
+    "word": "Then"
+   },
+   "subject": "Today. She takes her hand off the box and looks up. THEN: She says it plainly. No flush, no big smile. She breathes after 'scary'.",
+   "camera": "Two-shot gliding to her close-up, punch on 'never' THEN: Her close-up, drift",
+   "light": "Morning warming to Warm",
+   "sound": "Piano alone; Almost dry voice",
+   "captions": "scary.",
+   "merged": [
+    "7A",
+    "7B"
+   ],
+   "exception": "merged move on purpose: the reference median is 2.93 s per shot (the user accepted this in the hook)"
+  },
+  {
+   "id": "7C",
+   "at": {
+    "line": 20,
+    "word": "He's"
+   },
+   "subject": "It lands on him. From habit he glances at the door behind him.",
+   "camera": "His close-up, drift, rack to the door and back",
+   "light": "Warm",
+   "sound": "Room"
+  },
+  {
+   "id": "7D",
+   "at": {
+    "line": 20,
+    "word": "his"
+   },
+   "subject": "He steps aside to clear her way out on 'running'. The bell does not ring. THEN: His hand goes to the cloth, then the box, then nowhere.",
+   "camera": "Pull to a medium with the door behind him THEN: Medium, very slow push",
+   "light": "Warm",
+   "sound": "One step; Cloth, a light touch on the box",
+   "captions": "running.",
+   "merged": [
+    "7D",
+    "7E"
+   ],
+   "exception": "merged move on purpose: the reference median is 2.93 s per shot (the user accepted this in the hook)"
+  },
+  {
+   "id": "7F",
+   "at": {
+    "line": 21,
+    "word": "looks"
+   },
+   "subject": "The mirror framing: her whole face in front, the mirror behind. She sits back into yesterday's seat. In the mirror he edges half a step away, then on 'stays' he stops, and stays. Both faces in one picture, both breathing to the last frame. His reflection's eyes settle out at the viewer for the last second.",
+   "camera": "Glide into the framing, drift",
+   "light": "Warm, the opposite of frame 0",
+   "sound": "Room, chair settles on 'stays'",
+   "captions": "stays.",
+   "risk": "mirror reflection card"
+  }
+ ]
+}

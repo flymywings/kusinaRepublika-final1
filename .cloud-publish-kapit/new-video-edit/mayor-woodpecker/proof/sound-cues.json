@@ -1,0 +1,166 @@
+[
+  {
+    "frame": 24,
+    "cue": "Gold pouch lands"
+  },
+  {
+    "frame": 25,
+    "cue": "Gold inside pouch"
+  },
+  {
+    "frame": 44,
+    "cue": "Tap on paper"
+  },
+  {
+    "frame": 141,
+    "cue": "Villager tax coin"
+  },
+  {
+    "frame": 253,
+    "cue": "First peck"
+  },
+  {
+    "frame": 307,
+    "cue": "Mayor adds coins"
+  },
+  {
+    "frame": 316,
+    "cue": "Second coin settles"
+  },
+  {
+    "frame": 350,
+    "cue": "Pouch lifted"
+  },
+  {
+    "frame": 350,
+    "cue": "Boot steps in square"
+  },
+  {
+    "frame": 357,
+    "cue": "Boot steps in square"
+  },
+  {
+    "frame": 364,
+    "cue": "Boot steps in square"
+  },
+  {
+    "frame": 365,
+    "cue": "Wing beat"
+  },
+  {
+    "frame": 371,
+    "cue": "Boot steps in square"
+  },
+  {
+    "frame": 378,
+    "cue": "Boot steps in square"
+  },
+  {
+    "frame": 385,
+    "cue": "Boot steps in square"
+  },
+  {
+    "frame": 387,
+    "cue": "Wing beat"
+  },
+  {
+    "frame": 392,
+    "cue": "Boot steps in square"
+  },
+  {
+    "frame": 399,
+    "cue": "Boot steps in square"
+  },
+  {
+    "frame": 406,
+    "cue": "Boot steps in square"
+  },
+  {
+    "frame": 413,
+    "cue": "Boot steps in square"
+  },
+  {
+    "frame": 417,
+    "cue": "Wing beat"
+  },
+  {
+    "frame": 420,
+    "cue": "Boot steps in square"
+  },
+  {
+    "frame": 427,
+    "cue": "Boot steps in square"
+  },
+  {
+    "frame": 434,
+    "cue": "Boot steps in square"
+  },
+  {
+    "frame": 435,
+    "cue": "Shop door"
+  },
+  {
+    "frame": 441,
+    "cue": "Boot steps in square"
+  },
+  {
+    "frame": 448,
+    "cue": "Boot steps in square"
+  },
+  {
+    "frame": 455,
+    "cue": "Boot steps in square"
+  },
+  {
+    "frame": 462,
+    "cue": "Boot steps in square"
+  },
+  {
+    "frame": 469,
+    "cue": "Boot steps in square"
+  },
+  {
+    "frame": 476,
+    "cue": "Boot steps in square"
+  },
+  {
+    "frame": 489,
+    "cue": "Wing beat"
+  },
+  {
+    "frame": 507,
+    "cue": "Wing beat"
+  },
+  {
+    "frame": 517,
+    "cue": "Bird lands on statue"
+  },
+  {
+    "frame": 532,
+    "cue": "Painted wood cracks"
+  },
+  {
+    "frame": 557,
+    "cue": "Chip lands on cobbles"
+  },
+  {
+    "frame": 562,
+    "cue": "Small chip bounce"
+  },
+  {
+    "frame": 603,
+    "cue": "Carpenter turns chip"
+  },
+  {
+    "frame": 821,
+    "cue": "Gold returned"
+  },
+  {
+    "frame": 833,
+    "cue": "Chain on stone"
+  },
+  {
+    "frame": 867,
+    "cue": "Bird in the nest"
+  }
+]

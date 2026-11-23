@@ -1,0 +1,25 @@
+{
+  "first2K": {
+    "start": {
+      "current_time": "2026-11-18 01:59:36 UTC"
+    },
+    "finishObserved": {
+      "current_time": "2026-11-18 02:03:37 UTC"
+    }
+  },
+  "sharp2K": {
+    "start": {
+      "current_time": "2026-11-18 02:05:08 UTC"
+    },
+    "finishObserved": {
+      "current_time": "2026-11-18 02:14:43 UTC"
+    }
+  },
+  "lowResolutionFrames": 3234,
+  "fullResolutionFramesRendered": 3180,
+  "productionStillRenders": 3,
+  "modelTokens": null,
+  "modelCost": null,
+  "acceptedQuality": "Pending user review",
+  "note": "Render finish times are completion observations; model usage is unavailable. Two full exports: second improves character texture clarity."
+}

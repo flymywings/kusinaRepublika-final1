@@ -1,0 +1,15 @@
+{
+  "take": "../public/audio/darian-source.mp3",
+  "sha256": "1c3991df1f507666db837fe5d41a41fe7041ed174c4eaeafb3d5975561975f86",
+  "duration": 24.4,
+  "segments": [
+    {"name": "hook", "from": 0, "to": 2.7, "at": 0},
+    {"name": "flight, return, apology", "from": 15.8, "to": 25.55, "at": 2.7},
+    {"name": "her side, offer, the line", "from": 25.55, "to": 32.48, "at": 13.45},
+    {"name": "reflection", "from": 32.55, "to": 35.25, "at": 21.45}
+  ],
+  "insertedPauses": [
+    {"from": 12.45, "to": 13.45, "why": "rewind to the same second"},
+    {"from": 20.38, "to": 21.45, "why": "the hold on his face"}
+  ]
+}

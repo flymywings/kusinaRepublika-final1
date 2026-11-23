@@ -1,0 +1,16 @@
+node_modules/
+.audio-deps/
+.reference-tools/
+.diagnostics/
+uv-cache/
+pdfdeps/
+__pycache__/
+*.mp4
+*.whl
+*.zip
+*.pyc
+*.log
+*.npz
+*.npy
+*.trf
+.env*

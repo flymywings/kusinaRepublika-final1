@@ -1,0 +1,35 @@
+{
+  "baseline": {
+    "words": 145,
+    "audioSeconds": 52.34939583333333,
+    "wpm": 166.1910297436575
+  },
+  "output": {
+    "audioSeconds": 49.695,
+    "exportSeconds": 50.34560416666667,
+    "frames": 1511,
+    "wpm": 175.06791427709024,
+    "tempo": 1.073495038075425
+  },
+  "quiet": {
+    "intervals": 26,
+    "durationSeconds": 10.536291666666667,
+    "exactPcmUnchanged": true,
+    "durationsUnchanged": true
+  },
+  "edgeGuards": {
+    "samples": 24960,
+    "durationSeconds": 0.52,
+    "exactPcmPreserved": true
+  },
+  "captions": {
+    "sameWords": true,
+    "count": 145,
+    "finalEndFrame": 1511
+  },
+  "map": {
+    "segments": 104,
+    "monotonic": true,
+    "maxRoundTripFrames": 4.547473508864641e-13
+  }
+}

@@ -1,0 +1,306 @@
+{
+  "project": "fragrant-flower pilot",
+  "updated": "2026-11-23",
+  "stage": "pilot v3 delivered",
+  "status": "Hook B round 1 fixes running on Sonnet high; Astra high reviews next (HOOK-LOOP.md)",
+  "inputs": [
+    {
+      "path": "fragrant-flower/approved/NARRATION.txt",
+      "sha256": "536a58c26f37cb65734e53e2f8b8d3c3ef5d53f130890e97ada15affe90cde38",
+      "state": "verified, locked"
+    },
+    {
+      "path": "production-pipeline-proposal/recovered/ElevenLabs_2026-11-21T05_54_13_Darian - Warm Grounded Storyteller_pvc_s50_sim75_v4.mp3",
+      "sha256": "1c3991df1f507666db837fe5d41a41fe7041ed174c4eaeafb3d5975561975f86",
+      "seconds": 41.6,
+      "state": "verified, rescued from Temp"
+    },
+    {
+      "path": "production-pipeline-proposal/recovered/cloud-v8/fragrant-flower/",
+      "sha256": "9358d66799a0b43a7556349c59a95ae1c567cc71ae83c2c8ffd164775303db68",
+      "state": "verified local: source and image match the approval record"
+    },
+    {
+      "path": "production-pipeline-proposal/recovered/drafts/Fragrant_Flower_First_Draft.mp4",
+      "sha256": "130a487bf9ac7df15846512c51dbc8eafbc63636d69baba15749902c0c24e60e",
+      "state": "verified local, hash matches cloud"
+    },
+    {
+      "path": "production-pipeline-proposal/recovered/drafts/Fragrant_Flower_Draft_2.mp4",
+      "sha256": "d2f2d457d04a3b4a39887f6ab120e05b7fe94bf28fff594b92327b97507dbbf9",
+      "state": "verified local, hash matches cloud"
+    }
+  ],
+  "approvals": [
+    {
+      "item": "narration A",
+      "date": "2026-11-19",
+      "evidence": "okay good, now reference sheet for chars"
+    },
+    {
+      "item": "cast V8",
+      "evidence": "v8 approved",
+      "source": "old cloud chat excerpt"
+    },
+    {
+      "item": "original skin tones",
+      "evidence": "bruh undo that",
+      "source": "old cloud chat excerpt"
+    },
+    {
+      "item": "direction, 24s pilot, Sol recovery",
+      "date": "2026-11-22",
+      "evidence": "go"
+    },
+    {
+      "item": "explore a redraw closer to Rick fundamentals, with room for an own style",
+      "date": "2026-11-22",
+      "evidence": "i want to personally see if you can do a better redrawing ... if you see something that could make us stand out then go ahead"
+    },
+    {
+      "item": "cast style B, replaces V8 for this pilot, with expression revisions",
+      "date": "2026-11-22",
+      "evidence": "B is so much better overall"
+    },
+    {
+      "item": "iris color only at the turn",
+      "date": "2026-11-22",
+      "evidence": "only at the turn"
+    },
+    {
+      "item": "blurred foreground shoulders and backs of heads",
+      "date": "2026-11-22",
+      "evidence": "yes"
+    },
+    {
+      "item": "cafe wardrobe",
+      "date": "2026-11-22",
+      "evidence": "yes"
+    },
+    {
+      "item": "channel scope: anime retellings",
+      "date": "2026-11-22",
+      "evidence": "trying this anime retelling niche for now"
+    },
+    {
+      "item": "model split: Opus cards and one check, one Sonnet at medium builds, script measures, fresh Opus thread for cards",
+      "date": "2026-11-23",
+      "evidence": "sure"
+    },
+    {
+      "item": "hook B (mirror) from SCENE-CARDS.md, hook-only build first",
+      "date": "2026-11-23",
+      "evidence": "sure B"
+    },
+    {
+      "item": "decisions 1A 2A 3A, hook fixes 1-6, Astra high review loop with automatic fixes (hook only, max 3 rounds)",
+      "date": "2026-11-23",
+      "evidence": "you can let astra on high check your work and have a feedback loop ... prioritize a 10/10 hook, 1 A 2 A 3 A, and yes fix 1-6."
+    }
+  ],
+  "pendingApprovals": [
+    "pilot rating 9+ before extending",
+    "script C tagged for Johnny, including 'Yesterday. Her side.'",
+    "new full recording"
+  ],
+  "artifacts": [
+    "INVENTORY.md",
+    "PROPOSAL.md",
+    "SCRIPT-B-proposed.txt",
+    "CODEX-BRIEFS.md",
+    "evidence/",
+    "recovered/",
+    "DRAFT-REVIEW.md",
+    "../shorts/fragrant-flower/cast/redesign/STYLE.md",
+    "../shorts/fragrant-flower/out/style-r4/",
+    "../shorts/fragrant-flower/out/pilot-v2/",
+    "findings/independent-review.md",
+    "../shorts/fragrant-flower/out/pilot-v3/",
+    "voice/audition-johnny-original.mp3",
+    "voice/audition-johnny-faster-setup-original-pauses.mp3",
+    "voice/audition-level-matched-johnny-darian-alex.mp3",
+    "voice/johnny-take-01/",
+    "voice/SCRIPT-D-final.txt",
+    "voice/SCRIPT-D-checks.md",
+    "voice/johnny-take-02/",
+    "SCENE-CARDS-BRIEF.md",
+    "SCENE-CARDS.md",
+    "../shorts/fragrant-flower/out/cast-b4/",
+    "HOOK-BUILD-BRIEF.md",
+    "HOOK-LOOP.md",
+    "HOOK-REVIEW-BRIEF.md"
+  ],
+  "qaFindings": [
+    "DRAFT-REVIEW.md",
+    "INVENTORY.md section 3",
+    "../shorts/fragrant-flower/out/pilot-v2/QA.md",
+    "findings/independent-review.md",
+    "../shorts/fragrant-flower/out/pilot-v3/QA.md",
+    "findings/reference-metrics-audit.md",
+    "voice/johnny-take-02/OPUS-CHECK.md"
+  ],
+  "fixes": [
+    "cast B restraint pass",
+    "cafe rebuilt: muted, window-lit",
+    "pilot defects listed in pilot-v2/QA.md",
+    "pipeline/qa sheet, media repaired and compare written",
+    "pilot v3: all 12 Astra findings, three of five silent-read problems (not retested)",
+    "cast b: Rintaro head ink 4.3/.45 to 3.6/.28. Before and after in shorts/fragrant-flower/out/cast-b3/. The old rig is out/pilot-v3/source/rig.ts",
+    "cast b: Rintaro head ink 3.6/.28 to uniform 2.3, the hair outline weight. Backup and before/after in shorts/fragrant-flower/out/cast-b4/"
+  ],
+  "repairPasses": {
+    "cast restraint": 2,
+    "mortified read": 1,
+    "rewind": 1,
+    "flight": 1,
+    "framing": 2,
+    "fork path": 2,
+    "caption phrase ends": 2,
+    "box grip": 2,
+    "rewind after review": 2
+  },
+  "interventions": [
+    {
+      "date": "2026-11-22",
+      "item": "user supplied V8 zip",
+      "kind": "technical rescue"
+    },
+    {
+      "date": "2026-11-22",
+      "item": "gag faces, glossy eyes and cafe direction rejected as cheesy",
+      "kind": "creative correction"
+    },
+    {
+      "date": "2026-11-23",
+      "item": "slightly too fast right off the hook, picks 1 2 3, frustrated it is taking too long",
+      "kind": "creative correction"
+    },
+    {
+      "date": "2026-11-23",
+      "item": "rintaro's chin outline is a little too thick / i didnt mean to slow down the hook its just the pause in between",
+      "kind": "creative correction"
+    },
+    {
+      "date": "2026-11-23",
+      "item": "chin is still to thick, match to hair outline",
+      "kind": "creative correction"
+    }
+  ],
+  "notReviewed": [
+    "continuous playback",
+    "listening"
+  ],
+  "nextAction": "On Sonnet r1 done: delegate Astra review with HOOK-REVIEW-BRIEF.md; send findings back to the Sonnet thread; stop at no blocker/major or 3 rounds; Opus checks once; user rates",
+  "userRatings": [
+    {
+      "item": "Draft 1 and Draft 2",
+      "rating": 6,
+      "of": 10,
+      "quote": "they jsut have no substance but they followed the flow right"
+    },
+    {
+      "item": "pilot v3",
+      "rating": 7.5,
+      "of": 10,
+      "quote": "its super good 7.5/10, except for issues like her clipping through the door when going inside, no footsteps or like yeah theyre js sliding in side, she walks goofily when shes rushing outside"
+    }
+  ],
+  "target": "10/10 in the user rating",
+  "parked": [
+    "script B"
+  ],
+  "delegations": [
+    {
+      "job": "V8 recovery",
+      "model": "gpt-6.2-sol",
+      "result": "no cloud tools; superseded by the user zip"
+    },
+    {
+      "job": "pipeline/qa tools",
+      "model": "gpt-6.2-sol",
+      "result": "interrupted; finished and tested by Opus, who now owns pipeline/qa"
+    },
+    {
+      "job": "independent review",
+      "model": "gpt-6.2-astra",
+      "result": "done on pilot v2: no blocker, 4 major, 8 minor. The one reserved review is used"
+    },
+    {
+      "job": "johnny take 02 edit and word timing",
+      "model": "claude-sonnet-5-5 medium",
+      "owner": "Sonnet",
+      "clientRequestId": "ff-johnny-take02-edit-1",
+      "state": "done: 57.8 s, three findings listed"
+    }
+  ],
+  "autonomy": {
+    "provisional": true,
+    "attempted": 18,
+    "unassisted": 16,
+    "score": 0.89
+  },
+  "open": [
+    "hook foreground person does not read",
+    "last smile has no visual cause",
+    "silent-read fixes not independently retested",
+    "pilot v3 fails reference ranges for cuts, motion, saturation and contrast; QA has no reference gate. Proposed, not approved"
+  ],
+  "currentCut": {
+    "path": "shorts/fragrant-flower/out/pilot-v3/Fragrant_Flower_Pilot_v3.mp4",
+    "sha256": "8d42375ee99a93d404fdb1bb0ae7049309c962e33ec869c0b508ce1bcca86f8d",
+    "audio": "shorts/fragrant-flower/public/audio/pilot-r3.wav"
+  },
+  "userDirection": [
+    "open the hook on her eyes",
+    "rewind: subtle grey tape overlay, cold tone, reversed picture and reverse sound",
+    "introduce blur, emphasis and depth of field from Ricks fundamentals, not an exact copy",
+    "Opus directs, Sonnet builds, as many agents as needed",
+    "user finds script A a bit weak and asked for new Darian tags",
+    "we need to have a 10/10 hook",
+    "we don't want to keep regenning: check everything before asking for a generation, then fix in the edit",
+    "yup let's completely double down on the hook, do everything we can to make sure it sticks like ricks clips but in our own design",
+    "yup lets completely double down on the hook, do everything we can to make sure it sticks like ricks clips but in our own design",
+    "Short rules (image, 2026-11-23): shots 1.5-2 s, every cut on a word; captions 1-2 words, white, bold, 70% height, never over a face; faces never cut by frame or in bottom 30%; every prop held by a visible hand; nobody frozen, camera always drifts; light follows the story; 15-40 props per shot, no empty skies, made-up words on signs; test still of every shot before the full render"
+  ],
+  "voice": {
+    "leaning": "Johnny Kid - Serious and Calm Narrator 8JVbfL6oEdmuxKn5DK2C, Eleven v4, stability 39, similarity 75",
+    "userWords": [
+      "I think I'm slightly leaning into Johnny Kid more",
+      "yeah its pretty good (on the 1.25x setup speed test)"
+    ],
+    "method": "change speech speed per phrase with atempo, keep or set pauses separately, stay within about 25 percent",
+    "notApprovedYet": "full script, final recording",
+    "licence": "make the final take on a paid plan if it will be monetized",
+    "take01": {
+      "dir": "voice/johnny-take-01/",
+      "fullSource": "ElevenLabs_2026-11-22T19_11_49 full take found in the user's Downloads, never attached in chat",
+      "patch": "user said 'you can pick from either'; chose 19_24_33 (1)",
+      "state": "pending the user's approval by ear",
+      "userNote": "yesterday her side sounds soo low",
+      "v2": {
+        "path": "voice/johnny-take-01/johnny-take-01-edit-v2.mp3",
+        "seconds": 54.43,
+        "change": "nine setup gaps trimmed, stays lifted 2 dB",
+        "evidence": "go ahead"
+      }
+    },
+    "take02": {
+      "master": "voice/johnny-take-02/johnny-take-02-edit-v3.mp3",
+      "words": "voice/johnny-take-02/words-v3.json",
+      "map": "voice/johnny-take-02/edit-map-v3.json",
+      "seconds": 56.225,
+      "rewind": [
+        28.564,
+        29.864
+      ],
+      "pick3": "correct caption word timing at the start of the Sonnet build",
+      "state": "awaiting last listen"
+    }
+  },
+  "scriptFinal": {
+    "path": "voice/SCRIPT-D-final.txt",
+    "checks": "voice/SCRIPT-D-checks.md",
+    "evidence": "okay wait following the bible and all the reference metrics... finalize it. we don't want to keep regenning",
+    "supersedes": "script C, scriptPatchProposed and johnny-take-01 for the new cut"
+  }
+}

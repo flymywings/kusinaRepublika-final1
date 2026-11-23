@@ -1,0 +1,125 @@
+{
+  "input": "C:/Users/Win 10/Downloads/ElevenLabs_2026-11-14T17_50_31_Darian - Warm Grounded Storyteller_pvc_s39_sim75_v4.mp3",
+  "sourceHash": "d7ee8aa5e2be541ad70c039cda527f94dc9b42bde0c399b53e575b7e51ae481a",
+  "targetOverallWPM": 165,
+  "wordCount": 96,
+  "duration": 34.874646,
+  "overallWPM": 165.16296681549113,
+  "WPMBetweenSelectedPauses": 209.87788058757502,
+  "tempo": 1.1727624802912886,
+  "pitchPreserved": true,
+  "pauses": [
+    {
+      "sourceStart": 3.607347,
+      "sourceEnd": 3.93551,
+      "targetSeconds": 0.36,
+      "label": "after opening"
+    },
+    {
+      "sourceStart": 6.419932,
+      "sourceEnd": 7.069592,
+      "targetSeconds": 0.6496599999999999,
+      "label": "after easy-money reasoning"
+    },
+    {
+      "sourceStart": 8.221451,
+      "sourceEnd": 8.740159,
+      "targetSeconds": 0.5187080000000002,
+      "label": "after villagers line up"
+    },
+    {
+      "sourceStart": 11.849456,
+      "sourceEnd": 12.359048,
+      "targetSeconds": 0.5095919999999996,
+      "label": "before shed consequence"
+    },
+    {
+      "sourceStart": 14.811905,
+      "sourceEnd": 15.202109,
+      "targetSeconds": 0.4,
+      "label": "after shed"
+    },
+    {
+      "sourceStart": 16.750113,
+      "sourceEnd": 17.242268,
+      "targetSeconds": 0.49215500000000034,
+      "label": "before payout contrast"
+    },
+    {
+      "sourceStart": 18.18542,
+      "sourceEnd": 18.45873,
+      "targetSeconds": 0.32,
+      "label": "between coin and wheelbarrow"
+    },
+    {
+      "sourceStart": 20.323537,
+      "sourceEnd": 20.840748,
+      "targetSeconds": 0.58,
+      "label": "after payout"
+    },
+    {
+      "sourceStart": 22.463243,
+      "sourceEnd": 22.880045,
+      "targetSeconds": 0.65,
+      "label": "before Any fire"
+    },
+    {
+      "sourceStart": 23.601179,
+      "sourceEnd": 24.073016,
+      "targetSeconds": 0.7,
+      "label": "after Any fire"
+    },
+    {
+      "sourceStart": 27.942812,
+      "sourceEnd": 28.389025,
+      "targetSeconds": 0.55,
+      "label": "before birthday candle"
+    },
+    {
+      "sourceStart": 30.748503,
+      "sourceEnd": 31.097143,
+      "targetSeconds": 0.4,
+      "label": "before charge"
+    },
+    {
+      "sourceStart": 33.28381,
+      "sourceEnd": 33.790816,
+      "targetSeconds": 0.55,
+      "label": "before final pair"
+    },
+    {
+      "sourceStart": 35.541474,
+      "sourceEnd": 35.942041,
+      "targetSeconds": 0.75,
+      "label": "before cake punchline"
+    }
+  ],
+  "filter": "[0:a]asplit=15[s0][s1][s2][s3][s4][s5][s6][s7][s8][s9][s10][s11][s12][s13][s14];[s0]atrim=start=0.000000:end=3.657347,asetpts=PTS-STARTPTS,atempo=1.172762480,aresample=48000,afade=t=in:st=0:d=0.004,afade=t=out:st=3.114574:d=0.004[p0];anullsrc=r=48000:cl=mono,atrim=duration=0.274731,asetpts=PTS-STARTPTS[z0];[s1]atrim=start=3.885510:end=6.469932,asetpts=PTS-STARTPTS,atempo=1.172762480,aresample=48000,afade=t=in:st=0:d=0.004,afade=t=out:st=2.199705:d=0.004[p1];anullsrc=r=48000:cl=mono,atrim=duration=0.564391,asetpts=PTS-STARTPTS[z1];[s2]atrim=start=7.019592:end=8.271451,asetpts=PTS-STARTPTS,atempo=1.172762480,aresample=48000,afade=t=in:st=0:d=0.004,afade=t=out:st=1.063445:d=0.004[p2];anullsrc=r=48000:cl=mono,atrim=duration=0.433439,asetpts=PTS-STARTPTS[z2];[s3]atrim=start=8.690159:end=11.899456,asetpts=PTS-STARTPTS,atempo=1.172762480,aresample=48000,afade=t=in:st=0:d=0.004,afade=t=out:st=2.732528:d=0.004[p3];anullsrc=r=48000:cl=mono,atrim=duration=0.424323,asetpts=PTS-STARTPTS[z3];[s4]atrim=start=12.309048:end=14.861905,asetpts=PTS-STARTPTS,atempo=1.172762480,aresample=48000,afade=t=in:st=0:d=0.004,afade=t=out:st=2.172789:d=0.004[p4];anullsrc=r=48000:cl=mono,atrim=duration=0.314731,asetpts=PTS-STARTPTS[z4];[s5]atrim=start=15.152109:end=16.800113,asetpts=PTS-STARTPTS,atempo=1.172762480,aresample=48000,afade=t=in:st=0:d=0.004,afade=t=out:st=1.401233:d=0.004[p5];anullsrc=r=48000:cl=mono,atrim=duration=0.406886,asetpts=PTS-STARTPTS[z5];[s6]atrim=start=17.192268:end=18.235420,asetpts=PTS-STARTPTS,atempo=1.172762480,aresample=48000,afade=t=in:st=0:d=0.004,afade=t=out:st=0.885483:d=0.004[p6];anullsrc=r=48000:cl=mono,atrim=duration=0.234731,asetpts=PTS-STARTPTS[z6];[s7]atrim=start=18.408730:end=20.373537,asetpts=PTS-STARTPTS,atempo=1.172762480,aresample=48000,afade=t=in:st=0:d=0.004,afade=t=out:st=1.671367:d=0.004[p7];anullsrc=r=48000:cl=mono,atrim=duration=0.494731,asetpts=PTS-STARTPTS[z7];[s8]atrim=start=20.790748:end=22.513243,asetpts=PTS-STARTPTS,atempo=1.172762480,aresample=48000,afade=t=in:st=0:d=0.004,afade=t=out:st=1.464750:d=0.004[p8];anullsrc=r=48000:cl=mono,atrim=duration=0.564731,asetpts=PTS-STARTPTS[z8];[s9]atrim=start=22.830045:end=23.651179,asetpts=PTS-STARTPTS,atempo=1.172762480,aresample=48000,afade=t=in:st=0:d=0.004,afade=t=out:st=0.696171:d=0.004[p9];anullsrc=r=48000:cl=mono,atrim=duration=0.614731,asetpts=PTS-STARTPTS[z9];[s10]atrim=start=24.023016:end=27.992812,asetpts=PTS-STARTPTS,atempo=1.172762480,aresample=48000,afade=t=in:st=0:d=0.004,afade=t=out:st=3.380996:d=0.004[p10];anullsrc=r=48000:cl=mono,atrim=duration=0.464731,asetpts=PTS-STARTPTS[z10];[s11]atrim=start=28.339025:end=30.798503,asetpts=PTS-STARTPTS,atempo=1.172762480,aresample=48000,afade=t=in:st=0:d=0.004,afade=t=out:st=2.093166:d=0.004[p11];anullsrc=r=48000:cl=mono,atrim=duration=0.314731,asetpts=PTS-STARTPTS[z11];[s12]atrim=start=31.047143:end=33.333810,asetpts=PTS-STARTPTS,atempo=1.172762480,aresample=48000,afade=t=in:st=0:d=0.004,afade=t=out:st=1.945813:d=0.004[p12];anullsrc=r=48000:cl=mono,atrim=duration=0.464731,asetpts=PTS-STARTPTS[z12];[s13]atrim=start=33.740816:end=35.591474,asetpts=PTS-STARTPTS,atempo=1.172762480,aresample=48000,afade=t=in:st=0:d=0.004,afade=t=out:st=1.574033:d=0.004[p13];anullsrc=r=48000:cl=mono,atrim=duration=0.664731,asetpts=PTS-STARTPTS[z13];[s14]atrim=start=35.892041:end=38.347750,asetpts=PTS-STARTPTS,atempo=1.172762480,aresample=48000,afade=t=in:st=0:d=0.004,afade=t=out:st=2.089953:d=0.004[p14];[p0][z0][p1][z1][p2][z2][p3][z3][p4][z4][p5][z5][p6][z6][p7][z7][p8][z8][p9][z9][p10][z10][p11][z11][p12][z12][p13][z13][p14]concat=n=29:v=0:a=1[voice]",
+  "verification": {
+    "completeMP3Decode": true,
+    "peakDbFS": -4.3,
+    "detectedPauseSeconds": [
+      0.338125,
+      0.650438,
+      0.50925,
+      0.505188,
+      0.393396,
+      0.511167,
+      0.30575,
+      0.57475,
+      0.636729,
+      0.707979,
+      0.534188,
+      0.392167,
+      0.539479,
+      0.736
+    ],
+    "maxPauseDeltaSeconds": 0.021874999999999978,
+    "listeningReview": false,
+    "transcriptIndependentlyRecognized": false
+  },
+  "hashes": {
+    "wav": "fa0b77a35977ac51fecc1c15fc807cf2676febcf16b88ce08eb0462575a1d0ef",
+    "mp3": "c11ba744623390b01cda893af86129cba2c6421a797d491f16f18a75adcdafa8"
+  }
+}

@@ -1,0 +1,30 @@
+[aist#0:0/pcm_s16le @ 00000123217cd780] Guessed Channel Layout: stereo
+Input #0, wav, from 'diamond-field-v3/public/mix-paced.wav':
+  Metadata:
+    encoder         : Lavf63.1.102
+  Duration: 00:00:25.39, bitrate: 1536 kb/s
+  Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 48000 Hz, stereo, s16, 1536 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (pcm_s16le (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'NUL':
+  Metadata:
+    encoder         : Lavf63.1.102
+  Stream #0:0: Audio: pcm_s16le, 192000 Hz, stereo, s16, 6144 kb/s
+    Metadata:
+      encoder         : Lavc63.1.102 pcm_s16le
+[Parsed_loudnorm_0 @ 000001231fcb6480] 
+{
+	"input_i" : "-16.84",
+	"input_tp" : "-1.41",
+	"input_lra" : "1.10",
+	"input_thresh" : "-26.99",
+	"output_i" : "-15.96",
+	"output_tp" : "-1.20",
+	"output_lra" : "1.00",
+	"output_thresh" : "-26.11",
+	"normalization_type" : "dynamic",
+	"target_offset" : "-0.04"
+}
+[out#0/null @ 000001231fc7b2c0] video:0KiB audio:19041KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:00:25.40 bitrate=N/A speed=  37x elapsed=0:00:00.68    

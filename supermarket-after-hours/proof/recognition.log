@@ -1,0 +1,20 @@
+[aist#0:0/pcm_s16le @ 000002a55596d480] Guessed Channel Layout: mono
+Input #0, wav, from 'supermarket-after-hours/public/voice.wav':
+  Metadata:
+    encoder         : Lavf63.1.102
+  Duration: 00:00:52.35, bitrate: 768 kb/s
+  Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 48000 Hz, mono, s16, 768 kb/s
+[Parsed_whisper_0 @ 000002a55592e380] Whisper filter initialized: model: C:/Users/WIN10~1/AppData/Local/Temp/shore-ggml-tiny.en-q5_1.bin lang: en queue: 60000 ms
+Stream mapping:
+  Stream #0:0 -> #0:0 (pcm_s16le (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+[Parsed_whisper_0 @ 000002a55595a3c0] Whisper filter initialized: model: C:/Users/WIN10~1/AppData/Local/Temp/shore-ggml-tiny.en-q5_1.bin lang: en queue: 60000 ms
+Output #0, null, to 'NUL':
+  Metadata:
+    encoder         : Lavf63.1.102
+  Stream #0:0: Audio: pcm_s16le, 16000 Hz, 1 channels, s16, 256 kb/s
+    Metadata:
+      encoder         : Lavc63.1.102 pcm_s16le
+[Parsed_whisper_0 @ 000002a55595a3c0] run transcription at 0 ms, 837590/837590 samples (52.35 seconds)...
+[out#0/null @ 000002a55590b3c0] video:0KiB audio:1636KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:00:52.34 bitrate=N/A speed=  16x elapsed=0:00:03.27    

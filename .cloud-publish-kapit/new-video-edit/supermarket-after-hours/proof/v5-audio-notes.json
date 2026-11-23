@@ -1,0 +1,303 @@
+{
+  "frames": 1511,
+  "sampleRate": 48000,
+  "channels": 2,
+  "samplesPerChannel": 2417600,
+  "duration": 50.36666666666667,
+  "voice": {
+    "file": "public/voice-175.wav",
+    "gainDb": 0,
+    "paddedOnlyAtEnd": true,
+    "sourceVoiceGainUnchanged": true
+  },
+  "music": {
+    "file": "public/music-175.wav",
+    "source": "public/music.wav",
+    "tempo": 1.05228326,
+    "endFadeSeconds": 0.55,
+    "emotionalTurnSourceFrames": [
+      1050,
+      1165
+    ],
+    "emotionalTurnOutputFrames": [
+      996.131,
+      1106.472
+    ],
+    "lullLevel": 0.68
+  },
+  "sfx": {
+    "file": "public/sfx-175.wav",
+    "footsteps": [
+      {
+        "sourceFrame": 273.8244,
+        "outputFrame": 259.716,
+        "foot": 0,
+        "contact": [
+          -0.83,
+          0.028000000000000004,
+          -0.11428571428571432
+        ],
+        "surface": "threshold/exterior",
+        "gain": 0.06
+      },
+      {
+        "sourceFrame": 286.4989,
+        "outputFrame": 271.5803,
+        "foot": 1,
+        "contact": [
+          -0.57,
+          0.028000000000000004,
+          -0.6285714285714287
+        ],
+        "surface": "dry interior",
+        "gain": 0.073
+      },
+      {
+        "sourceFrame": 299.1733,
+        "outputFrame": 283.79,
+        "foot": 0,
+        "contact": [
+          -0.83,
+          0.028000000000000004,
+          -1.1428571428571432
+        ],
+        "surface": "dry interior",
+        "gain": 0.073
+      },
+      {
+        "sourceFrame": 311.8478,
+        "outputFrame": 295.6635,
+        "foot": 1,
+        "contact": [
+          -0.57,
+          0.028000000000000004,
+          -1.6571428571428575
+        ],
+        "surface": "dry interior",
+        "gain": 0.073
+      },
+      {
+        "sourceFrame": 324.5222,
+        "outputFrame": 307.5371,
+        "foot": 0,
+        "contact": [
+          -0.83,
+          0.028000000000000004,
+          -2.1714285714285717
+        ],
+        "surface": "dry interior",
+        "gain": 0.073
+      },
+      {
+        "sourceFrame": 337.1967,
+        "outputFrame": 319.7079,
+        "foot": 1,
+        "contact": [
+          -0.57,
+          0.028000000000000004,
+          -2.6857142857142864
+        ],
+        "surface": "dry interior",
+        "gain": 0.073
+      },
+      {
+        "sourceFrame": 349.8711,
+        "outputFrame": 332.2691,
+        "foot": 0,
+        "contact": [
+          -0.83,
+          0.028000000000000004,
+          -3.2
+        ],
+        "surface": "dry interior",
+        "gain": 0.073
+      },
+      {
+        "sourceFrame": 364.8168,
+        "outputFrame": 346.2453,
+        "foot": 1,
+        "contact": [
+          -0.57,
+          0.028000000000000004,
+          -3.2
+        ],
+        "surface": "dry interior",
+        "gain": 0.073
+      },
+      {
+        "sourceFrame": 598.9412,
+        "outputFrame": 568.947,
+        "foot": 0,
+        "contact": [
+          7.341428571428571,
+          0.002,
+          -2.9857142857142853
+        ],
+        "surface": "dry interior",
+        "gain": 0.073
+      },
+      {
+        "sourceFrame": 604.1325,
+        "outputFrame": 573.7855,
+        "foot": 1,
+        "contact": [
+          7.722857142857142,
+          0.002,
+          -3.47142857142857
+        ],
+        "surface": "dry interior",
+        "gain": 0.073
+      },
+      {
+        "sourceFrame": 609.3237,
+        "outputFrame": 578.624,
+        "foot": 0,
+        "contact": [
+          7.5842857142857145,
+          0.002,
+          -3.9571428571428577
+        ],
+        "surface": "dry interior",
+        "gain": 0.073
+      },
+      {
+        "sourceFrame": 614.5149,
+        "outputFrame": 583.4626,
+        "foot": 1,
+        "contact": [
+          7.965714285714285,
+          0.002,
+          -4.442857142857145
+        ],
+        "surface": "dry interior",
+        "gain": 0.073
+      },
+      {
+        "sourceFrame": 619.7062,
+        "outputFrame": 588.3011,
+        "foot": 0,
+        "contact": [
+          7.827142857142857,
+          0.002,
+          -4.928571428571432
+        ],
+        "surface": "dry interior",
+        "gain": 0.073
+      },
+      {
+        "sourceFrame": 624.8974,
+        "outputFrame": 593.1396,
+        "foot": 1,
+        "contact": [
+          8.20857142857143,
+          0.002,
+          -5.4142857142857155
+        ],
+        "surface": "dry interior",
+        "gain": 0.073
+      },
+      {
+        "sourceFrame": 630.0886,
+        "outputFrame": 597.9782,
+        "foot": 0,
+        "contact": [
+          8.069999999999999,
+          0.002,
+          -5.9
+        ],
+        "surface": "dry interior",
+        "gain": 0.073
+      },
+      {
+        "sourceFrame": 636.1868,
+        "outputFrame": 603.6621,
+        "foot": 1,
+        "contact": [
+          8.33,
+          0.002,
+          -5.9
+        ],
+        "surface": "dry interior",
+        "gain": 0.073
+      }
+    ],
+    "lighter": {
+      "sourceFrame": 660,
+      "outputFrame": 625.857,
+      "sourceWindowSeconds": [
+        0.12,
+        0.45
+      ],
+      "impactOffsetSeconds": 0.07
+    },
+    "ambience": {
+      "source": "0578.mp3",
+      "sourceWindowSeconds": [
+        12,
+        20.39122916666667
+      ],
+      "outputSourceFrames": [
+        252,
+        517
+      ],
+      "outputWindowSeconds": [
+        7.9762,
+        16.3675
+      ],
+      "centeredMono": true,
+      "gain": 0.092
+    },
+    "licenses": [
+      {
+        "file": "public/sfx-source/0514.mp3",
+        "creator": "Joseph Sardin",
+        "title": "Footsteps, Shoe on Concrete",
+        "url": "https://bigsoundbank.com/footsteps-shoe-on-concrete-s0514.html",
+        "license": "CC0 / public-domain equivalent; attribution not required"
+      },
+      {
+        "file": "public/sfx-source/2131.mp3",
+        "creator": "Joseph Sardin",
+        "title": "Cigarette, Ignition",
+        "url": "https://bigsoundbank.com/cigarette-ignition-s2131.html",
+        "license": "CC0 / public-domain equivalent; attribution not required"
+      },
+      {
+        "file": "public/sfx-source/0578.mp3",
+        "creator": "Joseph Sardin",
+        "title": "Supermarket",
+        "url": "https://bigsoundbank.com/supermarket-s0578.html",
+        "license": "CC0 / public-domain equivalent; attribution not required"
+      }
+    ]
+  },
+  "finalMix": {
+    "file": "public/mix-175.wav",
+    "voiceGainConstant": true,
+    "voiceBusGainDb": 0,
+    "master": "Two-pass FFmpeg loudnorm; I=-16.6 LUFS, TP=-1.5 dBTP, LRA target20; dynamic peak control applied only as needed.",
+    "premaster": {
+      "integratedLufs": -21.31,
+      "truePeakDbfs": -4.47
+    },
+    "integratedLufs": -16.6,
+    "truePeakDbfs": -1.5,
+    "samplePeakDbfs": -1.5,
+    "rmsDbfs": -20.107,
+    "preLimitPeak": 0.5956125855445862
+  },
+  "verification": {
+    "actualDurationSeconds": 50.36666666666667,
+    "exactFrames": 1511,
+    "sourceQuietPcmAndDurations": "inherited unchanged from voice-175.wav",
+    "noSfxEventsDuringMappedSourceFrames": [
+      1050,
+      1165
+    ],
+    "emotionalTurnOutputFrames": [
+      996.131,
+      1106.472
+    ],
+    "listening": "Not verified by listening"
+  }
+}

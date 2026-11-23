@@ -1,0 +1,757 @@
+[
+ {
+  "frame": 0,
+  "shot": "1A-1B",
+  "faces": [
+   {
+    "id": "her",
+    "box": {
+     "u0": 0.20895835802916385,
+     "u1": 0.6182311667778607,
+     "v0": 0.34631580999085687,
+     "v1": 0.5508095889814639
+    },
+    "inside": true,
+    "above70": true
+   },
+   {
+    "id": "his reflection",
+    "box": {
+     "u0": 0.35429054696402706,
+     "u1": 0.8038248862135728,
+     "v0": 0.14550582179860116,
+     "v1": 0.3858743295827437
+    },
+    "inside": true,
+    "above70": true,
+    "inGlass": true
+   }
+  ],
+  "caption": null,
+  "props": {
+   "count": 34,
+   "ids": [
+    "mirror with walnut frame",
+    "reflected lamp",
+    "reflected window",
+    "reflected display case",
+    "reflected cakes",
+    "reflected chairs",
+    "her reflected hair",
+    "wall frame",
+    "near cup",
+    "near plate with fork",
+    "cake stand",
+    "jar shelf",
+    "bud vase",
+    "booth backs",
+    "long table",
+    "teacup",
+    "saucer",
+    "sugar pot",
+    "menu stand",
+    "salt",
+    "pepper",
+    "foreground cup and saucer",
+    "plate stack 1",
+    "plate stack 2",
+    "plate stack 3",
+    "plate stack 4",
+    "plate stack 5",
+    "plate stack 6",
+    "cake slice 1",
+    "cake slice 2",
+    "cake slice 3",
+    "cake slice 4",
+    "water glass",
+    "fork"
+   ]
+  },
+  "words": 0,
+  "pitch": 1.4
+ },
+ {
+  "frame": 26,
+  "shot": "1A-1B",
+  "faces": [
+   {
+    "id": "her",
+    "box": {
+     "u0": 0.1995413227111162,
+     "u1": 0.6341767203892494,
+     "v0": 0.3317087124956033,
+     "v1": 0.5488823998882988
+    },
+    "inside": true,
+    "above70": true
+   },
+   {
+    "id": "his reflection",
+    "box": {
+     "u0": 0.35394910193697876,
+     "u1": 0.8267798687463492,
+     "v0": 0.12373428845805234,
+     "v1": 0.3766011505987415
+    },
+    "inside": true,
+    "above70": true,
+    "inGlass": true
+   }
+  ],
+  "caption": {
+   "word": "terrified",
+   "overlapsFace": false,
+   "box": {
+    "u0": 0.30148148148148146,
+    "u1": 0.6985185185185185,
+    "v0": 0.6733333333333333,
+    "v1": 0.7266666666666666
+   }
+  },
+  "props": {
+   "count": 33,
+   "ids": [
+    "mirror with walnut frame",
+    "reflected lamp",
+    "reflected window",
+    "reflected display case",
+    "reflected cakes",
+    "reflected chairs",
+    "her reflected hair",
+    "wall frame",
+    "near cup",
+    "near plate with fork",
+    "cake stand",
+    "jar shelf",
+    "bud vase",
+    "booth backs",
+    "long table",
+    "teacup",
+    "saucer",
+    "sugar pot",
+    "menu stand",
+    "salt",
+    "pepper",
+    "plate stack 1",
+    "plate stack 2",
+    "plate stack 3",
+    "plate stack 4",
+    "plate stack 5",
+    "plate stack 6",
+    "cake slice 1",
+    "cake slice 2",
+    "cake slice 3",
+    "cake slice 4",
+    "water glass",
+    "fork"
+   ]
+  },
+  "words": 1,
+  "pitch": 1.4
+ },
+ {
+  "frame": 54,
+  "shot": "1A-1B",
+  "faces": [
+   {
+    "id": "her",
+    "box": {
+     "u0": 0.1262456442939907,
+     "u1": 0.6050204379999679,
+     "v0": 0.33193930595463494,
+     "v1": 0.5710735387002731
+    },
+    "inside": true,
+    "above70": true
+   },
+   {
+    "id": "his reflection",
+    "box": {
+     "u0": 0.306536181477125,
+     "u1": 0.8188908268851611,
+     "v0": 0.10522639292201891,
+     "v1": 0.37921764530649404
+    },
+    "inside": true,
+    "above70": true,
+    "inGlass": true
+   }
+  ],
+  "caption": {
+   "word": "face...",
+   "overlapsFace": false,
+   "box": {
+    "u0": 0.3414814814814815,
+    "u1": 0.6585185185185185,
+    "v0": 0.6733333333333333,
+    "v1": 0.7266666666666666
+   }
+  },
+  "props": {
+   "count": 28,
+   "ids": [
+    "mirror with walnut frame",
+    "reflected lamp",
+    "reflected window",
+    "reflected display case",
+    "reflected cakes",
+    "reflected chairs",
+    "her reflected hair",
+    "wall frame",
+    "near cup",
+    "near plate with fork",
+    "cake stand",
+    "jar shelf",
+    "booth backs",
+    "long table",
+    "sugar pot",
+    "menu stand",
+    "plate stack 1",
+    "plate stack 2",
+    "plate stack 3",
+    "plate stack 4",
+    "plate stack 5",
+    "plate stack 6",
+    "cake slice 1",
+    "cake slice 2",
+    "cake slice 3",
+    "cake slice 4",
+    "water glass",
+    "fork"
+   ]
+  },
+  "words": 1,
+  "pitch": 1.4
+ },
+ {
+  "frame": 72,
+  "shot": "1A-1B",
+  "faces": [
+   {
+    "id": "her",
+    "box": {
+     "u0": 0.12655556204343804,
+     "u1": 0.6440156570031124,
+     "v0": 0.34616424840242455,
+     "v1": 0.6044669365710151
+    },
+    "inside": true,
+    "above70": true
+   },
+   {
+    "id": "his reflection",
+    "box": {
+     "u0": 0.31861694219541015,
+     "u1": 0.8645227485231338,
+     "v0": 0.10541340210720662,
+     "v1": 0.39725329706826007
+    },
+    "inside": true,
+    "above70": true,
+    "inGlass": true
+   }
+  ],
+  "caption": {
+   "word": "then",
+   "overlapsFace": false,
+   "box": {
+    "u0": 0.4014814814814815,
+    "u1": 0.5985185185185184,
+    "v0": 0.6733333333333333,
+    "v1": 0.7266666666666666
+   }
+  },
+  "props": {
+   "count": 29,
+   "ids": [
+    "mirror with walnut frame",
+    "reflected lamp",
+    "reflected window",
+    "reflected display case",
+    "reflected cakes",
+    "reflected chairs",
+    "her reflected hair",
+    "wall frame",
+    "near cup",
+    "near plate with fork",
+    "cake stand",
+    "jar shelf",
+    "booth backs",
+    "long table",
+    "sugar pot",
+    "menu stand",
+    "plate stack 1",
+    "plate stack 2",
+    "plate stack 3",
+    "plate stack 4",
+    "plate stack 5",
+    "plate stack 6",
+    "cake slice 1",
+    "cake slice 2",
+    "cake slice 3",
+    "cake slice 4",
+    "water glass",
+    "fork",
+    "small ball cup"
+   ]
+  },
+  "words": 1,
+  "pitch": 1.4
+ },
+ {
+  "frame": 75,
+  "shot": "1B-1C",
+  "faces": [
+   {
+    "id": "her",
+    "box": {
+     "u0": 0.14135953941885065,
+     "u1": 0.6624104246415937,
+     "v0": 0.34964829542275633,
+     "v1": 0.6097190651730102
+    },
+    "inside": true,
+    "above70": true
+   },
+   {
+    "id": "his reflection",
+    "box": {
+     "u0": 0.331689374894761,
+     "u1": 0.8806665063991488,
+     "v0": 0.10664161323128979,
+     "v1": 0.40010855044179994
+    },
+    "inside": true,
+    "above70": true,
+    "inGlass": true
+   }
+  ],
+  "caption": {
+   "word": "then",
+   "overlapsFace": false,
+   "box": {
+    "u0": 0.4014814814814815,
+    "u1": 0.5985185185185184,
+    "v0": 0.6733333333333333,
+    "v1": 0.7266666666666666
+   }
+  },
+  "props": {
+   "count": 28,
+   "ids": [
+    "mirror with walnut frame",
+    "reflected lamp",
+    "reflected window",
+    "reflected display case",
+    "reflected cakes",
+    "reflected chairs",
+    "her reflected hair",
+    "wall frame",
+    "near plate with fork",
+    "cake stand",
+    "jar shelf",
+    "booth backs",
+    "long table",
+    "sugar pot",
+    "menu stand",
+    "plate stack 1",
+    "plate stack 2",
+    "plate stack 3",
+    "plate stack 4",
+    "plate stack 5",
+    "plate stack 6",
+    "cake slice 1",
+    "cake slice 2",
+    "cake slice 3",
+    "cake slice 4",
+    "water glass",
+    "fork",
+    "small ball cup"
+   ]
+  },
+  "words": 1,
+  "pitch": 1.4
+ },
+ {
+  "frame": 76,
+  "shot": "1B-1C",
+  "faces": [
+   {
+    "id": "her",
+    "box": {
+     "u0": 0.14586993213730376,
+     "u1": 0.6681282497491736,
+     "v0": 0.3503052529882754,
+     "v1": 0.6109728594683241
+    },
+    "inside": true,
+    "above70": true
+   },
+   {
+    "id": "his reflection",
+    "box": {
+     "u0": 0.33569843154138757,
+     "u1": 0.8857077472713406,
+     "v0": 0.10651110395176888,
+     "v1": 0.40052762812454457
+    },
+    "inside": true,
+    "above70": true,
+    "inGlass": true
+   }
+  ],
+  "caption": {
+   "word": "then",
+   "overlapsFace": false,
+   "box": {
+    "u0": 0.4014814814814815,
+    "u1": 0.5985185185185184,
+    "v0": 0.6733333333333333,
+    "v1": 0.7266666666666666
+   }
+  },
+  "props": {
+   "count": 28,
+   "ids": [
+    "mirror with walnut frame",
+    "reflected lamp",
+    "reflected window",
+    "reflected display case",
+    "reflected cakes",
+    "reflected chairs",
+    "her reflected hair",
+    "wall frame",
+    "near plate with fork",
+    "cake stand",
+    "jar shelf",
+    "booth backs",
+    "long table",
+    "sugar pot",
+    "menu stand",
+    "plate stack 1",
+    "plate stack 2",
+    "plate stack 3",
+    "plate stack 4",
+    "plate stack 5",
+    "plate stack 6",
+    "cake slice 1",
+    "cake slice 2",
+    "cake slice 3",
+    "cake slice 4",
+    "water glass",
+    "fork",
+    "small ball cup"
+   ]
+  },
+  "words": 1,
+  "pitch": 1.4
+ },
+ {
+  "frame": 114,
+  "shot": "1B-1C",
+  "faces": [
+   {
+    "id": "her",
+    "box": {
+     "u0": 0.15466599372940132,
+     "u1": 0.5738060732538466,
+     "v0": 0.35335265128312987,
+     "v1": 0.5531537178402125
+    },
+    "inside": true,
+    "above70": true
+   },
+   {
+    "id": "his reflection",
+    "box": {
+     "u0": 0.30776719556813026,
+     "u1": 0.7756414467548245,
+     "v0": 0.09642424340353772,
+     "v1": 0.3463129271067156
+    },
+    "inside": true,
+    "above70": true,
+    "inGlass": true
+   }
+  ],
+  "caption": {
+   "word": "him cake.",
+   "overlapsFace": false,
+   "box": {
+    "u0": 0.30148148148148146,
+    "u1": 0.6985185185185185,
+    "v0": 0.6733333333333333,
+    "v1": 0.7266666666666666
+   }
+  },
+  "props": {
+   "count": 21,
+   "ids": [
+    "mirror with walnut frame",
+    "reflected lamp",
+    "reflected window",
+    "reflected display case",
+    "reflected cakes",
+    "reflected chairs",
+    "her reflected hair",
+    "wall frame",
+    "near plate with fork",
+    "small frame",
+    "cake stand",
+    "jar shelf",
+    "booth backs",
+    "long table",
+    "sugar pot",
+    "menu stand",
+    "pepper",
+    "coin 1",
+    "coin 2",
+    "slice box",
+    "small ball cup"
+   ]
+  },
+  "words": 2,
+  "pitch": 15.169321802457898
+ },
+ {
+  "frame": 123,
+  "shot": "1B-1C",
+  "faces": [
+   {
+    "id": "her",
+    "box": {
+     "u0": 0.19297021757057436,
+     "u1": 0.6134245874045663,
+     "v0": 0.344752091357015,
+     "v1": 0.544634380305723
+    },
+    "inside": true,
+    "above70": true
+   },
+   {
+    "id": "his reflection",
+    "box": {
+     "u0": 0.3405625296779847,
+     "u1": 0.8111127557202786,
+     "v0": 0.08111917847732941,
+     "v1": 0.3328642227965055
+    },
+    "inside": true,
+    "above70": true,
+    "inGlass": true
+   }
+  ],
+  "caption": null,
+  "props": {
+   "count": 25,
+   "ids": [
+    "mirror with walnut frame",
+    "reflected lamp",
+    "reflected window",
+    "reflected display case",
+    "reflected cakes",
+    "reflected chairs",
+    "her reflected hair",
+    "wall frame",
+    "near plate with fork",
+    "small frame",
+    "cake stand",
+    "jar shelf",
+    "bud vase",
+    "booth backs",
+    "long table",
+    "teacup",
+    "saucer",
+    "sugar pot",
+    "menu stand",
+    "salt",
+    "pepper",
+    "coin 1",
+    "coin 2",
+    "slice box",
+    "small ball cup"
+   ]
+  },
+  "words": 0,
+  "pitch": 15.999169321802457
+ },
+ {
+  "frame": 148,
+  "shot": "1B-1C",
+  "faces": [
+   {
+    "id": "her",
+    "box": {
+     "u0": 0.13809578745223378,
+     "u1": 0.5860625871302616,
+     "v0": 0.349975687679036,
+     "v1": 0.5619820528047139
+    },
+    "inside": true,
+    "above70": true
+   },
+   {
+    "id": "his reflection",
+    "box": {
+     "u0": 0.3022456012125393,
+     "u1": 0.7984440112047017,
+     "v0": 0.07619750177556345,
+     "v1": 0.3411268287845598
+    },
+    "inside": true,
+    "above70": true,
+    "inGlass": true
+   }
+  ],
+  "caption": {
+   "word": "Rintaro",
+   "overlapsFace": false,
+   "box": {
+    "u0": 0.3414814814814815,
+    "u1": 0.6585185185185185,
+    "v0": 0.6733333333333333,
+    "v1": 0.7266666666666666
+   }
+  },
+  "props": {
+   "count": 20,
+   "ids": [
+    "mirror with walnut frame",
+    "reflected lamp",
+    "reflected window",
+    "reflected display case",
+    "reflected cakes",
+    "reflected chairs",
+    "her reflected hair",
+    "wall frame",
+    "near plate with fork",
+    "small frame",
+    "cake stand",
+    "jar shelf",
+    "booth backs",
+    "long table",
+    "sugar pot",
+    "menu stand",
+    "coin 1",
+    "coin 2",
+    "slice box",
+    "small ball cup"
+   ]
+  },
+  "words": 1,
+  "pitch": 15.999999999999998
+ },
+ {
+  "frame": 149,
+  "shot": "2A",
+  "faces": [
+   {
+    "id": "his real face",
+    "box": {
+     "u0": 0.3054904038305575,
+     "u1": 0.7838342552972383,
+     "v0": 0.08660307852847288,
+     "v1": 0.3422981540418285
+    },
+    "inside": true,
+    "above70": true
+   }
+  ],
+  "caption": {
+   "word": "is",
+   "overlapsFace": false,
+   "box": {
+    "u0": 0.4414814814814815,
+    "u1": 0.5585185185185185,
+    "v0": 0.6733333333333333,
+    "v1": 0.7266666666666666
+   }
+  },
+  "props": {
+   "count": 17,
+   "ids": [
+    "cafe awning",
+    "cafe window",
+    "pot",
+    "step box",
+    "jar shelf inside",
+    "interior wall frame",
+    "wall lantern",
+    "notice board",
+    "second table inside",
+    "chairs inside",
+    "plant inside",
+    "kitchen shelf jars",
+    "wall frames inside",
+    "planter 3",
+    "pendant lamp inside",
+    "menu board inside",
+    "back building"
+   ]
+  },
+  "words": 1,
+  "pitch": 0
+ },
+ {
+  "frame": 175,
+  "shot": "2A",
+  "faces": [
+   {
+    "id": "his real face",
+    "box": {
+     "u0": 0.37037475810075365,
+     "u1": 0.6414590954501512,
+     "v0": 0.16284235851629203,
+     "v1": 0.30774843370992366
+    },
+    "inside": true,
+    "above70": true
+   }
+  ],
+  "caption": {
+   "word": "blond,",
+   "overlapsFace": false,
+   "box": {
+    "u0": 0.3614814814814815,
+    "u1": 0.6385185185185185,
+    "v0": 0.6733333333333333,
+    "v1": 0.7266666666666666
+   }
+  },
+  "props": {
+   "count": 28,
+   "ids": [
+    "cafe awning",
+    "cafe sign Wennavi Corsel",
+    "cafe window",
+    "sign board Oskarel",
+    "bike 3",
+    "bollard 1",
+    "bollard 2",
+    "pot plant 5",
+    "pot plant 6",
+    "pot",
+    "step box",
+    "jar shelf inside",
+    "interior wall frame",
+    "wall lantern",
+    "hanging basket",
+    "notice board",
+    "flower stand",
+    "scooter",
+    "second table inside",
+    "chairs inside",
+    "plant inside",
+    "kitchen shelf jars",
+    "wall frames inside",
+    "planter 3",
+    "pendant lamp inside",
+    "menu board inside",
+    "cake case inside",
+    "back building"
+   ]
+  },
+  "words": 1,
+  "pitch": 0
+ }
+]

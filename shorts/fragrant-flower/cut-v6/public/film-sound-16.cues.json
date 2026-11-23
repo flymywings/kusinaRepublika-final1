@@ -1,0 +1,351 @@
+{
+ "sampleRate": 48000,
+ "fps": 30,
+ "seconds": 54.867,
+ "voiceSpeechRmsDbfs": -15.7,
+ "masterGainDb": 2.7,
+ "integratedLufs": -14.4,
+ "truePeakDbfs": -0.8,
+ "events": [
+  {
+   "frame": 0,
+   "kind": "fork"
+  },
+  {
+   "frame": 11,
+   "kind": "fork"
+  },
+  {
+   "frame": 21,
+   "kind": "fork"
+  },
+  {
+   "frame": 32,
+   "kind": "fork"
+  },
+  {
+   "frame": 42,
+   "kind": "fork"
+  },
+  {
+   "frame": 72,
+   "kind": "piano"
+  },
+  {
+   "frame": 80,
+   "kind": "bell"
+  },
+  {
+   "frame": 99,
+   "kind": "clink"
+  },
+  {
+   "frame": 103,
+   "kind": "clink"
+  },
+  {
+   "frame": 112,
+   "kind": "tap"
+  },
+  {
+   "frame": 185,
+   "kind": "tap"
+  },
+  {
+   "frame": 247,
+   "kind": "tap"
+  },
+  {
+   "frame": 251,
+   "kind": "tap"
+  },
+  {
+   "frame": 256,
+   "kind": "tap"
+  },
+  {
+   "frame": 262,
+   "kind": "tap"
+  },
+  {
+   "frame": 301,
+   "kind": "clink"
+  },
+  {
+   "frame": 352,
+   "kind": "clink"
+  },
+  {
+   "frame": 382,
+   "kind": "clink"
+  },
+  {
+   "frame": 396,
+   "kind": "clink"
+  },
+  {
+   "frame": 398,
+   "kind": "cloth"
+  },
+  {
+   "frame": 412,
+   "kind": "clink"
+  },
+  {
+   "frame": 449,
+   "kind": "fork"
+  },
+  {
+   "frame": 460,
+   "kind": "fork"
+  },
+  {
+   "frame": 470,
+   "kind": "fork"
+  },
+  {
+   "frame": 481,
+   "kind": "fork"
+  },
+  {
+   "frame": 491,
+   "kind": "fork"
+  },
+  {
+   "frame": 499,
+   "kind": "clink"
+  },
+  {
+   "frame": 501,
+   "kind": "chair"
+  },
+  {
+   "frame": 503,
+   "kind": "bell"
+  },
+  {
+   "frame": 508,
+   "kind": "bell"
+  },
+  {
+   "frame": 516,
+   "kind": "tap"
+  },
+  {
+   "frame": 526,
+   "kind": "tap"
+  },
+  {
+   "frame": 538,
+   "kind": "tap"
+  },
+  {
+   "frame": 548,
+   "kind": "bell"
+  },
+  {
+   "frame": 618,
+   "kind": "bell"
+  },
+  {
+   "frame": 636,
+   "kind": "tap"
+  },
+  {
+   "frame": 643,
+   "kind": "tap"
+  },
+  {
+   "frame": 650,
+   "kind": "tap"
+  },
+  {
+   "frame": 657,
+   "kind": "tap"
+  },
+  {
+   "frame": 668,
+   "kind": "cloth"
+  },
+  {
+   "frame": 700,
+   "kind": "piano"
+  },
+  {
+   "frame": 710,
+   "kind": "cloth"
+  },
+  {
+   "frame": 734,
+   "kind": "cloth"
+  },
+  {
+   "frame": 756,
+   "kind": "cloth"
+  },
+  {
+   "frame": 806,
+   "kind": "fork"
+  },
+  {
+   "frame": 834,
+   "kind": "whir"
+  },
+  {
+   "frame": 842,
+   "kind": "bell (reversed)"
+  },
+  {
+   "frame": 855,
+   "kind": "clink (reversed)"
+  },
+  {
+   "frame": 865,
+   "kind": "chair (reversed)"
+  },
+  {
+   "frame": 882,
+   "kind": "clunk"
+  },
+  {
+   "frame": 882,
+   "kind": "fork"
+  },
+  {
+   "frame": 892,
+   "kind": "fork"
+  },
+  {
+   "frame": 903,
+   "kind": "fork"
+  },
+  {
+   "frame": 912,
+   "kind": "piano"
+  },
+  {
+   "frame": 913,
+   "kind": "fork"
+  },
+  {
+   "frame": 944,
+   "kind": "piano"
+  },
+  {
+   "frame": 960,
+   "kind": "cloth"
+  },
+  {
+   "frame": 964,
+   "kind": "piano"
+  },
+  {
+   "frame": 1018,
+   "kind": "cloth"
+  },
+  {
+   "frame": 1057,
+   "kind": "heart"
+  },
+  {
+   "frame": 1057,
+   "kind": "fork"
+  },
+  {
+   "frame": 1068,
+   "kind": "heart"
+  },
+  {
+   "frame": 1068,
+   "kind": "fork"
+  },
+  {
+   "frame": 1078,
+   "kind": "heart"
+  },
+  {
+   "frame": 1078,
+   "kind": "fork"
+  },
+  {
+   "frame": 1160,
+   "kind": "piano"
+  },
+  {
+   "frame": 1172,
+   "kind": "clink"
+  },
+  {
+   "frame": 1216,
+   "kind": "fork"
+  },
+  {
+   "frame": 1290,
+   "kind": "tap"
+  },
+  {
+   "frame": 1296,
+   "kind": "tap"
+  },
+  {
+   "frame": 1303,
+   "kind": "tap"
+  },
+  {
+   "frame": 1310,
+   "kind": "tap"
+  },
+  {
+   "frame": 1329,
+   "kind": "piano"
+  },
+  {
+   "frame": 1507,
+   "kind": "tap"
+  },
+  {
+   "frame": 1538,
+   "kind": "cloth"
+  },
+  {
+   "frame": 1552,
+   "kind": "cloth"
+  },
+  {
+   "frame": 1598,
+   "kind": "chair"
+  }
+ ],
+ "beds": [
+  {
+   "kind": "room",
+   "from": 0,
+   "to": 1646,
+   "gain": 1,
+   "fadeIn": 2,
+   "fadeOut": 2
+  },
+  {
+   "kind": "hum",
+   "from": 46,
+   "to": 76,
+   "gain": 0.55
+  },
+  {
+   "kind": "hum",
+   "from": 960,
+   "to": 1010,
+   "gain": 0.5,
+   "fadeIn": 10,
+   "fadeOut": 10
+  },
+  {
+   "kind": "air",
+   "from": 126,
+   "to": 330,
+   "gain": 0.9,
+   "fadeIn": 14,
+   "fadeOut": 20
+  }
+ ]
+}

@@ -1,0 +1,137 @@
+[
+  {
+    "time": 1.8,
+    "cue": "fingers scrape disturbed soil",
+    "relative_voice_peak": 0.19
+  },
+  {
+    "time": 2.65,
+    "cue": "stone settles into earth",
+    "relative_voice_peak": 0.16
+  },
+  {
+    "time": 4.7,
+    "cue": "boots on dry trail",
+    "relative_voice_peak": 0.1
+  },
+  {
+    "time": 5.19,
+    "cue": "boots on dry trail",
+    "relative_voice_peak": 0.1
+  },
+  {
+    "time": 5.680000000000001,
+    "cue": "boots on dry trail",
+    "relative_voice_peak": 0.1
+  },
+  {
+    "time": 6.170000000000001,
+    "cue": "boots on dry trail",
+    "relative_voice_peak": 0.1
+  },
+  {
+    "time": 6.660000000000001,
+    "cue": "boots on dry trail",
+    "relative_voice_peak": 0.1
+  },
+  {
+    "time": 7.150000000000001,
+    "cue": "boots on dry trail",
+    "relative_voice_peak": 0.1
+  },
+  {
+    "time": 7.6400000000000015,
+    "cue": "boots on dry trail",
+    "relative_voice_peak": 0.1
+  },
+  {
+    "time": 8.130000000000003,
+    "cue": "boots on dry trail",
+    "relative_voice_peak": 0.1
+  },
+  {
+    "time": 9.7,
+    "cue": "diamond lifts into hand",
+    "relative_voice_peak": 0.29
+  },
+  {
+    "time": 10.87,
+    "cue": "ruby discovery",
+    "relative_voice_peak": 0.24
+  },
+  {
+    "time": 13.1,
+    "cue": "notebook and hand lens",
+    "relative_voice_peak": 0.13
+  },
+  {
+    "time": 14.65,
+    "cue": "confident inspection accent",
+    "relative_voice_peak": 0.14
+  },
+  {
+    "time": 15.65,
+    "cue": "transaction-room handoff",
+    "relative_voice_peak": 0.1
+  },
+  {
+    "time": 16.45,
+    "cue": "payment paper and cloth",
+    "relative_voice_peak": 0.18
+  },
+  {
+    "time": 17.8,
+    "cue": "money bag received",
+    "relative_voice_peak": 0.3
+  },
+  {
+    "time": 20.15,
+    "cue": "investigator stops",
+    "relative_voice_peak": 0.14
+  },
+  {
+    "time": 21.15,
+    "cue": "kneeling on grit",
+    "relative_voice_peak": 0.13
+  },
+  {
+    "time": 22.45,
+    "cue": "first evidence accent",
+    "relative_voice_peak": 0.17
+  },
+  {
+    "time": 24.15,
+    "cue": "comparison resolves",
+    "relative_voice_peak": 0.17
+  },
+  {
+    "time": 25.85,
+    "cue": "London flashback",
+    "relative_voice_peak": 0.1
+  },
+  {
+    "time": 27.5,
+    "cue": "stones purchased across counter",
+    "relative_voice_peak": 0.22
+  },
+  {
+    "time": 28.25,
+    "cue": "merchant parcel and pouch",
+    "relative_voice_peak": 0.16
+  },
+  {
+    "time": 29.24,
+    "cue": "score withdraws for reversal",
+    "relative_voice_peak": 0.15
+  },
+  {
+    "time": 30.55,
+    "cue": "soft transition carries the reversal pause",
+    "relative_voice_peak": 0.11
+  },
+  {
+    "time": 31.86,
+    "cue": "dry investors payoff",
+    "relative_voice_peak": 0.24
+  }
+]

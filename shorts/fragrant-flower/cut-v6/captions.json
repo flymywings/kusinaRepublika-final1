@@ -1,0 +1,617 @@
+[
+ {
+  "from": 2,
+  "to": 10,
+  "word": "This"
+ },
+ {
+  "from": 10,
+  "to": 22,
+  "word": "girl"
+ },
+ {
+  "from": 22,
+  "to": 26,
+  "word": "looked"
+ },
+ {
+  "from": 26,
+  "to": 49,
+  "word": "terrified"
+ },
+ {
+  "from": 49,
+  "to": 54,
+  "word": "of his"
+ },
+ {
+  "from": 54,
+  "to": 63,
+  "word": "face..."
+ },
+ {
+  "from": 72,
+  "to": 80,
+  "word": "then"
+ },
+ {
+  "from": 80,
+  "to": 88,
+  "word": "came"
+ },
+ {
+  "from": 88,
+  "to": 95,
+  "word": "back"
+ },
+ {
+  "from": 95,
+  "to": 109,
+  "word": "to buy"
+ },
+ {
+  "from": 109,
+  "to": 122,
+  "word": "him cake."
+ },
+ {
+  "from": 137,
+  "to": 149,
+  "word": "Rintaro"
+ },
+ {
+  "from": 149,
+  "to": 170,
+  "word": "is tall,"
+ },
+ {
+  "from": 170,
+  "to": 185,
+  "word": "blond,"
+ },
+ {
+  "from": 185,
+  "to": 200,
+  "word": "pierced,"
+ },
+ {
+  "from": 200,
+  "to": 209,
+  "word": "and so"
+ },
+ {
+  "from": 209,
+  "to": 232,
+  "word": "intimidating"
+ },
+ {
+  "from": 232,
+  "to": 245,
+  "word": "that strangers"
+ },
+ {
+  "from": 245,
+  "to": 248,
+  "word": "run"
+ },
+ {
+  "from": 247,
+  "to": 255,
+  "word": "from him."
+ },
+ {
+  "from": 262,
+  "to": 267,
+  "word": "Which"
+ },
+ {
+  "from": 267,
+  "to": 278,
+  "word": "isn't"
+ },
+ {
+  "from": 278,
+  "to": 286,
+  "word": "great"
+ },
+ {
+  "from": 286,
+  "to": 298,
+  "word": "when your"
+ },
+ {
+  "from": 298,
+  "to": 314,
+  "word": "family owns"
+ },
+ {
+  "from": 314,
+  "to": 332,
+  "word": "a cake"
+ },
+ {
+  "from": 332,
+  "to": 335,
+  "word": "shop."
+ },
+ {
+  "from": 341,
+  "to": 351,
+  "word": "So when"
+ },
+ {
+  "from": 351,
+  "to": 362,
+  "word": "he spots"
+ },
+ {
+  "from": 362,
+  "to": 374,
+  "word": "a girl"
+ },
+ {
+  "from": 374,
+  "to": 394,
+  "word": "demolishing"
+ },
+ {
+  "from": 394,
+  "to": 411,
+  "word": "a mountain"
+ },
+ {
+  "from": 411,
+  "to": 426,
+  "word": "of cake,"
+ },
+ {
+  "from": 426,
+  "to": 439,
+  "word": "he can't"
+ },
+ {
+  "from": 439,
+  "to": 449,
+  "word": "help"
+ },
+ {
+  "from": 449,
+  "to": 460,
+  "word": "staring."
+ },
+ {
+  "from": 467,
+  "to": 479,
+  "word": "She locks"
+ },
+ {
+  "from": 479,
+  "to": 488,
+  "word": "eyes"
+ },
+ {
+  "from": 488,
+  "to": 498,
+  "word": "with"
+ },
+ {
+  "from": 498,
+  "to": 507,
+  "word": "him and"
+ },
+ {
+  "from": 507,
+  "to": 514,
+  "word": "bolts"
+ },
+ {
+  "from": 514,
+  "to": 521,
+  "word": "out"
+ },
+ {
+  "from": 521,
+  "to": 534,
+  "word": "the door."
+ },
+ {
+  "from": 544,
+  "to": 547,
+  "word": "He's"
+ },
+ {
+  "from": 546,
+  "to": 554,
+  "word": "sure"
+ },
+ {
+  "from": 554,
+  "to": 566,
+  "word": "he's"
+ },
+ {
+  "from": 566,
+  "to": 584,
+  "word": "traumatized"
+ },
+ {
+  "from": 584,
+  "to": 594,
+  "word": "her for"
+ },
+ {
+  "from": 594,
+  "to": 605,
+  "word": "life."
+ },
+ {
+  "from": 612,
+  "to": 615,
+  "word": "But the"
+ },
+ {
+  "from": 615,
+  "to": 626,
+  "word": "next"
+ },
+ {
+  "from": 626,
+  "to": 634,
+  "word": "day"
+ },
+ {
+  "from": 634,
+  "to": 639,
+  "word": "she's"
+ },
+ {
+  "from": 639,
+  "to": 653,
+  "word": "back,"
+ },
+ {
+  "from": 653,
+  "to": 667,
+  "word": "apologizing"
+ },
+ {
+  "from": 667,
+  "to": 696,
+  "word": "and insisting"
+ },
+ {
+  "from": 696,
+  "to": 714,
+  "word": "on buying"
+ },
+ {
+  "from": 714,
+  "to": 722,
+  "word": "him a"
+ },
+ {
+  "from": 722,
+  "to": 731,
+  "word": "slice."
+ },
+ {
+  "from": 739,
+  "to": 747,
+  "word": "So he"
+ },
+ {
+  "from": 747,
+  "to": 759,
+  "word": "asks,"
+ },
+ {
+  "from": 764,
+  "to": 771,
+  "word": "\"Wait,"
+ },
+ {
+  "from": 775,
+  "to": 784,
+  "word": "didn't"
+ },
+ {
+  "from": 784,
+  "to": 793,
+  "word": "you run"
+ },
+ {
+  "from": 793,
+  "to": 807,
+  "word": "because"
+ },
+ {
+  "from": 807,
+  "to": 818,
+  "word": "you were"
+ },
+ {
+  "from": 818,
+  "to": 827,
+  "word": "scared"
+ },
+ {
+  "from": 827,
+  "to": 834,
+  "word": "of me?\""
+ },
+ {
+  "from": 871,
+  "to": 887,
+  "word": "from HER"
+ },
+ {
+  "from": 887,
+  "to": 898,
+  "word": "side,"
+ },
+ {
+  "from": 898,
+  "to": 921,
+  "word": "that look"
+ },
+ {
+  "from": 921,
+  "to": 942,
+  "word": "was never"
+ },
+ {
+  "from": 942,
+  "to": 952,
+  "word": "fear."
+ },
+ {
+  "from": 960,
+  "to": 968,
+  "word": "No guy"
+ },
+ {
+  "from": 968,
+  "to": 983,
+  "word": "had ever"
+ },
+ {
+  "from": 983,
+  "to": 995,
+  "word": "stared"
+ },
+ {
+  "from": 995,
+  "to": 1010,
+  "word": "at her"
+ },
+ {
+  "from": 1010,
+  "to": 1024,
+  "word": "before,"
+ },
+ {
+  "from": 1030,
+  "to": 1041,
+  "word": "and her"
+ },
+ {
+  "from": 1041,
+  "to": 1053,
+  "word": "heart was"
+ },
+ {
+  "from": 1057,
+  "to": 1076,
+  "word": "POUNDING."
+ },
+ {
+  "from": 1088,
+  "to": 1094,
+  "word": "He'd"
+ },
+ {
+  "from": 1094,
+  "to": 1103,
+  "word": "only"
+ },
+ {
+  "from": 1103,
+  "to": 1111,
+  "word": "just"
+ },
+ {
+  "from": 1111,
+  "to": 1131,
+  "word": "noticed"
+ },
+ {
+  "from": 1131,
+  "to": 1141,
+  "word": "her, but"
+ },
+ {
+  "from": 1141,
+  "to": 1155,
+  "word": "she'd"
+ },
+ {
+  "from": 1155,
+  "to": 1167,
+  "word": "noticed"
+ },
+ {
+  "from": 1167,
+  "to": 1187,
+  "word": "him long"
+ },
+ {
+  "from": 1187,
+  "to": 1194,
+  "word": "before"
+ },
+ {
+  "from": 1194,
+  "to": 1202,
+  "word": "that."
+ },
+ {
+  "from": 1216,
+  "to": 1228,
+  "word": "He read"
+ },
+ {
+  "from": 1228,
+  "to": 1242,
+  "word": "her face"
+ },
+ {
+  "from": 1242,
+  "to": 1261,
+  "word": "the exact"
+ },
+ {
+  "from": 1261,
+  "to": 1272,
+  "word": "same"
+ },
+ {
+  "from": 1272,
+  "to": 1284,
+  "word": "way"
+ },
+ {
+  "from": 1284,
+  "to": 1303,
+  "word": "EVERYONE"
+ },
+ {
+  "from": 1303,
+  "to": 1317,
+  "word": "reads"
+ },
+ {
+  "from": 1317,
+  "to": 1321,
+  "word": "his."
+ },
+ {
+  "from": 1329,
+  "to": 1335,
+  "word": "Then"
+ },
+ {
+  "from": 1335,
+  "to": 1349,
+  "word": "she tells"
+ },
+ {
+  "from": 1349,
+  "to": 1354,
+  "word": "him,"
+ },
+ {
+  "from": 1363,
+  "to": 1368,
+  "word": "\"I've"
+ },
+ {
+  "from": 1368,
+  "to": 1375,
+  "word": "never"
+ },
+ {
+  "from": 1375,
+  "to": 1400,
+  "word": "once thought"
+ },
+ {
+  "from": 1400,
+  "to": 1412,
+  "word": "you were"
+ },
+ {
+  "from": 1412,
+  "to": 1421,
+  "word": "scary.\""
+ },
+ {
+  "from": 1435,
+  "to": 1438,
+  "word": "He's"
+ },
+ {
+  "from": 1436,
+  "to": 1447,
+  "word": "used"
+ },
+ {
+  "from": 1447,
+  "to": 1456,
+  "word": "to people"
+ },
+ {
+  "from": 1456,
+  "to": 1476,
+  "word": "taking one"
+ },
+ {
+  "from": 1476,
+  "to": 1481,
+  "word": "look"
+ },
+ {
+  "from": 1481,
+  "to": 1490,
+  "word": "at his"
+ },
+ {
+  "from": 1490,
+  "to": 1501,
+  "word": "face"
+ },
+ {
+  "from": 1501,
+  "to": 1515,
+  "word": "and running."
+ },
+ {
+  "from": 1523,
+  "to": 1533,
+  "word": "He has"
+ },
+ {
+  "from": 1533,
+  "to": 1547,
+  "word": "no idea"
+ },
+ {
+  "from": 1547,
+  "to": 1556,
+  "word": "what"
+ },
+ {
+  "from": 1556,
+  "to": 1563,
+  "word": "to do"
+ },
+ {
+  "from": 1563,
+  "to": 1590,
+  "word": "when someone"
+ },
+ {
+  "from": 1590,
+  "to": 1598,
+  "word": "looks"
+ },
+ {
+  "from": 1598,
+  "to": 1601,
+  "word": "at it..."
+ },
+ {
+  "from": 1620,
+  "to": 1643,
+  "word": "and stays."
+ }
+]

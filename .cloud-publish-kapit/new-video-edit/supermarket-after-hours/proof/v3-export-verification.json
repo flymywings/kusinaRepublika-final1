@@ -1,0 +1,18 @@
+{
+  "file": "C:\\Users\\Win 10\\Downloads\\new video edit\\supermarket-after-hours\\proof\\After Hours - v3 - 2K.mp4",
+  "sha256": "92F8CFF7D2D8ED6AEADBBE3EF1E0DAC34E4724828EEB683F1DA56D28802077B4",
+  "bytes": 33556390,
+  "width": 1440,
+  "height": 2560,
+  "fps": 30,
+  "frames": 1590,
+  "seconds": 53,
+  "approvedDesign": "Tayama Identity Candidate 2, accepted 2026-11-18",
+  "approvedAppearanceSha256": "7D235635A1A314A198720F973CE20803603827E6260BFED362F9FE079440570F",
+  "designInvariance": "Fresh shared-drawing render exactly matches accepted image",
+  "decode": "Entire video/audio decoded without error",
+  "audio": "Decoded PCM identical to original and v2 draft",
+  "visualReview": "Six targeted motion renders and six framing stills; independent sampled opening/walk/light/reaction review; lead inspected full-export chronological samples",
+  "coverageLimit": "Sampled visual review and audio identity verification; continuous listening not established",
+  "acceptance": "Film final acceptance pending"
+}

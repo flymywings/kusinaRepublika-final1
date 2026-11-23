@@ -1,0 +1,13 @@
+{
+  "frames": 1511,
+  "voiceWpm": 175.06791427709024,
+  "preservedQuietIntervals": 26,
+  "quietSampleIdentity": true,
+  "captionWords": 145,
+  "lowestWalkingFootNDC": -0.7618390765225029,
+  "maxFootReach": 0.5728895878950804,
+  "walkingFeetInFrame": true,
+  "focusTracksWalker": true,
+  "approvedStaticDesignUnchanged": true,
+  "scope": "Mapped-time numerical and source-PCM checks. Actual footage and listening are separate."
+}

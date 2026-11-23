@@ -1,0 +1,13 @@
+{
+ "candidate":{"file":"Fragrant_Flower_Pilot_v1.mp4","label":"NEW pilot"},
+ "baseline":{"file":"../../../../production-pipeline-proposal/recovered/drafts/Fragrant_Flower_Draft_2.mp4","label":"Draft 2 (6 of 10)"},
+ "audio":"candidate",
+ "segments":[
+  {"candidate":[0,2.7],"baseline":[0,2.7]},
+  {"candidate":[2.7,12.45],"baseline":[15.8,25.55]},
+  {"candidate":[12.45,13.45],"baseline":[25.5,25.55]},
+  {"candidate":[13.45,20.366667],"baseline":[25.55,32.466667]},
+  {"candidate":[20.366667,21.45],"baseline":[32.43,32.48]},
+  {"candidate":[21.45,24.4],"baseline":[32.55,35.5]}
+ ]
+}

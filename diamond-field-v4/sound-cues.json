@@ -1,0 +1,177 @@
+[
+  {
+    "time": 0.28,
+    "cue": "sleeve and reach",
+    "relative_voice_peak": 0.13
+  },
+  {
+    "time": 1.12,
+    "cue": "weight of the claim payment",
+    "relative_voice_peak": 0.28
+  },
+  {
+    "time": 3.97,
+    "cue": "real stone catches light",
+    "relative_voice_peak": 0.2
+  },
+  {
+    "time": 4.63,
+    "cue": "camera opens Colorado setting",
+    "relative_voice_peak": 0.1
+  },
+  {
+    "time": 7.7,
+    "cue": "fingers examine rough stone",
+    "relative_voice_peak": 0.14
+  },
+  {
+    "time": 9.55,
+    "cue": "ruby pickup",
+    "relative_voice_peak": 0.24
+  },
+  {
+    "time": 11.42,
+    "cue": "expert opens notebook",
+    "relative_voice_peak": 0.17
+  },
+  {
+    "time": 12.3,
+    "cue": "hand lens settles",
+    "relative_voice_peak": 0.14
+  },
+  {
+    "time": 13.13,
+    "cue": "expert approval",
+    "relative_voice_peak": 0.2
+  },
+  {
+    "time": 14.16,
+    "cue": "payment transition",
+    "relative_voice_peak": 0.12
+  },
+  {
+    "time": 14.88,
+    "cue": "claim paper and payment",
+    "relative_voice_peak": 0.24
+  },
+  {
+    "time": 15.96,
+    "cue": "payment received",
+    "relative_voice_peak": 0.34
+  },
+  {
+    "time": 17.08,
+    "cue": "sellers leave with money",
+    "relative_voice_peak": 0.13
+  },
+  {
+    "time": 17.45,
+    "cue": "sellers leave with money",
+    "relative_voice_peak": 0.13
+  },
+  {
+    "time": 17.83,
+    "cue": "sellers leave with money",
+    "relative_voice_peak": 0.13
+  },
+  {
+    "time": 18.18,
+    "cue": "sellers leave with money",
+    "relative_voice_peak": 0.13
+  },
+  {
+    "time": 18.47,
+    "cue": "investigation transition",
+    "relative_voice_peak": 0.14
+  },
+  {
+    "time": 19.77,
+    "cue": "investigator examines surface",
+    "relative_voice_peak": 0.16
+  },
+  {
+    "time": 21.07,
+    "cue": "disturbed soil clue",
+    "relative_voice_peak": 0.19
+  },
+  {
+    "time": 22.45,
+    "cue": "soil lifted from test pit",
+    "relative_voice_peak": 0.25
+  },
+  {
+    "time": 22.95,
+    "cue": "soil lifted from test pit",
+    "relative_voice_peak": 0.25
+  },
+  {
+    "time": 23.4,
+    "cue": "soil lifted from test pit",
+    "relative_voice_peak": 0.25
+  },
+  {
+    "time": 23.72,
+    "cue": "empty deeper soil",
+    "relative_voice_peak": 0.18
+  },
+  {
+    "time": 24.65,
+    "cue": "earlier London transition",
+    "relative_voice_peak": 0.15
+  },
+  {
+    "time": 25.26,
+    "cue": "merchant parcel opens",
+    "relative_voice_peak": 0.2
+  },
+  {
+    "time": 25.86,
+    "cue": "money crosses counter",
+    "relative_voice_peak": 0.21
+  },
+  {
+    "time": 26.28,
+    "cue": "purchased stones in pouch",
+    "relative_voice_peak": 0.23
+  },
+  {
+    "time": 27.17,
+    "cue": "match pouch into planting",
+    "relative_voice_peak": 0.12
+  },
+  {
+    "time": 27.49,
+    "cue": "fingers press stone into soil",
+    "relative_voice_peak": 0.22
+  },
+  {
+    "time": 27.76,
+    "cue": "planted stone seats",
+    "relative_voice_peak": 0.17
+  },
+  {
+    "time": 28.01,
+    "cue": "return to exposed claim",
+    "relative_voice_peak": 0.1
+  },
+  {
+    "time": 31.1,
+    "cue": "ironic payoff first note",
+    "relative_voice_peak": 0.2
+  },
+  {
+    "time": 31.34,
+    "cue": "ironic payoff settles",
+    "relative_voice_peak": 0.13
+  },
+  {
+    "time": 1.7,
+    "cue": "first private glance",
+    "relative_voice_peak": 0.12
+  },
+  {
+    "time": 16.35,
+    "cue": "recognition of secured payment",
+    "relative_voice_peak": 0.12
+  }
+]

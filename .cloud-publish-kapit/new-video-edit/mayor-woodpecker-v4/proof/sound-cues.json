@@ -1,0 +1,270 @@
+[
+  {
+    "frame": 24,
+    "cue": "Gold pouch lands"
+  },
+  {
+    "frame": 25,
+    "cue": "Gold inside pouch"
+  },
+  {
+    "frame": 44,
+    "cue": "Tap on paper"
+  },
+  {
+    "frame": 130,
+    "cue": "Tax coin changes hands"
+  },
+  {
+    "frame": 143,
+    "cue": "Tax coin drops in marked pouch"
+  },
+  {
+    "frame": 168,
+    "cue": "Mayor takes the pouch"
+  },
+  {
+    "frame": 239,
+    "cue": "Bird arrives at statue"
+  },
+  {
+    "frame": 253,
+    "cue": "First peck"
+  },
+  {
+    "frame": 311,
+    "cue": "Mayor adds coins"
+  },
+  {
+    "frame": 316,
+    "cue": "Second coin settles"
+  },
+  {
+    "frame": 349,
+    "cue": "Guard foot contacts cobbles"
+  },
+  {
+    "frame": 355,
+    "cue": "Guard foot contacts cobbles"
+  },
+  {
+    "frame": 358,
+    "cue": "Guard foot contacts cobbles"
+  },
+  {
+    "frame": 361,
+    "cue": "Guard foot contacts cobbles"
+  },
+  {
+    "frame": 364,
+    "cue": "Guard foot contacts cobbles"
+  },
+  {
+    "frame": 365,
+    "cue": "Wing beat"
+  },
+  {
+    "frame": 367,
+    "cue": "Guard foot contacts cobbles"
+  },
+  {
+    "frame": 370,
+    "cue": "Guard foot contacts cobbles"
+  },
+  {
+    "frame": 373,
+    "cue": "Guard foot contacts cobbles"
+  },
+  {
+    "frame": 376,
+    "cue": "Guard foot contacts cobbles"
+  },
+  {
+    "frame": 379,
+    "cue": "Guard foot contacts cobbles"
+  },
+  {
+    "frame": 382,
+    "cue": "Guard foot contacts cobbles"
+  },
+  {
+    "frame": 385,
+    "cue": "Guard foot contacts cobbles"
+  },
+  {
+    "frame": 387,
+    "cue": "Wing beat"
+  },
+  {
+    "frame": 388,
+    "cue": "Guard foot contacts cobbles"
+  },
+  {
+    "frame": 391,
+    "cue": "Guard foot contacts cobbles"
+  },
+  {
+    "frame": 394,
+    "cue": "Guard foot contacts cobbles"
+  },
+  {
+    "frame": 397,
+    "cue": "Guard foot contacts cobbles"
+  },
+  {
+    "frame": 400,
+    "cue": "Guard foot contacts cobbles"
+  },
+  {
+    "frame": 403,
+    "cue": "Guard foot contacts cobbles"
+  },
+  {
+    "frame": 406,
+    "cue": "Guard foot contacts cobbles"
+  },
+  {
+    "frame": 409,
+    "cue": "Guard foot contacts cobbles"
+  },
+  {
+    "frame": 411,
+    "cue": "Guard calls across the square"
+  },
+  {
+    "frame": 412,
+    "cue": "Guard foot contacts cobbles"
+  },
+  {
+    "frame": 414,
+    "cue": "Wing beat"
+  },
+  {
+    "frame": 415,
+    "cue": "Guard foot contacts cobbles"
+  },
+  {
+    "frame": 418,
+    "cue": "Guard foot contacts cobbles"
+  },
+  {
+    "frame": 418,
+    "cue": "Shop latch"
+  },
+  {
+    "frame": 421,
+    "cue": "Guard foot contacts cobbles"
+  },
+  {
+    "frame": 423,
+    "cue": "Second guard calls offscreen"
+  },
+  {
+    "frame": 424,
+    "cue": "Guard foot contacts cobbles"
+  },
+  {
+    "frame": 426,
+    "cue": "Door hinge opens"
+  },
+  {
+    "frame": 427,
+    "cue": "Guard foot contacts cobbles"
+  },
+  {
+    "frame": 430,
+    "cue": "Guard foot contacts cobbles"
+  },
+  {
+    "frame": 433,
+    "cue": "Guard foot contacts cobbles"
+  },
+  {
+    "frame": 436,
+    "cue": "Guard foot contacts cobbles"
+  },
+  {
+    "frame": 439,
+    "cue": "Guard foot contacts cobbles"
+  },
+  {
+    "frame": 442,
+    "cue": "Guard foot contacts cobbles"
+  },
+  {
+    "frame": 445,
+    "cue": "Guard foot contacts cobbles"
+  },
+  {
+    "frame": 448,
+    "cue": "Guard foot contacts cobbles"
+  },
+  {
+    "frame": 450,
+    "cue": "Witness steps onto cobbles"
+  },
+  {
+    "frame": 451,
+    "cue": "Guard foot contacts cobbles"
+  },
+  {
+    "frame": 454,
+    "cue": "Guard foot contacts cobbles"
+  },
+  {
+    "frame": 457,
+    "cue": "Guard foot contacts cobbles"
+  },
+  {
+    "frame": 460,
+    "cue": "Guard foot contacts cobbles"
+  },
+  {
+    "frame": 466,
+    "cue": "Guard foot contacts cobbles"
+  },
+  {
+    "frame": 479,
+    "cue": "Wing beat"
+  },
+  {
+    "frame": 492,
+    "cue": "Wing beat"
+  },
+  {
+    "frame": 507,
+    "cue": "Wing beat"
+  },
+  {
+    "frame": 517,
+    "cue": "Bird lands on statue"
+  },
+  {
+    "frame": 532,
+    "cue": "Painted wood cracks"
+  },
+  {
+    "frame": 557,
+    "cue": "Chip lands on cobbles"
+  },
+  {
+    "frame": 562,
+    "cue": "Small chip bounce"
+  },
+  {
+    "frame": 603,
+    "cue": "Carpenter turns chip"
+  },
+  {
+    "frame": 821,
+    "cue": "Gold returned"
+  },
+  {
+    "frame": 833,
+    "cue": "Chain on stone"
+  },
+  {
+    "frame": 867,
+    "cue": "Bird in the nest"
+  }
+]

@@ -1,0 +1,651 @@
+{
+  "frames": 1372,
+  "sampleRate": 48000,
+  "channels": 2,
+  "samplesPerChannel": 2195200,
+  "duration": 45.733333333333334,
+  "voice": {
+    "file": "public/voice-193.wav",
+    "gainDb": 0,
+    "paddedOnlyAtEnd": true,
+    "sourceVoiceGainUnchanged": true,
+    "sha256": "b6a7d944add3e605a0baa5f86e3c8fa328a8d9c4f994ce56eaf3cd4c7f94ad05",
+    "note": "Unchanged paced narration stem at unity before bus mastering; mastering affects the combined mix."
+  },
+  "music": {
+    "file": "public/music-193.wav",
+    "source": "public/music.wav",
+    "tempo": 1.15889213,
+    "endFadeSeconds": 0.55,
+    "emotionalTurnSourceFrames": [
+      1050,
+      1165
+    ],
+    "emotionalTurnOutputFrames": [
+      902.123,
+      1004.526
+    ],
+    "lullLevel": 0.24,
+    "missingDiscoveryMusicalSpace": {
+      "sourceFrames": [
+        423,
+        475
+      ],
+      "minimumLevel": 0.38
+    },
+    "gentleAccents": [
+      {
+        "sourceFrame": 590,
+        "midi": 71,
+        "gain": 0.0038,
+        "reason": "gentle invitation lift"
+      },
+      {
+        "sourceFrame": 1363,
+        "midi": 76,
+        "gain": 0.0035,
+        "reason": "quiet warmth after kindness"
+      }
+    ],
+    "noBoomAtMissingCashier": true
+  },
+  "sfx": {
+    "file": "public/sfx-193.wav",
+    "footsteps": [
+      {
+        "sourceFrame": 277.845,
+        "outputFrame": 238.5548,
+        "foot": 0,
+        "contact": [
+          -0.83,
+          0.028000000000000004,
+          -0.07
+        ],
+        "surface": "threshold/exterior",
+        "gain": 0.06
+      },
+      {
+        "sourceFrame": 294.5399,
+        "outputFrame": 252.6106,
+        "foot": 1,
+        "contact": [
+          -0.57,
+          0.028000000000000004,
+          -0.54
+        ],
+        "surface": "dry interior",
+        "gain": 0.073
+      },
+      {
+        "sourceFrame": 311.2349,
+        "outputFrame": 267.0235,
+        "foot": 0,
+        "contact": [
+          -0.83,
+          0.028000000000000004,
+          -1.0100000000000002
+        ],
+        "surface": "dry interior",
+        "gain": 0.073
+      },
+      {
+        "sourceFrame": 327.9299,
+        "outputFrame": 280.7954,
+        "foot": 1,
+        "contact": [
+          -0.57,
+          0.028000000000000004,
+          -1.4800000000000002
+        ],
+        "surface": "dry interior",
+        "gain": 0.073
+      },
+      {
+        "sourceFrame": 344.6248,
+        "outputFrame": 296.6917,
+        "foot": 0,
+        "contact": [
+          -0.83,
+          0.028000000000000004,
+          -1.9500000000000002
+        ],
+        "surface": "dry interior",
+        "gain": 0.073
+      },
+      {
+        "sourceFrame": 362.6338,
+        "outputFrame": 312.0807,
+        "foot": 1,
+        "contact": [
+          -0.57,
+          0.028000000000000004,
+          -1.9500000000000002
+        ],
+        "surface": "dry interior",
+        "gain": 0.073
+      },
+      {
+        "sourceFrame": 598.9412,
+        "outputFrame": 517.6171,
+        "foot": 0,
+        "contact": [
+          7.341428571428571,
+          0.002,
+          -2.9857142857142853
+        ],
+        "surface": "dry interior",
+        "gain": 0.073
+      },
+      {
+        "sourceFrame": 604.1325,
+        "outputFrame": 521.8571,
+        "foot": 1,
+        "contact": [
+          7.722857142857142,
+          0.002,
+          -3.47142857142857
+        ],
+        "surface": "dry interior",
+        "gain": 0.073
+      },
+      {
+        "sourceFrame": 609.3237,
+        "outputFrame": 526.0971,
+        "foot": 0,
+        "contact": [
+          7.5842857142857145,
+          0.002,
+          -3.9571428571428577
+        ],
+        "surface": "dry interior",
+        "gain": 0.073
+      },
+      {
+        "sourceFrame": 614.5149,
+        "outputFrame": 530.337,
+        "foot": 1,
+        "contact": [
+          7.965714285714285,
+          0.002,
+          -4.442857142857145
+        ],
+        "surface": "dry interior",
+        "gain": 0.073
+      },
+      {
+        "sourceFrame": 619.7062,
+        "outputFrame": 534.577,
+        "foot": 0,
+        "contact": [
+          7.827142857142857,
+          0.002,
+          -4.928571428571432
+        ],
+        "surface": "dry interior",
+        "gain": 0.073
+      },
+      {
+        "sourceFrame": 624.8974,
+        "outputFrame": 538.817,
+        "foot": 1,
+        "contact": [
+          8.20857142857143,
+          0.002,
+          -5.4142857142857155
+        ],
+        "surface": "dry interior",
+        "gain": 0.073
+      },
+      {
+        "sourceFrame": 630.0886,
+        "outputFrame": 543.0569,
+        "foot": 0,
+        "contact": [
+          8.069999999999999,
+          0.002,
+          -5.9
+        ],
+        "surface": "dry interior",
+        "gain": 0.073
+      },
+      {
+        "sourceFrame": 636.1868,
+        "outputFrame": 548.0377,
+        "foot": 1,
+        "contact": [
+          8.33,
+          0.002,
+          -5.9
+        ],
+        "surface": "dry interior",
+        "gain": 0.073
+      }
+    ],
+    "lighter": {
+      "sourceFrame": 660,
+      "outputFrame": 567.487,
+      "sourceWindowSeconds": [
+        0.12,
+        0.45
+      ],
+      "impactOffsetSeconds": 0.07
+    },
+    "ambience": {
+      "source": "0578.mp3",
+      "sourceWindowSeconds": [
+        12,
+        19.612000000000002
+      ],
+      "outputSourceFrames": [
+        252,
+        517
+      ],
+      "outputWindowSeconds": [
+        7.2423,
+        14.8543
+      ],
+      "centeredMono": true,
+      "gain": 0.092
+    },
+    "practicalCues": [
+      {
+        "kind": "air",
+        "sourceStart": 0,
+        "sourceEnd": 105,
+        "outputStartFrame": 0,
+        "outputEndFrame": 89.249375,
+        "gain": 0.025,
+        "pan": -0.12,
+        "origin": "custom deterministic synthesis",
+        "justification": "opening service-area outdoor air"
+      },
+      {
+        "kind": "office",
+        "sourceStart": 170,
+        "sourceEnd": 252,
+        "outputStartFrame": 146.18625,
+        "outputEndFrame": 217.26810127601166,
+        "gain": 0.045,
+        "pan": 0,
+        "origin": "custom deterministic synthesis",
+        "justification": "office fluorescent/equipment room tone"
+      },
+      {
+        "kind": "key",
+        "sourceStart": 176,
+        "sourceEnd": 177.7,
+        "outputStartFrame": 152.18625,
+        "outputEndFrame": 153.6525136050753,
+        "gain": 0.025,
+        "pan": -0.13,
+        "origin": "custom deterministic synthesis",
+        "justification": "hands at desk; typing tapers to rest before exhausted face detail"
+      },
+      {
+        "kind": "key",
+        "sourceStart": 182,
+        "sourceEnd": 183.7,
+        "outputStartFrame": 157.20071070788882,
+        "outputEndFrame": 158.60348630667553,
+        "gain": 0.025,
+        "pan": -0.13,
+        "origin": "custom deterministic synthesis",
+        "justification": "hands at desk; typing tapers to rest before exhausted face detail"
+      },
+      {
+        "kind": "key",
+        "sourceStart": 187,
+        "sourceEnd": 188.7,
+        "outputStartFrame": 161.3265212925557,
+        "outputEndFrame": 162.72929689134244,
+        "gain": 0.025,
+        "pan": -0.13,
+        "origin": "custom deterministic synthesis",
+        "justification": "hands at desk; typing tapers to rest before exhausted face detail"
+      },
+      {
+        "kind": "key",
+        "sourceStart": 194,
+        "sourceEnd": 195.7,
+        "outputStartFrame": 167.10265611108932,
+        "outputEndFrame": 168.50543170987604,
+        "gain": 0.025,
+        "pan": -0.13,
+        "origin": "custom deterministic synthesis",
+        "justification": "hands at desk; typing tapers to rest before exhausted face detail"
+      },
+      {
+        "kind": "key",
+        "sourceStart": 201,
+        "sourceEnd": 202.7,
+        "outputStartFrame": 172.87879092962297,
+        "outputEndFrame": 174.28156652840966,
+        "gain": 0.025,
+        "pan": -0.13,
+        "origin": "custom deterministic synthesis",
+        "justification": "hands at desk; typing tapers to rest before exhausted face detail"
+      },
+      {
+        "kind": "key",
+        "sourceStart": 207,
+        "sourceEnd": 208.7,
+        "outputStartFrame": 177.82976363122322,
+        "outputEndFrame": 179.23253923000993,
+        "gain": 0.025,
+        "pan": -0.13,
+        "origin": "custom deterministic synthesis",
+        "justification": "hands at desk; typing tapers to rest before exhausted face detail"
+      },
+      {
+        "kind": "key",
+        "sourceStart": 214,
+        "sourceEnd": 215.7,
+        "outputStartFrame": 183.6058984497568,
+        "outputEndFrame": 185.00867404854355,
+        "gain": 0.025,
+        "pan": -0.13,
+        "origin": "custom deterministic synthesis",
+        "justification": "hands at desk; typing tapers to rest before exhausted face detail"
+      },
+      {
+        "kind": "key",
+        "sourceStart": 220,
+        "sourceEnd": 221.7,
+        "outputStartFrame": 188.55687115135706,
+        "outputEndFrame": 189.9596467501438,
+        "gain": 0.017499999999999998,
+        "pan": -0.13,
+        "origin": "custom deterministic synthesis",
+        "justification": "hands at desk; typing tapers to rest before exhausted face detail"
+      },
+      {
+        "kind": "key",
+        "sourceStart": 225,
+        "sourceEnd": 226.7,
+        "outputStartFrame": 192.828125,
+        "outputEndFrame": 194.528125,
+        "gain": 0.011250000000000001,
+        "pan": -0.13,
+        "origin": "custom deterministic synthesis",
+        "justification": "hands at desk; typing tapers to rest before exhausted face detail"
+      },
+      {
+        "kind": "key",
+        "sourceStart": 229,
+        "sourceEnd": 230.7,
+        "outputStartFrame": 196.828125,
+        "outputEndFrame": 198.528125,
+        "gain": 0.00625,
+        "pan": -0.13,
+        "origin": "custom deterministic synthesis",
+        "justification": "hands at desk; typing tapers to rest before exhausted face detail"
+      },
+      {
+        "kind": "cloth",
+        "sourceStart": 230,
+        "sourceEnd": 246,
+        "outputStartFrame": 197.828125,
+        "outputEndFrame": 212.32632672168367,
+        "gain": 0.027,
+        "pan": -0.05,
+        "origin": "custom deterministic synthesis",
+        "justification": "small settling fabric movement at desk"
+      },
+      {
+        "kind": "motor",
+        "sourceStart": 246,
+        "sourceEnd": 260,
+        "outputStartFrame": 212.32632672168367,
+        "outputEndFrame": 223.8571340151156,
+        "gain": 0.03,
+        "pan": 0,
+        "origin": "custom deterministic synthesis",
+        "justification": "sliding entrance opens; no closure cue after store cut"
+      },
+      {
+        "kind": "cloth",
+        "sourceStart": 264,
+        "sourceEnd": 280,
+        "outputStartFrame": 227.15165038466756,
+        "outputEndFrame": 240.32971586287533,
+        "gain": 0.02,
+        "pan": -0.08,
+        "origin": "custom deterministic synthesis",
+        "justification": "walking suit and carried briefcase movement"
+      },
+      {
+        "kind": "cloth",
+        "sourceStart": 313,
+        "sourceEnd": 331,
+        "outputStartFrame": 268.4795490212161,
+        "outputEndFrame": 283.32797421806646,
+        "gain": 0.018,
+        "pan": -0.08,
+        "origin": "custom deterministic synthesis",
+        "justification": "suit/briefcase movement during grounded approach"
+      },
+      {
+        "kind": "cloth",
+        "sourceStart": 473,
+        "sourceEnd": 501,
+        "outputStartFrame": 406.8032789033695,
+        "outputEndFrame": 430.0512467881191,
+        "gain": 0.02,
+        "pan": -0.06,
+        "origin": "custom deterministic synthesis",
+        "justification": "hand and briefcase settle during disappointed posture"
+      },
+      {
+        "kind": "air",
+        "sourceStart": 517,
+        "sourceEnd": 1050,
+        "outputStartFrame": 445.62812499999995,
+        "outputEndFrame": 902.1233267906528,
+        "gain": 0.026,
+        "pan": 0.05,
+        "origin": "custom deterministic synthesis",
+        "justification": "exterior service lane ventilation and air"
+      },
+      {
+        "kind": "air",
+        "sourceStart": 1050,
+        "sourceEnd": 1165,
+        "outputStartFrame": 902.1233267906528,
+        "outputEndFrame": 1004.5263920999969,
+        "gain": 0.01,
+        "pan": 0.05,
+        "origin": "custom deterministic synthesis",
+        "justification": "sparse emotional window: low continuous air only"
+      },
+      {
+        "kind": "air",
+        "sourceStart": 1165,
+        "sourceEnd": 1589,
+        "outputStartFrame": 1004.5263920999969,
+        "outputEndFrame": 1370.525,
+        "gain": 0.026,
+        "pan": 0.05,
+        "origin": "custom deterministic synthesis",
+        "justification": "exterior location returns gently"
+      },
+      {
+        "kind": "cloth",
+        "sourceStart": 526,
+        "sourceEnd": 563,
+        "outputStartFrame": 454.0664282146029,
+        "outputEndFrame": 485.4789081358552,
+        "gain": 0.025,
+        "pan": -0.1,
+        "origin": "custom deterministic synthesis",
+        "justification": "hand reaches into cigarette/coat area"
+      },
+      {
+        "kind": "cloth",
+        "sourceStart": 639,
+        "sourceEnd": 654,
+        "outputStartFrame": 550.3353613832362,
+        "outputEndFrame": 562.5867041474394,
+        "gain": 0.024,
+        "pan": -0.05,
+        "origin": "custom deterministic synthesis",
+        "justification": "hands extend lighter and cigarette"
+      },
+      {
+        "kind": "flame",
+        "sourceStart": 661,
+        "sourceEnd": 674,
+        "outputStartFrame": 568.3039974374007,
+        "outputEndFrame": 578.9218278330434,
+        "gain": 0.014,
+        "pan": 0,
+        "origin": "custom deterministic synthesis",
+        "justification": "short burning lighter flame"
+      },
+      {
+        "kind": "closure",
+        "sourceStart": 690,
+        "sourceEnd": 693,
+        "outputStartFrame": 594.015,
+        "outputEndFrame": 597.015,
+        "gain": 0.042,
+        "pan": 0.03,
+        "origin": "custom deterministic synthesis",
+        "justification": "lighter lid closure as hand withdraws"
+      },
+      {
+        "kind": "cloth",
+        "sourceStart": 682,
+        "sourceEnd": 700,
+        "outputStartFrame": 586.015,
+        "outputEndFrame": 603.4308414061243,
+        "gain": 0.022,
+        "pan": -0.04,
+        "origin": "custom deterministic synthesis",
+        "justification": "hands lower after light"
+      },
+      {
+        "kind": "cloth",
+        "sourceStart": 832,
+        "sourceEnd": 859,
+        "outputStartFrame": 718.1831679850975,
+        "outputEndFrame": 741.427287253456,
+        "gain": 0.021,
+        "pan": -0.08,
+        "origin": "custom deterministic synthesis",
+        "justification": "visible flustered recoil and raised hand"
+      },
+      {
+        "kind": "cloth",
+        "sourceStart": 939,
+        "sourceEnd": 969,
+        "outputStartFrame": 809.319765913505,
+        "outputEndFrame": 835.6377192440582,
+        "gain": 0.017,
+        "pan": -0.08,
+        "origin": "custom deterministic synthesis",
+        "justification": "explanation gesture and settling clothing"
+      },
+      {
+        "kind": "cloth",
+        "sourceStart": 1209,
+        "sourceEnd": 1234,
+        "outputStartFrame": 1041.5112499999998,
+        "outputEndFrame": 1063.671051865948,
+        "gain": 0.015,
+        "pan": 0.09,
+        "origin": "custom deterministic synthesis",
+        "justification": "small introduction gesture"
+      }
+    ],
+    "generatedSeed": 193071,
+    "generatedDescription": "Original deterministic synthesis: office hum/keys, air, door motor, cloth/briefcase, flame and lid closure. These are generated textures, not recorded Foley. No camera whooshes or heartbeat.",
+    "licenses": [
+      {
+        "file": "public/sfx-source/0514.mp3",
+        "creator": "Joseph Sardin",
+        "title": "Footsteps, Shoe on Concrete",
+        "url": "https://bigsoundbank.com/footsteps-shoe-on-concrete-s0514.html",
+        "license": "CC0 / public-domain equivalent; attribution not required"
+      },
+      {
+        "file": "public/sfx-source/2131.mp3",
+        "creator": "Joseph Sardin",
+        "title": "Cigarette, Ignition",
+        "url": "https://bigsoundbank.com/cigarette-ignition-s2131.html",
+        "license": "CC0 / public-domain equivalent; attribution not required"
+      },
+      {
+        "file": "public/sfx-source/0578.mp3",
+        "creator": "Joseph Sardin",
+        "title": "Supermarket",
+        "url": "https://bigsoundbank.com/supermarket-s0578.html",
+        "license": "CC0 / public-domain equivalent; attribution not required"
+      }
+    ]
+  },
+  "finalMix": {
+    "file": "public/mix-193.wav",
+    "voiceGainConstant": true,
+    "voiceBusGainDb": 0,
+    "master": "Two-pass FFmpeg loudnorm; I=-16.6 LUFS, TP=-1.5 dBTP, LRA target20; dynamic peak control applied only as needed.",
+    "premaster": {
+      "integratedLufs": -21.53,
+      "truePeakDbfs": -4.42
+    },
+    "integratedLufs": -16.6,
+    "truePeakDbfs": -1.5,
+    "samplePeakDbfs": -1.5,
+    "rmsDbfs": -20.127,
+    "preLimitPeak": 0.599117636680603
+  },
+  "verification": {
+    "actualDurationSeconds": 45.733333333333334,
+    "exactFrames": 1372,
+    "assets": [
+      {
+        "file": "public/mix-193.wav",
+        "codec": "PCM s16le",
+        "channels": 2,
+        "sampleRate": 48000,
+        "samplesPerChannel": 2195200,
+        "fullDecodePassed": true,
+        "sha256": "fd550f6113e5c6065e7ba52c3a27aec5e4c05dc83a25906830a6f406ebbd084d"
+      },
+      {
+        "file": "public/music-193.wav",
+        "codec": "PCM s16le",
+        "channels": 2,
+        "sampleRate": 48000,
+        "samplesPerChannel": 2195200,
+        "fullDecodePassed": true,
+        "sha256": "d3b20e434115a2adeafd274a6d95b32af18d241b08763aef54368d6b5b3d2634"
+      },
+      {
+        "file": "public/sfx-193.wav",
+        "codec": "PCM s16le",
+        "channels": 2,
+        "sampleRate": 48000,
+        "samplesPerChannel": 2195200,
+        "fullDecodePassed": true,
+        "sha256": "d6d16677e3bc1e22d45915fd37a021d3aae5695437c46c057dc0d19e3e1ca332"
+      }
+    ],
+    "sourceQuietPcmAndDurations": {
+      "independentlyCompared": true,
+      "exactIntervals": 26,
+      "duration": 10.536291666666667,
+      "scope": "voice-193.wav narration stem"
+    },
+    "noDiscreteSfxEventsDuringMappedSourceFrames": [
+      1050,
+      1165
+    ],
+    "sparseWindowAirGain": 0.01,
+    "emotionalTurnOutputFrames": [
+      902.123,
+      1004.526
+    ],
+    "doorCloseCue": false,
+    "listening": "Not verified by listening; user continuous audiovisual review required"
+  }
+}

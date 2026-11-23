@@ -1,0 +1,14 @@
+{
+  "frames": 1372,
+  "voiceWpm": 193.04635562596528,
+  "preservedPauses": 26,
+  "quietPcmIdentity": true,
+  "captionWords": 145,
+  "conservativeSolidComparisons": 173072,
+  "minDoorGap": 2.4,
+  "minCameraDistance": 1.615,
+  "lowestWalkingSoleNdc": -0.9179781496035925,
+  "detailFramingChecks": true,
+  "coworkerFeaturesClearOfDisplay": true,
+  "scope": "Conservative body/hair/arm/leg/shoe/briefcase bounds at compensated draw depth, listed scenery/near-plane clearance, focus targets, pace and pause checks. Rendering and human audiovisual review remain separate."
+}

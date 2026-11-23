@@ -1,0 +1,117 @@
+{
+  "input": "C:\\Users\\Win 10\\Downloads\\new video edit\\shorts\\fragrant-flower\\out\\pilot-r1\\preview.mp4",
+  "passed": false,
+  "failedChecks": [
+    "fps",
+    "frameCount",
+    "frozenSpans"
+  ],
+  "expected": {
+    "width": 540,
+    "height": 960,
+    "fps": 30,
+    "frames": 732,
+    "lufs": -15,
+    "peak": -1.5
+  },
+  "checks": {
+    "probe": {
+      "passed": true
+    },
+    "videoPresence": {
+      "passed": true
+    },
+    "dimensions": {
+      "passed": true,
+      "actual": {
+        "width": 540,
+        "height": 960
+      },
+      "expected": {
+        "width": 540,
+        "height": 960
+      }
+    },
+    "decode": {
+      "passed": true
+    },
+    "audioPresence": {
+      "passed": true,
+      "streamFound": true
+    },
+    "fps": {
+      "passed": false,
+      "expected": 30,
+      "reported": 30,
+      "offCadenceIntervals": 12
+    },
+    "frameCount": {
+      "passed": false,
+      "decoded": 720,
+      "expected": 732,
+      "container": 732
+    },
+    "durationAgreement": {
+      "passed": true,
+      "videoSeconds": 24.400000000000002,
+      "audioSeconds": 24.405,
+      "videoStart": 0,
+      "audioStart": 0,
+      "maxDifferenceSeconds": 0.004999999999999005,
+      "toleranceSeconds": 0.033334333333333334
+    },
+    "integratedLoudness": {
+      "passed": true,
+      "actualLufs": -14.98,
+      "targetLufs": -15,
+      "toleranceLu": 1
+    },
+    "truePeak": {
+      "passed": true,
+      "actualDbtp": -2.11,
+      "maximumDbtp": -1.5
+    },
+    "blackSpans": {
+      "passed": true,
+      "minimumSeconds": 0.1,
+      "spans": []
+    },
+    "frozenSpans": {
+      "passed": false,
+      "minimumSeconds": 0.5,
+      "allowances": [],
+      "spans": [
+        {
+          "start": 12.933333,
+          "end": 13.833333,
+          "duration": 0.9,
+          "allowed": false
+        }
+      ]
+    },
+    "quietSpans": {
+      "passed": true,
+      "thresholdDbfs": -30,
+      "minimumSeconds": 0.5,
+      "allowances": [
+        [
+          19.5,
+          21.6
+        ],
+        [
+          23.8,
+          24.4
+        ]
+      ],
+      "spans": [
+        {
+          "start": 20.124708,
+          "end": 20.691854,
+          "duration": 0.567146,
+          "allowed": true
+        }
+      ]
+    }
+  },
+  "scope": "Decoded frames and audio signal only. Review playback at normal speed with sound for timing and mix."
+}

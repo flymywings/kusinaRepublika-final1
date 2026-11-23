@@ -1,0 +1,884 @@
+{
+  "sampleRate": 48000,
+  "fps": 30,
+  "thresholdDb": -35,
+  "minQuietSeconds": 0.15,
+  "originalAudioSamples": 2512771,
+  "originalAudioDuration": 52.34939583333333,
+  "originalExportDuration": 53,
+  "preservedTailDuration": 0.6506041666666675,
+  "targetWpm": 175,
+  "baselineWpm": 166.1910297436575,
+  "targetAudioDuration": 49.714285714285715,
+  "outputAudioSamples": 2385360,
+  "outputAudioDuration": 49.695,
+  "exportDuration": 50.34560416666667,
+  "frames": 1511,
+  "tempo": 1.073495038075425,
+  "quietSampleCount": 505742,
+  "quietDuration": 10.536291666666667,
+  "guardSampleCount": 24960,
+  "guardDuration": 0.52,
+  "quietIntervals": [
+    {
+      "sourceStartSample": 143078,
+      "sourceEndSample": 177464,
+      "duration": 0.716375
+    },
+    {
+      "sourceStartSample": 250577,
+      "sourceEndSample": 281701,
+      "duration": 0.6484166666666666
+    },
+    {
+      "sourceStartSample": 359149,
+      "sourceEndSample": 379496,
+      "duration": 0.42389583333333336
+    },
+    {
+      "sourceStartSample": 468974,
+      "sourceEndSample": 476642,
+      "duration": 0.15975
+    },
+    {
+      "sourceStartSample": 532466,
+      "sourceEndSample": 556521,
+      "duration": 0.5011458333333333
+    },
+    {
+      "sourceStartSample": 676085,
+      "sourceEndSample": 698924,
+      "duration": 0.4758125
+    },
+    {
+      "sourceStartSample": 726518,
+      "sourceEndSample": 734862,
+      "duration": 0.17383333333333334
+    },
+    {
+      "sourceStartSample": 806069,
+      "sourceEndSample": 835867,
+      "duration": 0.6207916666666666
+    },
+    {
+      "sourceStartSample": 868355,
+      "sourceEndSample": 875578,
+      "duration": 0.15047916666666666
+    },
+    {
+      "sourceStartSample": 930890,
+      "sourceEndSample": 953648,
+      "duration": 0.474125
+    },
+    {
+      "sourceStartSample": 1086798,
+      "sourceEndSample": 1113935,
+      "duration": 0.5653541666666667
+    },
+    {
+      "sourceStartSample": 1164599,
+      "sourceEndSample": 1173427,
+      "duration": 0.18391666666666667
+    },
+    {
+      "sourceStartSample": 1213296,
+      "sourceEndSample": 1223409,
+      "duration": 0.2106875
+    },
+    {
+      "sourceStartSample": 1279711,
+      "sourceEndSample": 1304758,
+      "duration": 0.5218125
+    },
+    {
+      "sourceStartSample": 1354703,
+      "sourceEndSample": 1362671,
+      "duration": 0.166
+    },
+    {
+      "sourceStartSample": 1430759,
+      "sourceEndSample": 1448220,
+      "duration": 0.3637708333333333
+    },
+    {
+      "sourceStartSample": 1522294,
+      "sourceEndSample": 1536400,
+      "duration": 0.293875
+    },
+    {
+      "sourceStartSample": 1681637,
+      "sourceEndSample": 1718381,
+      "duration": 0.7655
+    },
+    {
+      "sourceStartSample": 1753699,
+      "sourceEndSample": 1761319,
+      "duration": 0.15875
+    },
+    {
+      "sourceStartSample": 1810243,
+      "sourceEndSample": 1828080,
+      "duration": 0.3716041666666667
+    },
+    {
+      "sourceStartSample": 1927483,
+      "sourceEndSample": 1948405,
+      "duration": 0.435875
+    },
+    {
+      "sourceStartSample": 2035809,
+      "sourceEndSample": 2056407,
+      "duration": 0.429125
+    },
+    {
+      "sourceStartSample": 2161810,
+      "sourceEndSample": 2185338,
+      "duration": 0.49016666666666664
+    },
+    {
+      "sourceStartSample": 2301048,
+      "sourceEndSample": 2328149,
+      "duration": 0.5646041666666667
+    },
+    {
+      "sourceStartSample": 2425628,
+      "sourceEndSample": 2443671,
+      "duration": 0.3758958333333333
+    },
+    {
+      "sourceStartSample": 2498624,
+      "sourceEndSample": 2512771,
+      "duration": 0.29472916666666665
+    }
+  ],
+  "segments": [
+    {
+      "sourceStartSample": 0,
+      "sourceEndSample": 480,
+      "targetStartSample": 0,
+      "targetEndSample": 480,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 480,
+      "sourceEndSample": 142598,
+      "targetStartSample": 480,
+      "targetEndSample": 133322,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 142598,
+      "sourceEndSample": 143078,
+      "targetStartSample": 133322,
+      "targetEndSample": 133802,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 143078,
+      "sourceEndSample": 177464,
+      "targetStartSample": 133802,
+      "targetEndSample": 168188,
+      "kind": "quiet"
+    },
+    {
+      "sourceStartSample": 177464,
+      "sourceEndSample": 177944,
+      "targetStartSample": 168188,
+      "targetEndSample": 168668,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 177944,
+      "sourceEndSample": 250097,
+      "targetStartSample": 168668,
+      "targetEndSample": 235593,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 250097,
+      "sourceEndSample": 250577,
+      "targetStartSample": 235593,
+      "targetEndSample": 236073,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 250577,
+      "sourceEndSample": 281701,
+      "targetStartSample": 236073,
+      "targetEndSample": 267197,
+      "kind": "quiet"
+    },
+    {
+      "sourceStartSample": 281701,
+      "sourceEndSample": 282181,
+      "targetStartSample": 267197,
+      "targetEndSample": 267677,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 282181,
+      "sourceEndSample": 358669,
+      "targetStartSample": 267677,
+      "targetEndSample": 339812,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 358669,
+      "sourceEndSample": 359149,
+      "targetStartSample": 339812,
+      "targetEndSample": 340292,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 359149,
+      "sourceEndSample": 379496,
+      "targetStartSample": 340292,
+      "targetEndSample": 360639,
+      "kind": "quiet"
+    },
+    {
+      "sourceStartSample": 379496,
+      "sourceEndSample": 379976,
+      "targetStartSample": 360639,
+      "targetEndSample": 361119,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 379976,
+      "sourceEndSample": 468494,
+      "targetStartSample": 361119,
+      "targetEndSample": 443979,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 468494,
+      "sourceEndSample": 468974,
+      "targetStartSample": 443979,
+      "targetEndSample": 444459,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 468974,
+      "sourceEndSample": 476642,
+      "targetStartSample": 444459,
+      "targetEndSample": 452127,
+      "kind": "quiet"
+    },
+    {
+      "sourceStartSample": 476642,
+      "sourceEndSample": 477122,
+      "targetStartSample": 452127,
+      "targetEndSample": 452607,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 477122,
+      "sourceEndSample": 531986,
+      "targetStartSample": 452607,
+      "targetEndSample": 504004,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 531986,
+      "sourceEndSample": 532466,
+      "targetStartSample": 504004,
+      "targetEndSample": 504484,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 532466,
+      "sourceEndSample": 556521,
+      "targetStartSample": 504484,
+      "targetEndSample": 528539,
+      "kind": "quiet"
+    },
+    {
+      "sourceStartSample": 556521,
+      "sourceEndSample": 557001,
+      "targetStartSample": 528539,
+      "targetEndSample": 529019,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 557001,
+      "sourceEndSample": 675605,
+      "targetStartSample": 529019,
+      "targetEndSample": 639929,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 675605,
+      "sourceEndSample": 676085,
+      "targetStartSample": 639929,
+      "targetEndSample": 640409,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 676085,
+      "sourceEndSample": 698924,
+      "targetStartSample": 640409,
+      "targetEndSample": 663248,
+      "kind": "quiet"
+    },
+    {
+      "sourceStartSample": 698924,
+      "sourceEndSample": 699404,
+      "targetStartSample": 663248,
+      "targetEndSample": 663728,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 699404,
+      "sourceEndSample": 726038,
+      "targetStartSample": 663728,
+      "targetEndSample": 688807,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 726038,
+      "sourceEndSample": 726518,
+      "targetStartSample": 688807,
+      "targetEndSample": 689287,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 726518,
+      "sourceEndSample": 734862,
+      "targetStartSample": 689287,
+      "targetEndSample": 697631,
+      "kind": "quiet"
+    },
+    {
+      "sourceStartSample": 734862,
+      "sourceEndSample": 735342,
+      "targetStartSample": 697631,
+      "targetEndSample": 698111,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 735342,
+      "sourceEndSample": 805589,
+      "targetStartSample": 698111,
+      "targetEndSample": 764027,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 805589,
+      "sourceEndSample": 806069,
+      "targetStartSample": 764027,
+      "targetEndSample": 764507,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 806069,
+      "sourceEndSample": 835867,
+      "targetStartSample": 764507,
+      "targetEndSample": 794305,
+      "kind": "quiet"
+    },
+    {
+      "sourceStartSample": 835867,
+      "sourceEndSample": 836347,
+      "targetStartSample": 794305,
+      "targetEndSample": 794785,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 836347,
+      "sourceEndSample": 867875,
+      "targetStartSample": 794785,
+      "targetEndSample": 824186,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 867875,
+      "sourceEndSample": 868355,
+      "targetStartSample": 824186,
+      "targetEndSample": 824666,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 868355,
+      "sourceEndSample": 875578,
+      "targetStartSample": 824666,
+      "targetEndSample": 831889,
+      "kind": "quiet"
+    },
+    {
+      "sourceStartSample": 875578,
+      "sourceEndSample": 876058,
+      "targetStartSample": 831889,
+      "targetEndSample": 832369,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 876058,
+      "sourceEndSample": 930410,
+      "targetStartSample": 832369,
+      "targetEndSample": 882703,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 930410,
+      "sourceEndSample": 930890,
+      "targetStartSample": 882703,
+      "targetEndSample": 883183,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 930890,
+      "sourceEndSample": 953648,
+      "targetStartSample": 883183,
+      "targetEndSample": 905941,
+      "kind": "quiet"
+    },
+    {
+      "sourceStartSample": 953648,
+      "sourceEndSample": 954128,
+      "targetStartSample": 905941,
+      "targetEndSample": 906421,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 954128,
+      "sourceEndSample": 1086318,
+      "targetStartSample": 906421,
+      "targetEndSample": 1029630,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 1086318,
+      "sourceEndSample": 1086798,
+      "targetStartSample": 1029630,
+      "targetEndSample": 1030110,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 1086798,
+      "sourceEndSample": 1113935,
+      "targetStartSample": 1030110,
+      "targetEndSample": 1057247,
+      "kind": "quiet"
+    },
+    {
+      "sourceStartSample": 1113935,
+      "sourceEndSample": 1114415,
+      "targetStartSample": 1057247,
+      "targetEndSample": 1057727,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 1114415,
+      "sourceEndSample": 1164119,
+      "targetStartSample": 1057727,
+      "targetEndSample": 1104626,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 1164119,
+      "sourceEndSample": 1164599,
+      "targetStartSample": 1104626,
+      "targetEndSample": 1105106,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 1164599,
+      "sourceEndSample": 1173427,
+      "targetStartSample": 1105106,
+      "targetEndSample": 1113934,
+      "kind": "quiet"
+    },
+    {
+      "sourceStartSample": 1173427,
+      "sourceEndSample": 1173907,
+      "targetStartSample": 1113934,
+      "targetEndSample": 1114414,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 1173907,
+      "sourceEndSample": 1212816,
+      "targetStartSample": 1114414,
+      "targetEndSample": 1151534,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 1212816,
+      "sourceEndSample": 1213296,
+      "targetStartSample": 1151534,
+      "targetEndSample": 1152014,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 1213296,
+      "sourceEndSample": 1223409,
+      "targetStartSample": 1152014,
+      "targetEndSample": 1162127,
+      "kind": "quiet"
+    },
+    {
+      "sourceStartSample": 1223409,
+      "sourceEndSample": 1223889,
+      "targetStartSample": 1162127,
+      "targetEndSample": 1162607,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 1223889,
+      "sourceEndSample": 1279231,
+      "targetStartSample": 1162607,
+      "targetEndSample": 1214690,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 1279231,
+      "sourceEndSample": 1279711,
+      "targetStartSample": 1214690,
+      "targetEndSample": 1215170,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 1279711,
+      "sourceEndSample": 1304758,
+      "targetStartSample": 1215170,
+      "targetEndSample": 1240217,
+      "kind": "quiet"
+    },
+    {
+      "sourceStartSample": 1304758,
+      "sourceEndSample": 1305238,
+      "targetStartSample": 1240217,
+      "targetEndSample": 1240697,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 1305238,
+      "sourceEndSample": 1354223,
+      "targetStartSample": 1240697,
+      "targetEndSample": 1286645,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 1354223,
+      "sourceEndSample": 1354703,
+      "targetStartSample": 1286645,
+      "targetEndSample": 1287125,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 1354703,
+      "sourceEndSample": 1362671,
+      "targetStartSample": 1287125,
+      "targetEndSample": 1295093,
+      "kind": "quiet"
+    },
+    {
+      "sourceStartSample": 1362671,
+      "sourceEndSample": 1363151,
+      "targetStartSample": 1295093,
+      "targetEndSample": 1295573,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 1363151,
+      "sourceEndSample": 1430279,
+      "targetStartSample": 1295573,
+      "targetEndSample": 1358565,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 1430279,
+      "sourceEndSample": 1430759,
+      "targetStartSample": 1358565,
+      "targetEndSample": 1359045,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 1430759,
+      "sourceEndSample": 1448220,
+      "targetStartSample": 1359045,
+      "targetEndSample": 1376506,
+      "kind": "quiet"
+    },
+    {
+      "sourceStartSample": 1448220,
+      "sourceEndSample": 1448700,
+      "targetStartSample": 1376506,
+      "targetEndSample": 1376986,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 1448700,
+      "sourceEndSample": 1521814,
+      "targetStartSample": 1376986,
+      "targetEndSample": 1445110,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 1521814,
+      "sourceEndSample": 1522294,
+      "targetStartSample": 1445110,
+      "targetEndSample": 1445590,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 1522294,
+      "sourceEndSample": 1536400,
+      "targetStartSample": 1445590,
+      "targetEndSample": 1459696,
+      "kind": "quiet"
+    },
+    {
+      "sourceStartSample": 1536400,
+      "sourceEndSample": 1536880,
+      "targetStartSample": 1459696,
+      "targetEndSample": 1460176,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 1536880,
+      "sourceEndSample": 1681157,
+      "targetStartSample": 1460176,
+      "targetEndSample": 1594890,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 1681157,
+      "sourceEndSample": 1681637,
+      "targetStartSample": 1594890,
+      "targetEndSample": 1595370,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 1681637,
+      "sourceEndSample": 1718381,
+      "targetStartSample": 1595370,
+      "targetEndSample": 1632114,
+      "kind": "quiet"
+    },
+    {
+      "sourceStartSample": 1718381,
+      "sourceEndSample": 1718861,
+      "targetStartSample": 1632114,
+      "targetEndSample": 1632594,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 1718861,
+      "sourceEndSample": 1753219,
+      "targetStartSample": 1632594,
+      "targetEndSample": 1665007,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 1753219,
+      "sourceEndSample": 1753699,
+      "targetStartSample": 1665007,
+      "targetEndSample": 1665487,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 1753699,
+      "sourceEndSample": 1761319,
+      "targetStartSample": 1665487,
+      "targetEndSample": 1673107,
+      "kind": "quiet"
+    },
+    {
+      "sourceStartSample": 1761319,
+      "sourceEndSample": 1761799,
+      "targetStartSample": 1673107,
+      "targetEndSample": 1673587,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 1761799,
+      "sourceEndSample": 1809763,
+      "targetStartSample": 1673587,
+      "targetEndSample": 1718606,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 1809763,
+      "sourceEndSample": 1810243,
+      "targetStartSample": 1718606,
+      "targetEndSample": 1719086,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 1810243,
+      "sourceEndSample": 1828080,
+      "targetStartSample": 1719086,
+      "targetEndSample": 1736923,
+      "kind": "quiet"
+    },
+    {
+      "sourceStartSample": 1828080,
+      "sourceEndSample": 1828560,
+      "targetStartSample": 1736923,
+      "targetEndSample": 1737403,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 1828560,
+      "sourceEndSample": 1927003,
+      "targetStartSample": 1737403,
+      "targetEndSample": 1828935,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 1927003,
+      "sourceEndSample": 1927483,
+      "targetStartSample": 1828935,
+      "targetEndSample": 1829415,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 1927483,
+      "sourceEndSample": 1948405,
+      "targetStartSample": 1829415,
+      "targetEndSample": 1850337,
+      "kind": "quiet"
+    },
+    {
+      "sourceStartSample": 1948405,
+      "sourceEndSample": 1948885,
+      "targetStartSample": 1850337,
+      "targetEndSample": 1850817,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 1948885,
+      "sourceEndSample": 2035329,
+      "targetStartSample": 1850817,
+      "targetEndSample": 1931390,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 2035329,
+      "sourceEndSample": 2035809,
+      "targetStartSample": 1931390,
+      "targetEndSample": 1931870,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 2035809,
+      "sourceEndSample": 2056407,
+      "targetStartSample": 1931870,
+      "targetEndSample": 1952468,
+      "kind": "quiet"
+    },
+    {
+      "sourceStartSample": 2056407,
+      "sourceEndSample": 2056887,
+      "targetStartSample": 1952468,
+      "targetEndSample": 1952948,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 2056887,
+      "sourceEndSample": 2161330,
+      "targetStartSample": 1952948,
+      "targetEndSample": 2050797,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 2161330,
+      "sourceEndSample": 2161810,
+      "targetStartSample": 2050797,
+      "targetEndSample": 2051277,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 2161810,
+      "sourceEndSample": 2185338,
+      "targetStartSample": 2051277,
+      "targetEndSample": 2074805,
+      "kind": "quiet"
+    },
+    {
+      "sourceStartSample": 2185338,
+      "sourceEndSample": 2185818,
+      "targetStartSample": 2074805,
+      "targetEndSample": 2075285,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 2185818,
+      "sourceEndSample": 2300568,
+      "targetStartSample": 2075285,
+      "targetEndSample": 2182566,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 2300568,
+      "sourceEndSample": 2301048,
+      "targetStartSample": 2182566,
+      "targetEndSample": 2183046,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 2301048,
+      "sourceEndSample": 2328149,
+      "targetStartSample": 2183046,
+      "targetEndSample": 2210147,
+      "kind": "quiet"
+    },
+    {
+      "sourceStartSample": 2328149,
+      "sourceEndSample": 2328629,
+      "targetStartSample": 2210147,
+      "targetEndSample": 2210627,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 2328629,
+      "sourceEndSample": 2425148,
+      "targetStartSample": 2210627,
+      "targetEndSample": 2300812,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 2425148,
+      "sourceEndSample": 2425628,
+      "targetStartSample": 2300812,
+      "targetEndSample": 2301292,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 2425628,
+      "sourceEndSample": 2443671,
+      "targetStartSample": 2301292,
+      "targetEndSample": 2319335,
+      "kind": "quiet"
+    },
+    {
+      "sourceStartSample": 2443671,
+      "sourceEndSample": 2444151,
+      "targetStartSample": 2319335,
+      "targetEndSample": 2319815,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 2444151,
+      "sourceEndSample": 2498144,
+      "targetStartSample": 2319815,
+      "targetEndSample": 2370733,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 2498144,
+      "sourceEndSample": 2498624,
+      "targetStartSample": 2370733,
+      "targetEndSample": 2371213,
+      "kind": "speech"
+    },
+    {
+      "sourceStartSample": 2498624,
+      "sourceEndSample": 2512771,
+      "targetStartSample": 2371213,
+      "targetEndSample": 2385360,
+      "kind": "quiet"
+    }
+  ]
+}

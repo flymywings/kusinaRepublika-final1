@@ -1,0 +1,1645 @@
+[
+ {
+  "frame": 0,
+  "shot": "1A-1B",
+  "faces": [
+   {
+    "id": "her",
+    "box": {
+     "u0": 0.20891424778086165,
+     "u1": 0.6182490858841725,
+     "v0": 0.33777335988949114,
+     "v1": 0.5423290172187665
+    },
+    "inside": true,
+    "above70": true
+   },
+   {
+    "id": "his reflection",
+    "box": {
+     "u0": 0.3543516558839619,
+     "u1": 0.8036974654439593,
+     "v0": 0.16922826959383946,
+     "v1": 0.4093956319333226
+    },
+    "inside": true,
+    "above70": true,
+    "inGlass": true
+   }
+  ],
+  "caption": null,
+  "props": {
+   "count": 35,
+   "ids": [
+    "mirror with walnut frame",
+    "reflected lamp",
+    "reflected window",
+    "reflected display case",
+    "reflected cakes",
+    "reflected chairs",
+    "her reflected hair",
+    "reflected menu card",
+    "near cup",
+    "near plate with fork",
+    "wall print",
+    "cup shelf",
+    "teapot",
+    "bud vase",
+    "booth backs",
+    "long table",
+    "teacup",
+    "saucer",
+    "sugar pot",
+    "menu stand",
+    "salt",
+    "pepper",
+    "foreground cup and saucer",
+    "plate stack 1",
+    "plate stack 2",
+    "plate stack 3",
+    "plate stack 4",
+    "plate stack 5",
+    "plate stack 6",
+    "cake slice 1",
+    "cake slice 2",
+    "cake slice 3",
+    "cake slice 4",
+    "water glass",
+    "fork"
+   ]
+  },
+  "words": 0,
+  "pitch": 1.4
+ },
+ {
+  "frame": 26,
+  "shot": "1A-1B",
+  "faces": [
+   {
+    "id": "her",
+    "box": {
+     "u0": 0.19009678064183227,
+     "u1": 0.6202517711699371,
+     "v0": 0.3409131606474227,
+     "v1": 0.555821571918621
+    },
+    "inside": true,
+    "above70": true
+   },
+   {
+    "id": "his reflection",
+    "box": {
+     "u0": 0.34479017228622105,
+     "u1": 0.8132692941437547,
+     "v0": 0.16552740550069406,
+     "v1": 0.41589229016641743
+    },
+    "inside": true,
+    "above70": true,
+    "inGlass": true
+   }
+  ],
+  "caption": {
+   "word": "terrified",
+   "overlapsFace": false,
+   "box": {
+    "u0": 0.30148148148148146,
+    "u1": 0.6985185185185185,
+    "v0": 0.6733333333333333,
+    "v1": 0.7266666666666666
+   }
+  },
+  "props": {
+   "count": 33,
+   "ids": [
+    "mirror with walnut frame",
+    "reflected lamp",
+    "reflected window",
+    "reflected display case",
+    "reflected cakes",
+    "reflected chairs",
+    "her reflected hair",
+    "reflected menu card",
+    "near cup",
+    "near plate with fork",
+    "cup shelf",
+    "teapot",
+    "bud vase",
+    "booth backs",
+    "long table",
+    "teacup",
+    "saucer",
+    "sugar pot",
+    "menu stand",
+    "salt",
+    "pepper",
+    "plate stack 1",
+    "plate stack 2",
+    "plate stack 3",
+    "plate stack 4",
+    "plate stack 5",
+    "plate stack 6",
+    "cake slice 1",
+    "cake slice 2",
+    "cake slice 3",
+    "cake slice 4",
+    "water glass",
+    "fork"
+   ]
+  },
+  "words": 1,
+  "pitch": 1.4
+ },
+ {
+  "frame": 54,
+  "shot": "1A-1B",
+  "faces": [
+   {
+    "id": "her",
+    "box": {
+     "u0": 0.14596232500611805,
+     "u1": 0.6249561169418394,
+     "v0": 0.3435893542735632,
+     "v1": 0.5827830684419215
+    },
+    "inside": true,
+    "above70": true
+   },
+   {
+    "id": "his reflection",
+    "box": {
+     "u0": 0.32293753773605793,
+     "u1": 0.8351652287705982,
+     "v0": 0.150037205580824,
+     "v1": 0.42374404466919385
+    },
+    "inside": true,
+    "above70": true,
+    "inGlass": true
+   }
+  ],
+  "caption": {
+   "word": "face...",
+   "overlapsFace": false,
+   "box": {
+    "u0": 0.3414814814814815,
+    "u1": 0.6585185185185185,
+    "v0": 0.6733333333333333,
+    "v1": 0.7266666666666666
+   }
+  },
+  "props": {
+   "count": 27,
+   "ids": [
+    "mirror with walnut frame",
+    "reflected lamp",
+    "reflected window",
+    "reflected display case",
+    "reflected cakes",
+    "reflected chairs",
+    "her reflected hair",
+    "reflected menu card",
+    "near cup",
+    "near plate with fork",
+    "teapot",
+    "booth backs",
+    "long table",
+    "sugar pot",
+    "menu stand",
+    "plate stack 1",
+    "plate stack 2",
+    "plate stack 3",
+    "plate stack 4",
+    "plate stack 5",
+    "plate stack 6",
+    "cake slice 1",
+    "cake slice 2",
+    "cake slice 3",
+    "cake slice 4",
+    "water glass",
+    "fork"
+   ]
+  },
+  "words": 1,
+  "pitch": 1.4
+ },
+ {
+  "frame": 72,
+  "shot": "1A-1B",
+  "faces": [
+   {
+    "id": "her",
+    "box": {
+     "u0": 0.10529579156322533,
+     "u1": 0.6292935322436143,
+     "v0": 0.3442970105613089,
+     "v1": 0.6058566434023441
+    },
+    "inside": true,
+    "above70": true
+   },
+   {
+    "id": "his reflection",
+    "box": {
+     "u0": 0.30350758012501033,
+     "u1": 0.8546248063748144,
+     "v0": 0.1394409283688115,
+     "v1": 0.43387523056436456
+    },
+    "inside": true,
+    "above70": true,
+    "inGlass": true
+   }
+  ],
+  "caption": {
+   "word": "then",
+   "overlapsFace": false,
+   "box": {
+    "u0": 0.4014814814814815,
+    "u1": 0.5985185185185184,
+    "v0": 0.6733333333333333,
+    "v1": 0.7266666666666666
+   }
+  },
+  "props": {
+   "count": 28,
+   "ids": [
+    "mirror with walnut frame",
+    "reflected lamp",
+    "reflected window",
+    "reflected display case",
+    "reflected cakes",
+    "reflected chairs",
+    "her reflected hair",
+    "reflected menu card",
+    "near cup",
+    "near plate with fork",
+    "teapot",
+    "booth backs",
+    "long table",
+    "sugar pot",
+    "menu stand",
+    "plate stack 1",
+    "plate stack 2",
+    "plate stack 3",
+    "plate stack 4",
+    "plate stack 5",
+    "plate stack 6",
+    "cake slice 1",
+    "cake slice 2",
+    "cake slice 3",
+    "cake slice 4",
+    "water glass",
+    "fork",
+    "small ball cup"
+   ]
+  },
+  "words": 1,
+  "pitch": 1.4
+ },
+ {
+  "frame": 74,
+  "shot": "1A-1B",
+  "faces": [
+   {
+    "id": "her",
+    "box": {
+     "u0": 0.10340724594099271,
+     "u1": 0.62949551250624,
+     "v0": 0.34397327945286593,
+     "v1": 0.6065730695265635
+    },
+    "inside": true,
+    "above70": true
+   },
+   {
+    "id": "his reflection",
+    "box": {
+     "u0": 0.3026201160595001,
+     "u1": 0.855515119159222,
+     "v0": 0.13842182566465067,
+     "v1": 0.4338062668774205
+    },
+    "inside": true,
+    "above70": true,
+    "inGlass": true
+   }
+  ],
+  "caption": {
+   "word": "then",
+   "overlapsFace": false,
+   "box": {
+    "u0": 0.4014814814814815,
+    "u1": 0.5985185185185184,
+    "v0": 0.6733333333333333,
+    "v1": 0.7266666666666666
+   }
+  },
+  "props": {
+   "count": 28,
+   "ids": [
+    "mirror with walnut frame",
+    "reflected lamp",
+    "reflected window",
+    "reflected display case",
+    "reflected cakes",
+    "reflected chairs",
+    "her reflected hair",
+    "reflected menu card",
+    "near cup",
+    "near plate with fork",
+    "teapot",
+    "booth backs",
+    "long table",
+    "sugar pot",
+    "menu stand",
+    "plate stack 1",
+    "plate stack 2",
+    "plate stack 3",
+    "plate stack 4",
+    "plate stack 5",
+    "plate stack 6",
+    "cake slice 1",
+    "cake slice 2",
+    "cake slice 3",
+    "cake slice 4",
+    "water glass",
+    "fork",
+    "small ball cup"
+   ]
+  },
+  "words": 1,
+  "pitch": 1.4
+ },
+ {
+  "frame": 76,
+  "shot": "1B-1C",
+  "faces": [
+   {
+    "id": "her",
+    "box": {
+     "u0": 0.10151146314023951,
+     "u1": 0.629697877602442,
+     "v0": 0.3438999184742776,
+     "v1": 0.6075424549137834
+    },
+    "inside": true,
+    "above70": true
+   },
+   {
+    "id": "his reflection",
+    "box": {
+     "u0": 0.30172958775433256,
+     "u1": 0.8564086532930724,
+     "v0": 0.13734651839518108,
+     "v1": 0.4336847358447845
+    },
+    "inside": true,
+    "above70": true,
+    "inGlass": true
+   }
+  ],
+  "caption": {
+   "word": "then",
+   "overlapsFace": false,
+   "box": {
+    "u0": 0.4014814814814815,
+    "u1": 0.5985185185185184,
+    "v0": 0.6733333333333333,
+    "v1": 0.7266666666666666
+   }
+  },
+  "props": {
+   "count": 28,
+   "ids": [
+    "mirror with walnut frame",
+    "reflected lamp",
+    "reflected window",
+    "reflected display case",
+    "reflected cakes",
+    "reflected chairs",
+    "her reflected hair",
+    "reflected menu card",
+    "near cup",
+    "near plate with fork",
+    "teapot",
+    "booth backs",
+    "long table",
+    "sugar pot",
+    "menu stand",
+    "plate stack 1",
+    "plate stack 2",
+    "plate stack 3",
+    "plate stack 4",
+    "plate stack 5",
+    "plate stack 6",
+    "cake slice 1",
+    "cake slice 2",
+    "cake slice 3",
+    "cake slice 4",
+    "water glass",
+    "fork",
+    "small ball cup"
+   ]
+  },
+  "words": 1,
+  "pitch": 1.4
+ },
+ {
+  "frame": 78,
+  "shot": "1B-1C",
+  "faces": [
+   {
+    "id": "her",
+    "box": {
+     "u0": 0.09960863824830257,
+     "u1": 0.6299005578485969,
+     "v0": 0.34410852297196315,
+     "v1": 0.608796100709832
+    },
+    "inside": true,
+    "above70": true
+   },
+   {
+    "id": "his reflection",
+    "box": {
+     "u0": 0.30083616295864934,
+     "u1": 0.8573050983811037,
+     "v0": 0.13626603688394445,
+     "v1": 0.43356114819546054
+    },
+    "inside": true,
+    "above70": true,
+    "inGlass": true
+   }
+  ],
+  "caption": {
+   "word": "then",
+   "overlapsFace": false,
+   "box": {
+    "u0": 0.4014814814814815,
+    "u1": 0.5985185185185184,
+    "v0": 0.6733333333333333,
+    "v1": 0.7266666666666666
+   }
+  },
+  "props": {
+   "count": 16,
+   "ids": [
+    "mirror with walnut frame",
+    "reflected lamp",
+    "reflected window",
+    "reflected display case",
+    "reflected cakes",
+    "reflected chairs",
+    "her reflected hair",
+    "reflected menu card",
+    "near cup",
+    "near plate with fork",
+    "teapot",
+    "booth backs",
+    "long table",
+    "sugar pot",
+    "menu stand",
+    "small ball cup"
+   ]
+  },
+  "words": 1,
+  "pitch": 1.4
+ },
+ {
+  "frame": 98,
+  "shot": "1B-1C",
+  "faces": [
+   {
+    "id": "her",
+    "box": {
+     "u0": 0.1451723190941856,
+     "u1": 0.6120566656005302,
+     "v0": 0.3250151244383001,
+     "v1": 0.5528120534155814
+    },
+    "inside": true,
+    "above70": true
+   },
+   {
+    "id": "his reflection",
+    "box": {
+     "u0": 0.31688224510562524,
+     "u1": 0.8231330681994653,
+     "v0": 0.1005742175785449,
+     "v1": 0.3714359601257954
+    },
+    "inside": true,
+    "above70": true,
+    "inGlass": true
+   }
+  ],
+  "caption": {
+   "word": "to buy",
+   "overlapsFace": false,
+   "box": {
+    "u0": 0.3614814814814815,
+    "u1": 0.6385185185185185,
+    "v0": 0.6733333333333333,
+    "v1": 0.7266666666666666
+   }
+  },
+  "props": {
+   "count": 16,
+   "ids": [
+    "mirror with walnut frame",
+    "reflected lamp",
+    "reflected window",
+    "reflected display case",
+    "reflected cakes",
+    "reflected chairs",
+    "her reflected hair",
+    "reflected menu card",
+    "near plate with fork",
+    "teapot",
+    "booth backs",
+    "long table",
+    "sugar pot",
+    "menu stand",
+    "slice box",
+    "small ball cup"
+   ]
+  },
+  "words": 2,
+  "pitch": 10.519548148148154
+ },
+ {
+  "frame": 99,
+  "shot": "1B-1C",
+  "faces": [
+   {
+    "id": "her",
+    "box": {
+     "u0": 0.15049228705967077,
+     "u1": 0.6103303559330384,
+     "v0": 0.3214003394233828,
+     "v1": 0.5451527185530938
+    },
+    "inside": true,
+    "above70": true
+   },
+   {
+    "id": "his reflection",
+    "box": {
+     "u0": 0.31889660784567686,
+     "u1": 0.8194971706250748,
+     "v0": 0.09698244952848484,
+     "v1": 0.3647931419122795
+    },
+    "inside": true,
+    "above70": true,
+    "inGlass": true
+   }
+  ],
+  "caption": {
+   "word": "to buy",
+   "overlapsFace": false,
+   "box": {
+    "u0": 0.3614814814814815,
+    "u1": 0.6385185185185185,
+    "v0": 0.6733333333333333,
+    "v1": 0.7266666666666666
+   }
+  },
+  "props": {
+   "count": 18,
+   "ids": [
+    "mirror with walnut frame",
+    "reflected lamp",
+    "reflected window",
+    "reflected display case",
+    "reflected cakes",
+    "reflected chairs",
+    "her reflected hair",
+    "reflected menu card",
+    "near plate with fork",
+    "cup shelf",
+    "teapot",
+    "booth backs",
+    "long table",
+    "sugar pot",
+    "menu stand",
+    "coin 1",
+    "slice box",
+    "small ball cup"
+   ]
+  },
+  "words": 2,
+  "pitch": 11.453451851851852
+ },
+ {
+  "frame": 100,
+  "shot": "1B-1C",
+  "faces": [
+   {
+    "id": "her",
+    "box": {
+     "u0": 0.15521071768765288,
+     "u1": 0.6088101694526501,
+     "v0": 0.317879325498265,
+     "v1": 0.5380458673429867
+    },
+    "inside": true,
+    "above70": true
+   },
+   {
+    "id": "his reflection",
+    "box": {
+     "u0": 0.3206860530507445,
+     "u1": 0.8162860922823493,
+     "v0": 0.09357447898713395,
+     "v1": 0.3586807887458021
+    },
+    "inside": true,
+    "above70": true,
+    "inGlass": true
+   }
+  ],
+  "caption": {
+   "word": "to buy",
+   "overlapsFace": false,
+   "box": {
+    "u0": 0.3614814814814815,
+    "u1": 0.6385185185185185,
+    "v0": 0.6733333333333333,
+    "v1": 0.7266666666666666
+   }
+  },
+  "props": {
+   "count": 18,
+   "ids": [
+    "mirror with walnut frame",
+    "reflected lamp",
+    "reflected window",
+    "reflected display case",
+    "reflected cakes",
+    "reflected chairs",
+    "her reflected hair",
+    "reflected menu card",
+    "near plate with fork",
+    "cup shelf",
+    "teapot",
+    "booth backs",
+    "long table",
+    "sugar pot",
+    "menu stand",
+    "coin 1",
+    "slice box",
+    "small ball cup"
+   ]
+  },
+  "words": 2,
+  "pitch": 12.306199999999999
+ },
+ {
+  "frame": 101,
+  "shot": "1B-1C",
+  "faces": [
+   {
+    "id": "her",
+    "box": {
+     "u0": 0.15937427630071782,
+     "u1": 0.6074798537483329,
+     "v0": 0.3144858806794242,
+     "v1": 0.5314904789297136
+    },
+    "inside": true,
+    "above70": true
+   },
+   {
+    "id": "his reflection",
+    "box": {
+     "u0": 0.32226718403296123,
+     "u1": 0.8134682143341433,
+     "v0": 0.09034607458472171,
+     "v1": 0.3530717586050658
+    },
+    "inside": true,
+    "above70": true,
+    "inGlass": true
+   }
+  ],
+  "caption": {
+   "word": "to buy",
+   "overlapsFace": false,
+   "box": {
+    "u0": 0.3614814814814815,
+    "u1": 0.6385185185185185,
+    "v0": 0.6733333333333333,
+    "v1": 0.7266666666666666
+   }
+  },
+  "props": {
+   "count": 20,
+   "ids": [
+    "mirror with walnut frame",
+    "reflected lamp",
+    "reflected window",
+    "reflected display case",
+    "reflected cakes",
+    "reflected chairs",
+    "her reflected hair",
+    "reflected menu card",
+    "near cup",
+    "near plate with fork",
+    "cup shelf",
+    "teapot",
+    "booth backs",
+    "long table",
+    "sugar pot",
+    "menu stand",
+    "pepper",
+    "coin 1",
+    "slice box",
+    "small ball cup"
+   ]
+  },
+  "words": 2,
+  "pitch": 13.081481481481482
+ },
+ {
+  "frame": 102,
+  "shot": "1B-1C",
+  "faces": [
+   {
+    "id": "her",
+    "box": {
+     "u0": 0.16302631138536144,
+     "u1": 0.6063244013991083,
+     "v0": 0.31124763442000086,
+     "v1": 0.525481183000253
+    },
+    "inside": true,
+    "above70": true
+   },
+   {
+    "id": "his reflection",
+    "box": {
+     "u0": 0.32365535763328035,
+     "u1": 0.8110143770339389,
+     "v0": 0.08729220348732586,
+     "v1": 0.34793917670854757
+    },
+    "inside": true,
+    "above70": true,
+    "inGlass": true
+   }
+  ],
+  "caption": {
+   "word": "to buy",
+   "overlapsFace": false,
+   "box": {
+    "u0": 0.3614814814814815,
+    "u1": 0.6385185185185185,
+    "v0": 0.6733333333333333,
+    "v1": 0.7266666666666666
+   }
+  },
+  "props": {
+   "count": 20,
+   "ids": [
+    "mirror with walnut frame",
+    "reflected lamp",
+    "reflected window",
+    "reflected display case",
+    "reflected cakes",
+    "reflected chairs",
+    "her reflected hair",
+    "reflected menu card",
+    "near cup",
+    "near plate with fork",
+    "cup shelf",
+    "teapot",
+    "booth backs",
+    "long table",
+    "sugar pot",
+    "menu stand",
+    "pepper",
+    "coin 1",
+    "slice box",
+    "small ball cup"
+   ]
+  },
+  "words": 2,
+  "pitch": 13.782985185185186
+ },
+ {
+  "frame": 103,
+  "shot": "1B-1C",
+  "faces": [
+   {
+    "id": "her",
+    "box": {
+     "u0": 0.16620710930333643,
+     "u1": 0.6053299387146348,
+     "v0": 0.30818669466246046,
+     "v1": 0.5200089841094633
+    },
+    "inside": true,
+    "above70": true
+   },
+   {
+    "id": "his reflection",
+    "box": {
+     "u0": 0.3248648287973327,
+     "u1": 0.8088975856596539,
+     "v0": 0.08440708964326687,
+     "v1": 0.3432564864059602
+    },
+    "inside": true,
+    "above70": true,
+    "inGlass": true
+   }
+  ],
+  "caption": {
+   "word": "to buy",
+   "overlapsFace": false,
+   "box": {
+    "u0": 0.3614814814814815,
+    "u1": 0.6385185185185185,
+    "v0": 0.6733333333333333,
+    "v1": 0.7266666666666666
+   }
+  },
+  "props": {
+   "count": 21,
+   "ids": [
+    "mirror with walnut frame",
+    "reflected lamp",
+    "reflected window",
+    "reflected display case",
+    "reflected cakes",
+    "reflected chairs",
+    "her reflected hair",
+    "reflected menu card",
+    "near cup",
+    "near plate with fork",
+    "cup shelf",
+    "teapot",
+    "booth backs",
+    "long table",
+    "sugar pot",
+    "menu stand",
+    "pepper",
+    "coin 1",
+    "coin 2",
+    "slice box",
+    "small ball cup"
+   ]
+  },
+  "words": 2,
+  "pitch": 14.414400000000002
+ },
+ {
+  "frame": 104,
+  "shot": "1B-1C",
+  "faces": [
+   {
+    "id": "her",
+    "box": {
+     "u0": 0.16895414833304317,
+     "u1": 0.6044836186098217,
+     "v0": 0.3053201916178864,
+     "v1": 0.5150618061371268
+    },
+    "inside": true,
+    "above70": true
+   },
+   {
+    "id": "his reflection",
+    "box": {
+     "u0": 0.32590888173599053,
+     "u1": 0.8070927450405594,
+     "v0": 0.08168430776783447,
+     "v1": 0.3389975035277857
+    },
+    "inside": true,
+    "above70": true,
+    "inGlass": true
+   }
+  ],
+  "caption": {
+   "word": "to buy",
+   "overlapsFace": false,
+   "box": {
+    "u0": 0.3614814814814815,
+    "u1": 0.6385185185185185,
+    "v0": 0.6733333333333333,
+    "v1": 0.7266666666666666
+   }
+  },
+  "props": {
+   "count": 21,
+   "ids": [
+    "mirror with walnut frame",
+    "reflected lamp",
+    "reflected window",
+    "reflected display case",
+    "reflected cakes",
+    "reflected chairs",
+    "her reflected hair",
+    "reflected menu card",
+    "near cup",
+    "near plate with fork",
+    "cup shelf",
+    "teapot",
+    "booth backs",
+    "long table",
+    "sugar pot",
+    "menu stand",
+    "pepper",
+    "coin 1",
+    "coin 2",
+    "slice box",
+    "small ball cup"
+   ]
+  },
+  "words": 2,
+  "pitch": 14.979414814814819
+ },
+ {
+  "frame": 108,
+  "shot": "1B-1C",
+  "faces": [
+   {
+    "id": "her",
+    "box": {
+     "u0": 0.1762697036390855,
+     "u1": 0.6023531930277102,
+     "v0": 0.2959899881017951,
+     "v1": 0.5001932012760562
+    },
+    "inside": true,
+    "above70": true
+   },
+   {
+    "id": "his reflection",
+    "box": {
+     "u0": 0.3286690102793966,
+     "u1": 0.8025446213223406,
+     "v0": 0.07227184845036111,
+     "v1": 0.3256907236256732
+    },
+    "inside": true,
+    "above70": true,
+    "inGlass": true
+   }
+  ],
+  "caption": {
+   "word": "to buy",
+   "overlapsFace": false,
+   "box": {
+    "u0": 0.3614814814814815,
+    "u1": 0.6385185185185185,
+    "v0": 0.6733333333333333,
+    "v1": 0.7266666666666666
+   }
+  },
+  "props": {
+   "count": 26,
+   "ids": [
+    "mirror with walnut frame",
+    "reflected lamp",
+    "reflected window",
+    "reflected display case",
+    "reflected cakes",
+    "reflected chairs",
+    "her reflected hair",
+    "reflected menu card",
+    "near cup",
+    "near plate with fork",
+    "small frame",
+    "cup shelf",
+    "teapot",
+    "bud vase",
+    "booth backs",
+    "long table",
+    "teacup",
+    "saucer",
+    "sugar pot",
+    "menu stand",
+    "salt",
+    "pepper",
+    "coin 1",
+    "coin 2",
+    "slice box",
+    "small ball cup"
+   ]
+  },
+  "words": 2,
+  "pitch": 16.64925185185185
+ },
+ {
+  "frame": 112,
+  "shot": "1B-1C",
+  "faces": [
+   {
+    "id": "her",
+    "box": {
+     "u0": 0.1790746919914521,
+     "u1": 0.6017676077463759,
+     "v0": 0.2900942391876225,
+     "v1": 0.4921469750389508
+    },
+    "inside": true,
+    "above70": true
+   },
+   {
+    "id": "his reflection",
+    "box": {
+     "u0": 0.32966523318203317,
+     "u1": 0.8013286445670098,
+     "v0": 0.0648530844021149,
+     "v1": 0.31719366971375973
+    },
+    "inside": true,
+    "above70": true,
+    "inGlass": true
+   }
+  ],
+  "caption": {
+   "word": "him cake.",
+   "overlapsFace": false,
+   "box": {
+    "u0": 0.30148148148148146,
+    "u1": 0.6985185185185185,
+    "v0": 0.6733333333333333,
+    "v1": 0.7266666666666666
+   }
+  },
+  "props": {
+   "count": 27,
+   "ids": [
+    "mirror with walnut frame",
+    "reflected lamp",
+    "reflected window",
+    "reflected display case",
+    "reflected cakes",
+    "reflected chairs",
+    "her reflected hair",
+    "reflected menu card",
+    "near cup",
+    "near plate with fork",
+    "small frame",
+    "wall print",
+    "cup shelf",
+    "teapot",
+    "bud vase",
+    "booth backs",
+    "long table",
+    "teacup",
+    "saucer",
+    "sugar pot",
+    "menu stand",
+    "salt",
+    "pepper",
+    "coin 1",
+    "coin 2",
+    "slice box",
+    "small ball cup"
+   ]
+  },
+  "words": 2,
+  "pitch": 17.5518
+ },
+ {
+  "frame": 114,
+  "shot": "1B-1C",
+  "faces": [
+   {
+    "id": "her",
+    "box": {
+     "u0": 0.17927597955921382,
+     "u1": 0.601888141379657,
+     "v0": 0.28826719954330104,
+     "v1": 0.4901378273698662
+    },
+    "inside": true,
+    "above70": true
+   },
+   {
+    "id": "his reflection",
+    "box": {
+     "u0": 0.32968908190280943,
+     "u1": 0.8016192759043972,
+     "v0": 0.061736382649164756,
+     "v1": 0.3142957277657277
+    },
+    "inside": true,
+    "above70": true,
+    "inGlass": true
+   }
+  ],
+  "caption": {
+   "word": "him cake.",
+   "overlapsFace": false,
+   "box": {
+    "u0": 0.30148148148148146,
+    "u1": 0.6985185185185185,
+    "v0": 0.6733333333333333,
+    "v1": 0.7266666666666666
+   }
+  },
+  "props": {
+   "count": 27,
+   "ids": [
+    "mirror with walnut frame",
+    "reflected lamp",
+    "reflected window",
+    "reflected display case",
+    "reflected cakes",
+    "reflected chairs",
+    "her reflected hair",
+    "reflected menu card",
+    "near cup",
+    "near plate with fork",
+    "small frame",
+    "wall print",
+    "cup shelf",
+    "teapot",
+    "bud vase",
+    "booth backs",
+    "long table",
+    "teacup",
+    "saucer",
+    "sugar pot",
+    "menu stand",
+    "salt",
+    "pepper",
+    "coin 1",
+    "coin 2",
+    "slice box",
+    "small ball cup"
+   ]
+  },
+  "words": 2,
+  "pitch": 17.78911851851852
+ },
+ {
+  "frame": 123,
+  "shot": "1B-1C",
+  "faces": [
+   {
+    "id": "her",
+    "box": {
+     "u0": 0.17541962296431424,
+     "u1": 0.6040824390545809,
+     "v0": 0.28456106166634293,
+     "v1": 0.48914591139205127
+    },
+    "inside": true,
+    "above70": true
+   },
+   {
+    "id": "his reflection",
+    "box": {
+     "u0": 0.32795824803853313,
+     "u1": 0.8064339162915435,
+     "v0": 0.05078617771647531,
+     "v1": 0.30723453305213827
+    },
+    "inside": true,
+    "above70": true,
+    "inGlass": true
+   }
+  ],
+  "caption": null,
+  "props": {
+   "count": 26,
+   "ids": [
+    "mirror with walnut frame",
+    "reflected lamp",
+    "reflected window",
+    "reflected display case",
+    "reflected cakes",
+    "reflected chairs",
+    "her reflected hair",
+    "reflected menu card",
+    "near cup",
+    "near plate with fork",
+    "small frame",
+    "cup shelf",
+    "teapot",
+    "bud vase",
+    "booth backs",
+    "long table",
+    "teacup",
+    "saucer",
+    "sugar pot",
+    "menu stand",
+    "salt",
+    "pepper",
+    "coin 1",
+    "coin 2",
+    "slice box",
+    "small ball cup"
+   ]
+  },
+  "words": 0,
+  "pitch": 18
+ },
+ {
+  "frame": 148,
+  "shot": "1B-1C",
+  "faces": [
+   {
+    "id": "her",
+    "box": {
+     "u0": 0.13190867843334486,
+     "u1": 0.6147612002554976,
+     "v0": 0.27188676543164425,
+     "v1": 0.5015123990177572
+    },
+    "inside": true,
+    "above70": true
+   },
+   {
+    "id": "his reflection",
+    "box": {
+     "u0": 0.3078121656513597,
+     "u1": 0.8365127329211488,
+     "v0": 0.020963924208786067,
+     "v1": 0.3045404975790263
+    },
+    "inside": true,
+    "above70": true,
+    "inGlass": true
+   }
+  ],
+  "caption": {
+   "word": "Rintaro",
+   "overlapsFace": false,
+   "box": {
+    "u0": 0.3414814814814815,
+    "u1": 0.6585185185185185,
+    "v0": 0.6733333333333333,
+    "v1": 0.7266666666666666
+   }
+  },
+  "props": {
+   "count": 15,
+   "ids": [
+    "mirror with walnut frame",
+    "reflected display case",
+    "reflected cakes",
+    "reflected chairs",
+    "her reflected hair",
+    "near plate with fork",
+    "teapot",
+    "booth backs",
+    "long table",
+    "sugar pot",
+    "menu stand",
+    "coin 1",
+    "coin 2",
+    "slice box",
+    "small ball cup"
+   ]
+  },
+  "words": 1,
+  "pitch": 18
+ },
+ {
+  "frame": 149,
+  "shot": "2A",
+  "faces": [
+   {
+    "id": "his real face",
+    "box": {
+     "u0": 0.3160154718175624,
+     "u1": 0.8221490923383112,
+     "v0": 0.03386364844252149,
+     "v1": 0.30441353409923194
+    },
+    "inside": true,
+    "above70": true
+   }
+  ],
+  "caption": {
+   "word": "is",
+   "overlapsFace": false,
+   "box": {
+    "u0": 0.4414814814814815,
+    "u1": 0.5585185185185185,
+    "v0": 0.6733333333333333,
+    "v1": 0.7266666666666666
+   }
+  },
+  "props": {
+   "count": 18,
+   "ids": [
+    "cafe window",
+    "hanging basket 1",
+    "hanging basket 2",
+    "board Dallowt",
+    "bike 4",
+    "window box",
+    "bunting",
+    "pot",
+    "step box",
+    "wall lantern",
+    "notice board",
+    "second table inside",
+    "chairs inside",
+    "plant inside",
+    "planter 3",
+    "pendant lamp inside",
+    "menu board inside",
+    "back building"
+   ]
+  },
+  "words": 1,
+  "pitch": 0
+ },
+ {
+  "frame": 175,
+  "shot": "2A",
+  "faces": [
+   {
+    "id": "his real face",
+    "box": {
+     "u0": 0.3442878657487091,
+     "u1": 0.6153722030981067,
+     "v0": 0.1712623799700111,
+     "v1": 0.31616845516364267
+    },
+    "inside": true,
+    "above70": true
+   }
+  ],
+  "caption": {
+   "word": "blond,",
+   "overlapsFace": false,
+   "box": {
+    "u0": 0.3614814814814815,
+    "u1": 0.6385185185185185,
+    "v0": 0.6733333333333333,
+    "v1": 0.7266666666666666
+   }
+  },
+  "props": {
+   "count": 35,
+   "ids": [
+    "cafe awning",
+    "cafe sign Wennavi Corsel",
+    "cafe window",
+    "sign board Oskarel",
+    "bike 3",
+    "bin",
+    "bollard 1",
+    "bollard 2",
+    "hanging basket 1",
+    "hanging basket 2",
+    "board Dallowt",
+    "bike 4",
+    "window box",
+    "milk churn",
+    "bunting",
+    "small sign Fumbrel",
+    "bucket and brush",
+    "pot plant 5",
+    "pot plant 6",
+    "pot",
+    "step box",
+    "wall lantern",
+    "hanging basket",
+    "notice board",
+    "flower stand",
+    "scooter",
+    "second table inside",
+    "chairs inside",
+    "plant inside",
+    "planter 3",
+    "planter 4",
+    "pendant lamp inside",
+    "menu board inside",
+    "cake case inside",
+    "back building"
+   ]
+  },
+  "words": 1,
+  "pitch": 0
+ },
+ {
+  "frame": 185,
+  "shot": "2A",
+  "faces": [
+   {
+    "id": "his real face",
+    "box": {
+     "u0": 0.34772775089417207,
+     "u1": 0.6128234799074269,
+     "v0": 0.17954014521079015,
+     "v1": 0.32124505526759634
+    },
+    "inside": true,
+    "above70": true
+   }
+  ],
+  "caption": {
+   "word": "pierced,",
+   "overlapsFace": false,
+   "box": {
+    "u0": 0.3214814814814815,
+    "u1": 0.6785185185185185,
+    "v0": 0.6733333333333333,
+    "v1": 0.7266666666666666
+   }
+  },
+  "props": {
+   "count": 35,
+   "ids": [
+    "cafe awning",
+    "cafe sign Wennavi Corsel",
+    "cafe window",
+    "sign board Oskarel",
+    "bike 3",
+    "bin",
+    "bollard 1",
+    "bollard 2",
+    "hanging basket 1",
+    "hanging basket 2",
+    "board Dallowt",
+    "bike 4",
+    "window box",
+    "milk churn",
+    "bunting",
+    "small sign Fumbrel",
+    "bucket and brush",
+    "pot plant 5",
+    "pot plant 6",
+    "pot",
+    "step box",
+    "wall lantern",
+    "hanging basket",
+    "notice board",
+    "flower stand",
+    "scooter",
+    "second table inside",
+    "chairs inside",
+    "plant inside",
+    "planter 3",
+    "planter 4",
+    "pendant lamp inside",
+    "menu board inside",
+    "cake case inside",
+    "back building"
+   ]
+  },
+  "words": 1,
+  "pitch": 0
+ },
+ {
+  "frame": 209,
+  "shot": "2B",
+  "faces": [
+   {
+    "id": "his real face",
+    "box": {
+     "u0": 0.3259317416808903,
+     "u1": 0.8215837314708976,
+     "v0": 0.12303342807767825,
+     "v1": 0.3879804375753611
+    },
+    "inside": true,
+    "above70": true
+   }
+  ],
+  "caption": {
+   "word": "intimidating",
+   "overlapsFace": false,
+   "box": {
+    "u0": 0.24148148148148152,
+    "u1": 0.7585185185185185,
+    "v0": 0.6733333333333333,
+    "v1": 0.7266666666666666
+   }
+  },
+  "props": {
+   "count": 15,
+   "ids": [
+    "cafe window",
+    "hanging basket 1",
+    "hanging basket 2",
+    "board Dallowt",
+    "bike 4",
+    "window box",
+    "bunting",
+    "step box",
+    "wall lantern",
+    "notice board",
+    "plant inside",
+    "planter 3",
+    "pendant lamp inside",
+    "menu board inside",
+    "back building"
+   ]
+  },
+  "words": 1,
+  "pitch": 0
+ },
+ {
+  "frame": 212,
+  "shot": "2B",
+  "faces": [
+   {
+    "id": "his real face",
+    "box": {
+     "u0": 0.32477525838623944,
+     "u1": 0.8237202853542356,
+     "v0": 0.11551719434145896,
+     "v1": 0.38222447187083575
+    },
+    "inside": true,
+    "above70": true
+   }
+  ],
+  "caption": {
+   "word": "intimidating",
+   "overlapsFace": false,
+   "box": {
+    "u0": 0.24148148148148152,
+    "u1": 0.7585185185185185,
+    "v0": 0.6733333333333333,
+    "v1": 0.7266666666666666
+   }
+  },
+  "props": {
+   "count": 15,
+   "ids": [
+    "cafe window",
+    "hanging basket 1",
+    "hanging basket 2",
+    "board Dallowt",
+    "bike 4",
+    "window box",
+    "bunting",
+    "step box",
+    "wall lantern",
+    "notice board",
+    "plant inside",
+    "planter 3",
+    "pendant lamp inside",
+    "menu board inside",
+    "back building"
+   ]
+  },
+  "words": 1,
+  "pitch": 0
+ },
+ {
+  "frame": 215,
+  "shot": "2B",
+  "faces": [
+   {
+    "id": "his real face",
+    "box": {
+     "u0": 0.32360330531099546,
+     "u1": 0.8258854190017202,
+     "v0": 0.11799090806412471,
+     "v1": 0.3864819999750315
+    },
+    "inside": true,
+    "above70": true
+   }
+  ],
+  "caption": {
+   "word": "intimidating",
+   "overlapsFace": false,
+   "box": {
+    "u0": 0.24148148148148152,
+    "u1": 0.7585185185185185,
+    "v0": 0.6733333333333333,
+    "v1": 0.7266666666666666
+   }
+  },
+  "props": {
+   "count": 15,
+   "ids": [
+    "cafe window",
+    "hanging basket 1",
+    "hanging basket 2",
+    "board Dallowt",
+    "bike 4",
+    "window box",
+    "bunting",
+    "step box",
+    "wall lantern",
+    "notice board",
+    "plant inside",
+    "planter 3",
+    "pendant lamp inside",
+    "menu board inside",
+    "back building"
+   ]
+  },
+  "words": 1,
+  "pitch": 0
+ }
+]

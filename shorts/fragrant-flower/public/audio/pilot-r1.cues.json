@@ -1,0 +1,155 @@
+{
+ "duration": 24.4,
+ "lufs": -15,
+ "worstJoinPeak": 0.00011225789785385132,
+ "inserted": [
+  {
+   "from": 12.45,
+   "to": 13.45,
+   "why": "rewind to the same second"
+  },
+  {
+   "from": 20.38,
+   "to": 21.45,
+   "why": "the hold on his face"
+  }
+ ],
+ "events": [
+  {
+   "at": 0.02,
+   "label": "his imagined size"
+  },
+  {
+   "at": 0.02,
+   "label": "cold fifth"
+  },
+  {
+   "at": 0.72,
+   "label": "his version: fork"
+  },
+  {
+   "at": 0.89,
+   "label": "his version: chair"
+  },
+  {
+   "at": 1.02,
+   "label": "door"
+  },
+  {
+   "at": 1.14,
+   "label": "his version: bell"
+  },
+  {
+   "at": 1.159,
+   "label": "running steps"
+  },
+  {
+   "at": 2.05,
+   "label": "shoulders fall"
+  },
+  {
+   "at": 3.9,
+   "label": "the flight: fork"
+  },
+  {
+   "at": 4.07,
+   "label": "the flight: chair"
+  },
+  {
+   "at": 4.22,
+   "label": "door"
+  },
+  {
+   "at": 4.32,
+   "label": "the flight: bell"
+  },
+  {
+   "at": 4.379,
+   "label": "running steps"
+  },
+  {
+   "at": 5.55,
+   "label": "he assumes"
+  },
+  {
+   "at": 5.8,
+   "label": "he sinks"
+  },
+  {
+   "at": 7.52,
+   "label": "door"
+  },
+  {
+   "at": 7.58,
+   "label": "bell, next day"
+  },
+  {
+   "at": 9.25,
+   "label": "inhale"
+  },
+  {
+   "at": 9.85,
+   "label": "his bow begins"
+  },
+  {
+   "at": 10.5,
+   "label": "her faster bow"
+  },
+  {
+   "at": 10.62,
+   "label": "box"
+  },
+  {
+   "at": 10.95,
+   "label": "she is first"
+  },
+  {
+   "at": 12.45,
+   "label": "rewind: the bell backwards"
+  },
+  {
+   "at": 12.92,
+   "label": "rewind: the chair backwards"
+  },
+  {
+   "at": 13.47,
+   "label": "her side: fork"
+  },
+  {
+   "at": 13.64,
+   "label": "her side: chair"
+  },
+  {
+   "at": 13.89,
+   "label": "her side: bell"
+  },
+  {
+   "at": 14.12,
+   "label": "the picture changes meaning"
+  },
+  {
+   "at": 15.35,
+   "label": "hands to face"
+  },
+  {
+   "at": 16.02,
+   "label": "swallow"
+  },
+  {
+   "at": 16.68,
+   "label": "the offer"
+  },
+  {
+   "at": 20.68,
+   "label": "one note as his eyes open"
+  },
+  {
+   "at": 20.85,
+   "label": "shoulders release"
+  },
+  {
+   "at": 23.4,
+   "label": "same face, resolved"
+  }
+ ]
+}

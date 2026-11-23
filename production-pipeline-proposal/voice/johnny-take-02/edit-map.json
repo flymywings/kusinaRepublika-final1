@@ -1,0 +1,758 @@
+{
+ "base": "a",
+ "sources": {
+  "a": "raw/a.mp3 (base, used for every piece)",
+  "b": "raw/b.mp3 (not used: no patch needed)"
+ },
+ "duration": 57.764,
+ "integratedBeforeLimiter": -15,
+ "peakBeforeLimiterDb": 9.92,
+ "limiterCeilingDb": -2.16,
+ "sampleRate": 44100,
+ "audibleThresholdDb": -48,
+ "note": "audible edge = first/last 5 ms RMS frame above -48 dBFS; pieces are cut inside silence (< -72 dBFS) and mixed with 8 ms fades; gain_db is the per-piece gain before the limiter",
+ "pieces": [
+  {
+   "piece": 0,
+   "text": "This girl looked terrified of his face...",
+   "take": "a",
+   "srcRange": [
+    0.04,
+    2.501
+   ],
+   "srcAudible": [
+    0.07,
+    2.345
+   ],
+   "outRange": [
+    0.04,
+    2.183
+   ],
+   "outAudible": [
+    0.06,
+    2.1
+   ],
+   "rate": 1.147,
+   "gain_db": 4.81,
+   "natWordsPerSec": 3.23,
+   "group": 0,
+   "section": "hook"
+  },
+  {
+   "piece": 1,
+   "text": "then came back to buy him cake.",
+   "take": "a",
+   "srcRange": [
+    2.721,
+    4.475
+   ],
+   "srcAudible": [
+    2.751,
+    4.41
+   ],
+   "outRange": [
+    2.37,
+    4.123
+   ],
+   "outAudible": [
+    2.4,
+    4.058
+   ],
+   "rate": 1,
+   "gain_db": 1.57,
+   "natWordsPerSec": 4.22,
+   "group": 1,
+   "section": "hook"
+  },
+  {
+   "piece": 2,
+   "text": "Rintaro is tall, blond, pierced, and so intimidating that strangers literally run from him.",
+   "take": "a",
+   "srcRange": [
+    4.931,
+    10.87
+   ],
+   "srcAudible": [
+    4.961,
+    10.83
+   ],
+   "outRange": [
+    4.283,
+    9.033
+   ],
+   "outAudible": [
+    4.298,
+    9.014
+   ],
+   "rate": 1.25,
+   "gain_db": 3.64,
+   "natWordsPerSec": 2.62,
+   "group": 2,
+   "section": "setup"
+  },
+  {
+   "piece": 3,
+   "text": "Which isn't great when your family owns a cake shop.",
+   "take": "a",
+   "srcRange": [
+    11.175,
+    13.641
+   ],
+   "srcAudible": [
+    11.205,
+    13.571
+   ],
+   "outRange": [
+    9.224,
+    11.689
+   ],
+   "outAudible": [
+    9.254,
+    11.639
+   ],
+   "rate": 1,
+   "gain_db": 5.5,
+   "natWordsPerSec": 4.23,
+   "group": 3,
+   "section": "setup"
+  },
+  {
+   "piece": 4,
+   "text": "So when he spots a girl demolishing a mountain of cake, he can't help staring.",
+   "take": "a",
+   "srcRange": [
+    13.907,
+    18.251
+   ],
+   "srcAudible": [
+    13.937,
+    18.191
+   ],
+   "outRange": [
+    11.854,
+    16.199
+   ],
+   "outAudible": [
+    11.879,
+    16.154
+   ],
+   "rate": 1,
+   "gain_db": 3.44,
+   "natWordsPerSec": 3.7,
+   "group": 4,
+   "section": "setup"
+  },
+  {
+   "piece": 5,
+   "text": "She locks eyes with him and bolts out the door.",
+   "take": "a",
+   "srcRange": [
+    18.642,
+    20.922
+   ],
+   "srcAudible": [
+    18.672,
+    20.862
+   ],
+   "outRange": [
+    16.374,
+    18.942
+   ],
+   "outAudible": [
+    16.394,
+    18.9
+   ],
+   "rate": 0.88,
+   "gain_db": 5.04,
+   "natWordsPerSec": 4.77,
+   "group": 5,
+   "section": "setup"
+  },
+  {
+   "piece": 6,
+   "text": "He's sure he's traumatized her for life.",
+   "take": "a",
+   "srcRange": [
+    21.308,
+    23.714
+   ],
+   "srcAudible": [
+    21.353,
+    23.654
+   ],
+   "outRange": [
+    19.235,
+    21.22
+   ],
+   "outAudible": [
+    19.25,
+    21.194
+   ],
+   "rate": 1.2158,
+   "gain_db": 9.18,
+   "natWordsPerSec": 3.04,
+   "group": 6,
+   "section": "setup"
+  },
+  {
+   "piece": 7,
+   "text": "But the next day she's back, apologizing and insisting on buying him a slice.",
+   "take": "a",
+   "srcRange": [
+    24.019,
+    28.309
+   ],
+   "srcAudible": [
+    24.049,
+    28.274
+   ],
+   "outRange": [
+    21.424,
+    25.434
+   ],
+   "outAudible": [
+    21.434,
+    25.413
+   ],
+   "rate": 1.0728,
+   "gain_db": 4.27,
+   "natWordsPerSec": 3.45,
+   "group": 7,
+   "section": "setup"
+  },
+  {
+   "piece": 8,
+   "text": "So he asks,",
+   "take": "a",
+   "srcRange": [
+    28.65,
+    29.401
+   ],
+   "srcAudible": [
+    28.68,
+    29.366
+   ],
+   "outRange": [
+    25.623,
+    26.42
+   ],
+   "outAudible": [
+    25.653,
+    26.39
+   ],
+   "rate": 0.9245,
+   "gain_db": 2.69,
+   "natWordsPerSec": 4.54,
+   "group": 8,
+   "section": "setup"
+  },
+  {
+   "piece": 9,
+   "text": "\"Wait,",
+   "take": "a",
+   "srcRange": [
+    29.767,
+    30.118
+   ],
+   "srcAudible": [
+    29.797,
+    30.048
+   ],
+   "outRange": [
+    26.65,
+    27.013
+   ],
+   "outAudible": [
+    26.67,
+    26.945
+   ],
+   "rate": 0.9245,
+   "gain_db": 4.54,
+   "natWordsPerSec": 4.54,
+   "group": 8,
+   "section": "setup"
+  },
+  {
+   "piece": 10,
+   "text": "didn't you run because you were scared of me?\"",
+   "take": "a",
+   "srcRange": [
+    30.399,
+    32.433
+   ],
+   "srcAudible": [
+    30.429,
+    32.353
+   ],
+   "outRange": [
+    27.205,
+    29.396
+   ],
+   "outAudible": [
+    27.225,
+    29.335
+   ],
+   "rate": 0.9245,
+   "gain_db": 9.35,
+   "natWordsPerSec": 4.54,
+   "group": 8,
+   "section": "setup"
+  },
+  {
+   "piece": 11,
+   "text": "You see, from HER side, that look was never fear.",
+   "take": "a",
+   "srcRange": [
+    32.915,
+    36.202
+   ],
+   "srcAudible": [
+    32.945,
+    36.157
+   ],
+   "outRange": [
+    30.605,
+    33.893
+   ],
+   "outAudible": [
+    30.635,
+    33.863
+   ],
+   "rate": 1,
+   "gain_db": 7.61,
+   "natWordsPerSec": 3.46,
+   "group": 9,
+   "section": "reveal"
+  },
+  {
+   "piece": 12,
+   "text": "No guy had ever stared at her before,",
+   "take": "a",
+   "srcRange": [
+    36.558,
+    38.773
+   ],
+   "srcAudible": [
+    36.588,
+    38.718
+   ],
+   "outRange": [
+    34.108,
+    36.461
+   ],
+   "outAudible": [
+    34.123,
+    36.418
+   ],
+   "rate": 0.9341,
+   "gain_db": 5.85,
+   "natWordsPerSec": 3.96,
+   "group": 10,
+   "section": "reveal"
+  },
+  {
+   "piece": 13,
+   "text": "and her heart was POUNDING.",
+   "take": "a",
+   "srcRange": [
+    38.873,
+    40.416
+   ],
+   "srcAudible": [
+    38.903,
+    40.346
+   ],
+   "outRange": [
+    36.608,
+    38.344
+   ],
+   "outAudible": [
+    36.618,
+    38.332
+   ],
+   "rate": 0.88,
+   "gain_db": 17.2,
+   "natWordsPerSec": 3.82,
+   "group": 11,
+   "section": "pounding"
+  },
+  {
+   "piece": 14,
+   "text": "He'd only just noticed her, but she'd noticed him long before that.",
+   "take": "a",
+   "srcRange": [
+    40.862,
+    44.741
+   ],
+   "srcAudible": [
+    40.893,
+    44.681
+   ],
+   "outRange": [
+    38.712,
+    42.59
+   ],
+   "outAudible": [
+    38.732,
+    42.545
+   ],
+   "rate": 1,
+   "gain_db": 6.66,
+   "natWordsPerSec": 3.39,
+   "group": 12,
+   "section": "reveal"
+  },
+  {
+   "piece": 15,
+   "text": "He read her face the exact same way EVERYONE reads his.",
+   "take": "a",
+   "srcRange": [
+    45.162,
+    48.74
+   ],
+   "srcAudible": [
+    45.192,
+    48.7
+   ],
+   "outRange": [
+    42.97,
+    46.548
+   ],
+   "outAudible": [
+    42.995,
+    46.518
+   ],
+   "rate": 1,
+   "gain_db": 7.05,
+   "natWordsPerSec": 3.27,
+   "group": 13,
+   "section": "late"
+  },
+  {
+   "piece": 16,
+   "text": "Then she tells him,",
+   "take": "a",
+   "srcRange": [
+    49.206,
+    50.113
+   ],
+   "srcAudible": [
+    49.236,
+    50.058
+   ],
+   "outRange": [
+    46.758,
+    47.776
+   ],
+   "outAudible": [
+    46.778,
+    47.715
+   ],
+   "rate": 0.8835,
+   "gain_db": 5.45,
+   "natWordsPerSec": 4.03,
+   "group": 14,
+   "section": "late"
+  },
+  {
+   "piece": 17,
+   "text": "\"I've never once thought you were scary.\"",
+   "take": "a",
+   "srcRange": [
+    50.444,
+    52.454
+   ],
+   "srcAudible": [
+    50.474,
+    52.384
+   ],
+   "outRange": [
+    47.985,
+    49.995
+   ],
+   "outAudible": [
+    48.015,
+    49.965
+   ],
+   "rate": 1,
+   "gain_db": 11.25,
+   "natWordsPerSec": 4.03,
+   "group": 14,
+   "section": "late"
+  },
+  {
+   "piece": 18,
+   "text": "He's used to people taking one look at his face and running.",
+   "take": "a",
+   "srcRange": [
+    52.975,
+    55.726
+   ],
+   "srcAudible": [
+    53.005,
+    55.676
+   ],
+   "outRange": [
+    50.39,
+    53.257
+   ],
+   "outAudible": [
+    50.415,
+    53.231
+   ],
+   "rate": 0.9571,
+   "gain_db": 4.98,
+   "natWordsPerSec": 4.49,
+   "group": 15,
+   "section": "late"
+  },
+  {
+   "piece": 19,
+   "text": "He has no idea what to do when someone looks at it...",
+   "take": "a",
+   "srcRange": [
+    56.022,
+    58.698
+   ],
+   "srcAudible": [
+    56.052,
+    58.633
+   ],
+   "outRange": [
+    53.451,
+    56.323
+   ],
+   "outAudible": [
+    53.471,
+    56.272
+   ],
+   "rate": 0.9248,
+   "gain_db": 5.19,
+   "natWordsPerSec": 4.65,
+   "group": 16,
+   "section": "late"
+  },
+  {
+   "piece": 20,
+   "text": "and stays.",
+   "take": "a",
+   "srcRange": [
+    58.898,
+    59.74
+   ],
+   "srcAudible": [
+    58.928,
+    59.69
+   ],
+   "outRange": [
+    56.872,
+    57.714
+   ],
+   "outAudible": [
+    56.902,
+    57.679
+   ],
+   "rate": 1,
+   "gain_db": 11.26,
+   "natWordsPerSec": 2.63,
+   "group": 17,
+   "section": "late"
+  }
+ ],
+ "pauses": [
+  {
+   "after": "face...",
+   "set": 0.3,
+   "measured": 0.3,
+   "from": 2.1,
+   "to": 2.4
+  },
+  {
+   "after": "cake.",
+   "set": 0.24,
+   "measured": 0.24,
+   "from": 4.058,
+   "to": 4.298
+  },
+  {
+   "after": "him.",
+   "set": 0.24,
+   "measured": 0.24,
+   "from": 9.014,
+   "to": 9.254
+  },
+  {
+   "after": "shop.",
+   "set": 0.24,
+   "measured": 0.24,
+   "from": 11.639,
+   "to": 11.879
+  },
+  {
+   "after": "staring.",
+   "set": 0.24,
+   "measured": 0.24,
+   "from": 16.154,
+   "to": 16.394
+  },
+  {
+   "after": "door.",
+   "set": 0.35,
+   "measured": 0.35,
+   "from": 18.9,
+   "to": 19.25
+  },
+  {
+   "after": "life.",
+   "set": 0.24,
+   "measured": 0.24,
+   "from": 21.194,
+   "to": 21.434
+  },
+  {
+   "after": "slice.",
+   "set": 0.24,
+   "measured": 0.24,
+   "from": 25.413,
+   "to": 25.653
+  },
+  {
+   "after": "asks,",
+   "set": 0.28,
+   "measured": 0.28,
+   "from": 26.39,
+   "to": 26.67
+  },
+  {
+   "after": "\"Wait,",
+   "set": 0.28,
+   "measured": 0.28,
+   "from": 26.945,
+   "to": 27.225
+  },
+  {
+   "after": "me?\"",
+   "set": 1.3,
+   "measured": 1.3,
+   "from": 29.335,
+   "to": 30.635
+  },
+  {
+   "after": "fear.",
+   "set": 0.26,
+   "measured": 0.26,
+   "from": 33.863,
+   "to": 34.123
+  },
+  {
+   "after": "before,",
+   "set": 0.2,
+   "measured": 0.2,
+   "from": 36.418,
+   "to": 36.618
+  },
+  {
+   "after": "POUNDING.",
+   "set": 0.4,
+   "measured": 0.4,
+   "from": 38.332,
+   "to": 38.732
+  },
+  {
+   "after": "that.",
+   "set": 0.45,
+   "measured": 0.45,
+   "from": 42.545,
+   "to": 42.995
+  },
+  {
+   "after": "his.",
+   "set": 0.26,
+   "measured": 0.26,
+   "from": 46.518,
+   "to": 46.778
+  },
+  {
+   "after": "him,",
+   "set": 0.3,
+   "measured": 0.3,
+   "from": 47.715,
+   "to": 48.015
+  },
+  {
+   "after": "scary.\"",
+   "set": 0.45,
+   "measured": 0.45,
+   "from": 49.965,
+   "to": 50.415
+  },
+  {
+   "after": "running.",
+   "set": 0.24,
+   "measured": 0.24,
+   "from": 53.231,
+   "to": 53.471
+  },
+  {
+   "after": "it...",
+   "set": 0.63,
+   "measured": 0.63,
+   "from": 56.272,
+   "to": 56.902
+  }
+ ],
+ "inner_gaps_kept": [
+  [
+   0.742,
+   0.847
+  ],
+  [
+   6.184,
+   6.339
+  ],
+  [
+   6.775,
+   6.951
+  ],
+  [
+   7.412,
+   7.597
+  ],
+  [
+   16.808,
+   17.013
+  ],
+  [
+   19.925,
+   20.02
+  ],
+  [
+   25.357,
+   25.523
+  ],
+  [
+   33.381,
+   33.526
+  ],
+  [
+   34.513,
+   34.693
+  ],
+  [
+   37.279,
+   37.39
+  ],
+  [
+   39.66,
+   39.795
+  ],
+  [
+   42.311,
+   42.556
+  ],
+  [
+   47.342,
+   47.487
+  ]
+ ]
+}

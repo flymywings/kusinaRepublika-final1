@@ -1,0 +1,54 @@
+{
+ "input": {
+  "wav": "johnny-take-02-edit-v3.wav",
+  "words": "words-v3-corrected.json",
+  "durationSeconds": 56.225
+ },
+ "output": {
+  "wav": "johnny-take-02-edit-v4.wav",
+  "durationSeconds": 54.855,
+  "words": 177
+ },
+ "fadeMs": 15,
+ "searchMs": 45,
+ "joins": [
+  {
+   "cut": "3:literally",
+   "removedWords": "literally",
+   "inputCutFrom": 8.1775,
+   "inputCutTo": 8.9359,
+   "removedSeconds": 0.7735,
+   "snapMovedMs": [
+    2.5,
+    -9.1
+   ],
+   "outputJoinAt": 8.1624,
+   "listenFrom": 7.56,
+   "listenTo": 8.76,
+   "rmsAtJoinDb": -28.8,
+   "rmsBeforeDb": -26.1,
+   "maxSampleStepAtJoin": 0.1732,
+   "maxSampleStepNearby": 0.1395,
+   "clickRisk": "ok"
+  },
+  {
+   "cut": "12:You see,",
+   "removedWords": "You see,",
+   "inputCutFrom": 29.819,
+   "inputCutTo": 30.401,
+   "removedSeconds": 0.597,
+   "snapMovedMs": [
+    -45,
+    -14
+   ],
+   "outputJoinAt": 29.0305,
+   "listenFrom": 28.43,
+   "listenTo": 29.63,
+   "rmsAtJoinDb": -180,
+   "rmsBeforeDb": -180,
+   "maxSampleStepAtJoin": 0.0056,
+   "maxSampleStepNearby": 0,
+   "clickRisk": "ok"
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+  "frames": 1590,
+  "words": 145,
+  "takes": 5,
+  "characterViews": "front only across all frames",
+  "cameraViews": "flat frontal; connected travel",
+  "maxHandReachMeters": 0.753,
+  "voiceSourceSha256": "2917bb2bc5935f2b40e665d552dad0edbd520979072e8821649639be7f80eae3",
+  "checks": "Caption wording/order; frontal-only cast and camera; coverage and finite coordinates; hand reach; continuous actor walking route; root source syntax; unchanged source MP3. Rendered motion is reviewed separately; these do not establish creative or listening quality."
+}

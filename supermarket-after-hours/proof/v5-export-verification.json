@@ -1,0 +1,111 @@
+{
+  "file": "C:\\Users\\Win 10\\Downloads\\new video edit\\supermarket-after-hours\\proof\\After Hours - v5 - 2K.mp4",
+  "sha256": "305fb7506a10b481a2946254dfa46d879a8f9e40cada955a4c9e555f4d6c8803",
+  "bytes": 61461162,
+  "width": 1440,
+  "height": 2560,
+  "fps": 30,
+  "frames": 1511,
+  "videoSeconds": 50.366667,
+  "containerSeconds": 50.368,
+  "decode": "Entire video and audio decoded without error",
+  "decodedAudioSha256": "SHA256=6fbe18002330f4e16c24faad42c02744848d25710190ad4d697dbd1cdb6bbbe2",
+  "sourceMixSha256": "2260321bf5dff4c8758068e3be36a7f7133799d77bdd6976839a659497574fb5",
+  "exportAudioCorrelation": [
+    {
+      "second": 0,
+      "correlation": 0.9999729611083837
+    },
+    {
+      "second": 4,
+      "correlation": 0.99996311336885
+    },
+    {
+      "second": 8,
+      "correlation": 0.9999665771567824
+    },
+    {
+      "second": 12,
+      "correlation": 0.9999789398686495
+    },
+    {
+      "second": 16,
+      "correlation": 0.9999640446066745
+    },
+    {
+      "second": 20,
+      "correlation": 0.9999558730277205
+    },
+    {
+      "second": 24,
+      "correlation": 0.9999613331829115
+    },
+    {
+      "second": 28,
+      "correlation": 0.9999804664963342
+    },
+    {
+      "second": 32,
+      "correlation": 0.9999811161975853
+    },
+    {
+      "second": 36,
+      "correlation": 0.9999756895790402
+    },
+    {
+      "second": 40,
+      "correlation": 0.9999590539767502
+    },
+    {
+      "second": 44,
+      "correlation": 0.9999497089936541
+    }
+  ],
+  "pace": {
+    "audioSeconds": 49.695,
+    "exportSeconds": 50.34560416666667,
+    "frames": 1511,
+    "wpm": 175.06791427709024,
+    "tempo": 1.073495038075425
+  },
+  "quiet": {
+    "intervals": 26,
+    "durationSeconds": 10.536291666666667,
+    "exactPcmUnchanged": true,
+    "durationsUnchanged": true
+  },
+  "approvedAppearanceSha256": "7d235635a1a314a198720f973ce20803603827e6260bfed362f9fe079440570f",
+  "previousExportUnchanged": true,
+  "sources": {
+    "Cast.tsx": "7b75a8973bcc42583bccbb1a200ac43ddd39b67338aad6dfdd5cbaccfa8b3e34",
+    "CastSheet.tsx": "120c4701268989c2200bab261c2262deaa53ec46519e53ecffdc628b02a259d9",
+    "check-connected.cjs": "52c63ad8444df266338d68f1215a797af212d77ce95b202335c3794c5ede4085",
+    "check-gait.cjs": "e81a2a45efc96140c1d377f97c770a40fda0b87fceb6c501176d364d0a40c853",
+    "check-v5.cjs": "d26e348d2b83acbf6eabe6c9377db0e125fc4cd8ecadfa4f2a27410e5008b950",
+    "check.cjs": "d258790aba622db242defed85abfa4768632c242f95d6a76b9569eb4a3bb81d1",
+    "Film.tsx": "1372a161862a03d75412078fc35d725afc881bac4b2bedf271b4054111cb3319",
+    "gait.ts": "44fea340044faa23f9211baf0a006a3b9533033b54e48739bf876a9c515a0393",
+    "index.tsx": "e7b692d46f2cef85edc0f3d562b27369e782ff363c58331ed130b56d85f0f997",
+    "pace.mjs": "f50ad21375d6a10c86d25273f56ccd362bf75d200b31f213e45dabe7a6664467",
+    "pace.ts": "43ea9dce939d5324ee959652eddda28834cd0dfac55ec70874b8b5a0a81dece5",
+    "prepare.mjs": "7204ca2bb9f080cb8545c8a26b4dd5631bee09dc68baa1e17445ce9550cffe17",
+    "ReferenceCast.tsx": "c7e7e3a8bbee7304a1a94cf5db65ab22fafbb51df46887f3d92fc10d3ea859fc",
+    "render-cast-sheet.mjs": "344a244351436418a37cb262fa1538487d1f7e25f612a7a099688fc71b6acaa3",
+    "render.mjs": "d9c4a2c5defeccdd171fd0a2fee3c5ed7bda9c07b52b8a0f840bc24341b90af4",
+    "sound-175.mjs": "889e9fa89c8c379f86a1ea3fe87111c79fcd0ca1cbcb1be6788c45eb7dae1c8a",
+    "sound.mjs": "e46e43fc4af733d5cdee25b02e4c473d8a2c36eacd305ddae072f3f7145d83e4",
+    "StoreMaterials.ts": "c9ecdf704187eba257c522578c796b7265dcee883d40a465b2013d424765fb32",
+    "StoreProps.tsx": "11d75ad735f7cee50d3ed9c68eb108dd8d8f9e741b1eba12046edb95e384f8ca",
+    "story.ts": "90b62d5acfb95cbfeaf098455ba84be89941584883ce814e89a8c2f202b8cabe",
+    "World.tsx": "27076cc8798cffb4401f40fff82091d27b93fa73bdb68f0a8fb1536e976a725b"
+  },
+  "visualReview": "Lead inspected exact-export chronological overview, dense walking/reveal sheets and five keyframes. No additional material defect found in observed coverage.",
+  "continuousAudiovisualReview": false,
+  "coverageLimit": "Chronological and consecutive visual samples, source PCM and signal checks. Continuous listening not established.",
+  "acceptance": "User acceptance pending",
+  "exportLoudness": {
+    "integratedLufs": -16.67,
+    "truePeakDbtp": -1.52,
+    "lraLu": 2.8
+  }
+}

@@ -1,0 +1,216 @@
+{
+ "cues": [
+  {
+   "frame": 0,
+   "kind": "fork",
+   "gain": 1,
+   "reverse": false
+  },
+  {
+   "frame": 11,
+   "kind": "fork",
+   "gain": 1,
+   "reverse": false
+  },
+  {
+   "frame": 21,
+   "kind": "fork",
+   "gain": 1,
+   "reverse": false
+  },
+  {
+   "frame": 32,
+   "kind": "fork",
+   "gain": 1,
+   "reverse": false
+  },
+  {
+   "frame": 42,
+   "kind": "fork",
+   "gain": 1,
+   "reverse": false
+  },
+  {
+   "frame": 72,
+   "kind": "piano",
+   "gain": 1,
+   "reverse": false
+  },
+  {
+   "frame": 80,
+   "kind": "bell",
+   "gain": 1,
+   "reverse": false
+  },
+  {
+   "frame": 99,
+   "kind": "clink",
+   "gain": 1,
+   "reverse": false
+  },
+  {
+   "frame": 103,
+   "kind": "clink",
+   "gain": 0.8,
+   "reverse": false
+  },
+  {
+   "frame": 112,
+   "kind": "tap",
+   "gain": 1,
+   "reverse": false
+  },
+  {
+   "frame": 834,
+   "kind": "whir",
+   "gain": 1,
+   "reverse": false
+  },
+  {
+   "frame": 842,
+   "kind": "bell",
+   "gain": 0.8,
+   "reverse": true
+  },
+  {
+   "frame": 855,
+   "kind": "clink",
+   "gain": 0.8,
+   "reverse": true
+  },
+  {
+   "frame": 865,
+   "kind": "chair",
+   "gain": 0.8,
+   "reverse": true
+  },
+  {
+   "frame": 882,
+   "kind": "clunk",
+   "gain": 1,
+   "reverse": false
+  },
+  {
+   "frame": 882,
+   "kind": "fork",
+   "gain": 1,
+   "reverse": false
+  },
+  {
+   "frame": 892,
+   "kind": "fork",
+   "gain": 1,
+   "reverse": false
+  },
+  {
+   "frame": 903,
+   "kind": "fork",
+   "gain": 1,
+   "reverse": false
+  },
+  {
+   "frame": 913,
+   "kind": "fork",
+   "gain": 1,
+   "reverse": false
+  },
+  {
+   "frame": 912,
+   "kind": "piano",
+   "gain": 0.9,
+   "reverse": false
+  },
+  {
+   "frame": 944,
+   "kind": "piano",
+   "gain": 0.6,
+   "reverse": false
+  },
+  {
+   "frame": 960,
+   "kind": "cloth",
+   "gain": 0.9,
+   "reverse": false
+  },
+  {
+   "frame": 964,
+   "kind": "piano",
+   "gain": 0.5,
+   "reverse": false
+  },
+  {
+   "frame": 1018,
+   "kind": "cloth",
+   "gain": 0.5,
+   "reverse": false
+  },
+  {
+   "frame": 1057,
+   "kind": "heart",
+   "gain": 1,
+   "reverse": false
+  },
+  {
+   "frame": 1068,
+   "kind": "heart",
+   "gain": 1,
+   "reverse": false
+  },
+  {
+   "frame": 1078,
+   "kind": "heart",
+   "gain": 1,
+   "reverse": false
+  },
+  {
+   "frame": 1057,
+   "kind": "fork",
+   "gain": 1,
+   "reverse": false
+  },
+  {
+   "frame": 1068,
+   "kind": "fork",
+   "gain": 1,
+   "reverse": false
+  },
+  {
+   "frame": 1078,
+   "kind": "fork",
+   "gain": 1,
+   "reverse": false
+  }
+ ],
+ "beds": [
+  {
+   "kind": "room",
+   "from": 0,
+   "to": 1646,
+   "gain": 1,
+   "fadeIn": 2,
+   "fadeOut": 2
+  },
+  {
+   "kind": "hum",
+   "from": 46,
+   "to": 76,
+   "gain": 0.55
+  },
+  {
+   "kind": "hum",
+   "from": 960,
+   "to": 1010,
+   "gain": 0.5,
+   "fadeIn": 10,
+   "fadeOut": 10
+  },
+  {
+   "kind": "air",
+   "from": 126,
+   "to": 330,
+   "gain": 0.9,
+   "fadeIn": 14,
+   "fadeOut": 20
+  }
+ ]
+}

@@ -1,0 +1,656 @@
+{
+ "cues": [
+  {
+   "frame": 0,
+   "kind": "fork",
+   "gain": 1,
+   "reverse": false
+  },
+  {
+   "frame": 11,
+   "kind": "fork",
+   "gain": 1,
+   "reverse": false
+  },
+  {
+   "frame": 21,
+   "kind": "fork",
+   "gain": 1,
+   "reverse": false
+  },
+  {
+   "frame": 32,
+   "kind": "fork",
+   "gain": 1,
+   "reverse": false
+  },
+  {
+   "frame": 42,
+   "kind": "fork",
+   "gain": 1,
+   "reverse": false
+  },
+  {
+   "frame": 72,
+   "kind": "piano",
+   "gain": 1,
+   "reverse": false
+  },
+  {
+   "frame": 80,
+   "kind": "bell",
+   "gain": 1,
+   "reverse": false
+  },
+  {
+   "frame": 99,
+   "kind": "clink",
+   "gain": 1,
+   "reverse": false
+  },
+  {
+   "frame": 103,
+   "kind": "clink",
+   "gain": 0.8,
+   "reverse": false
+  },
+  {
+   "frame": 112,
+   "kind": "tap",
+   "gain": 1,
+   "reverse": false
+  },
+  {
+   "frame": 185,
+   "kind": "tap",
+   "gain": 0.5,
+   "reverse": false
+  },
+  {
+   "frame": 247,
+   "kind": "tap",
+   "gain": 0.6,
+   "reverse": false
+  },
+  {
+   "frame": 247,
+   "kind": "whoosh",
+   "gain": 0.4,
+   "reverse": false
+  },
+  {
+   "frame": 251,
+   "kind": "tap",
+   "gain": 0.6,
+   "reverse": false
+  },
+  {
+   "frame": 251,
+   "kind": "rustle",
+   "gain": 0.35,
+   "reverse": false
+  },
+  {
+   "frame": 256,
+   "kind": "tap",
+   "gain": 0.6,
+   "reverse": false
+  },
+  {
+   "frame": 262,
+   "kind": "tap",
+   "gain": 0.6,
+   "reverse": false
+  },
+  {
+   "frame": 301,
+   "kind": "clink",
+   "gain": 0.7,
+   "reverse": false
+  },
+  {
+   "frame": 352,
+   "kind": "clink",
+   "gain": 0.6,
+   "reverse": false
+  },
+  {
+   "frame": 382,
+   "kind": "clink",
+   "gain": 0.6,
+   "reverse": false
+  },
+  {
+   "frame": 396,
+   "kind": "clink",
+   "gain": 0.9,
+   "reverse": false
+  },
+  {
+   "frame": 398,
+   "kind": "cloth",
+   "gain": 0.5,
+   "reverse": false
+  },
+  {
+   "frame": 412,
+   "kind": "clink",
+   "gain": 0.6,
+   "reverse": false
+  },
+  {
+   "frame": 449,
+   "kind": "fork",
+   "gain": 1,
+   "reverse": false
+  },
+  {
+   "frame": 460,
+   "kind": "fork",
+   "gain": 1,
+   "reverse": false
+  },
+  {
+   "frame": 470,
+   "kind": "fork",
+   "gain": 1,
+   "reverse": false
+  },
+  {
+   "frame": 481,
+   "kind": "fork",
+   "gain": 1,
+   "reverse": false
+  },
+  {
+   "frame": 491,
+   "kind": "fork",
+   "gain": 1,
+   "reverse": false
+  },
+  {
+   "frame": 499,
+   "kind": "clink",
+   "gain": 1,
+   "reverse": false
+  },
+  {
+   "frame": 501,
+   "kind": "chair",
+   "gain": 0.9,
+   "reverse": false
+  },
+  {
+   "frame": 503,
+   "kind": "whoosh",
+   "gain": 0.8,
+   "reverse": false
+  },
+  {
+   "frame": 507,
+   "kind": "slam",
+   "gain": 0.8,
+   "reverse": false
+  },
+  {
+   "frame": 507,
+   "kind": "bellshake",
+   "gain": 0.7,
+   "reverse": false
+  },
+  {
+   "frame": 516,
+   "kind": "tap",
+   "gain": 0.6,
+   "reverse": false
+  },
+  {
+   "frame": 516,
+   "kind": "whoosh",
+   "gain": 0.6,
+   "reverse": false
+  },
+  {
+   "frame": 526,
+   "kind": "tap",
+   "gain": 0.6,
+   "reverse": false
+  },
+  {
+   "frame": 538,
+   "kind": "tap",
+   "gain": 0.6,
+   "reverse": false
+  },
+  {
+   "frame": 548,
+   "kind": "bell",
+   "gain": 0.35,
+   "reverse": false
+  },
+  {
+   "frame": 566,
+   "kind": "cloth",
+   "gain": 0.4,
+   "reverse": false
+  },
+  {
+   "frame": 618,
+   "kind": "bell",
+   "gain": 0.8,
+   "reverse": false
+  },
+  {
+   "frame": 636,
+   "kind": "step",
+   "gain": 0.8,
+   "reverse": false
+  },
+  {
+   "frame": 643,
+   "kind": "step",
+   "gain": 0.8,
+   "reverse": false
+  },
+  {
+   "frame": 650,
+   "kind": "step",
+   "gain": 0.8,
+   "reverse": false
+  },
+  {
+   "frame": 657,
+   "kind": "step",
+   "gain": 0.8,
+   "reverse": false
+  },
+  {
+   "frame": 668,
+   "kind": "cloth",
+   "gain": 0.5,
+   "reverse": false
+  },
+  {
+   "frame": 674,
+   "kind": "rustle",
+   "gain": 0.5,
+   "reverse": false
+  },
+  {
+   "frame": 678,
+   "kind": "thud",
+   "gain": 0.6,
+   "reverse": false
+  },
+  {
+   "frame": 700,
+   "kind": "piano",
+   "gain": 0.6,
+   "reverse": false
+  },
+  {
+   "frame": 702,
+   "kind": "rustle",
+   "gain": 0.45,
+   "reverse": false
+  },
+  {
+   "frame": 710,
+   "kind": "scrape",
+   "gain": 0.55,
+   "reverse": false
+  },
+  {
+   "frame": 727,
+   "kind": "thud",
+   "gain": 0.35,
+   "reverse": false
+  },
+  {
+   "frame": 734,
+   "kind": "scrape",
+   "gain": 0.55,
+   "reverse": false
+  },
+  {
+   "frame": 749,
+   "kind": "thud",
+   "gain": 0.35,
+   "reverse": false
+  },
+  {
+   "frame": 756,
+   "kind": "scrape",
+   "gain": 0.55,
+   "reverse": false
+  },
+  {
+   "frame": 765,
+   "kind": "thud",
+   "gain": 0.35,
+   "reverse": false
+  },
+  {
+   "frame": 806,
+   "kind": "fork",
+   "gain": 1,
+   "reverse": false
+  },
+  {
+   "frame": 834,
+   "kind": "whir",
+   "gain": 1,
+   "reverse": false
+  },
+  {
+   "frame": 842,
+   "kind": "bell",
+   "gain": 0.8,
+   "reverse": true
+  },
+  {
+   "frame": 855,
+   "kind": "clink",
+   "gain": 0.8,
+   "reverse": true
+  },
+  {
+   "frame": 865,
+   "kind": "chair",
+   "gain": 0.8,
+   "reverse": true
+  },
+  {
+   "frame": 868,
+   "kind": "riser",
+   "gain": 0.55,
+   "reverse": false
+  },
+  {
+   "frame": 882,
+   "kind": "clunk",
+   "gain": 1,
+   "reverse": false
+  },
+  {
+   "frame": 882,
+   "kind": "fork",
+   "gain": 1,
+   "reverse": false
+  },
+  {
+   "frame": 892,
+   "kind": "fork",
+   "gain": 1,
+   "reverse": false
+  },
+  {
+   "frame": 903,
+   "kind": "fork",
+   "gain": 1,
+   "reverse": false
+  },
+  {
+   "frame": 912,
+   "kind": "piano",
+   "gain": 0.9,
+   "reverse": false
+  },
+  {
+   "frame": 913,
+   "kind": "fork",
+   "gain": 1,
+   "reverse": false
+  },
+  {
+   "frame": 918,
+   "kind": "step",
+   "gain": 0.3,
+   "reverse": false
+  },
+  {
+   "frame": 925,
+   "kind": "step",
+   "gain": 0.3,
+   "reverse": false
+  },
+  {
+   "frame": 944,
+   "kind": "piano",
+   "gain": 0.6,
+   "reverse": false
+  },
+  {
+   "frame": 960,
+   "kind": "cloth",
+   "gain": 0.9,
+   "reverse": false
+  },
+  {
+   "frame": 964,
+   "kind": "piano",
+   "gain": 0.5,
+   "reverse": false
+  },
+  {
+   "frame": 1018,
+   "kind": "cloth",
+   "gain": 0.5,
+   "reverse": false
+  },
+  {
+   "frame": 1057,
+   "kind": "heart",
+   "gain": 1,
+   "reverse": false
+  },
+  {
+   "frame": 1057,
+   "kind": "fork",
+   "gain": 1,
+   "reverse": false
+  },
+  {
+   "frame": 1068,
+   "kind": "heart",
+   "gain": 1,
+   "reverse": false
+  },
+  {
+   "frame": 1068,
+   "kind": "fork",
+   "gain": 1,
+   "reverse": false
+  },
+  {
+   "frame": 1078,
+   "kind": "heart",
+   "gain": 1,
+   "reverse": false
+  },
+  {
+   "frame": 1078,
+   "kind": "fork",
+   "gain": 1,
+   "reverse": false
+  },
+  {
+   "frame": 1160,
+   "kind": "piano",
+   "gain": 0.5,
+   "reverse": false
+  },
+  {
+   "frame": 1172,
+   "kind": "clink",
+   "gain": 0.5,
+   "reverse": false
+  },
+  {
+   "frame": 1216,
+   "kind": "fork",
+   "gain": 1,
+   "reverse": false
+  },
+  {
+   "frame": 1280,
+   "kind": "whoosh",
+   "gain": 0.55,
+   "reverse": false
+  },
+  {
+   "frame": 1290,
+   "kind": "tap",
+   "gain": 0.5,
+   "reverse": false
+  },
+  {
+   "frame": 1296,
+   "kind": "tap",
+   "gain": 0.5,
+   "reverse": false
+  },
+  {
+   "frame": 1303,
+   "kind": "tap",
+   "gain": 0.5,
+   "reverse": false
+  },
+  {
+   "frame": 1310,
+   "kind": "tap",
+   "gain": 0.5,
+   "reverse": false
+  },
+  {
+   "frame": 1329,
+   "kind": "piano",
+   "gain": 0.6,
+   "reverse": false
+  },
+  {
+   "frame": 1507,
+   "kind": "tap",
+   "gain": 0.6,
+   "reverse": false
+  },
+  {
+   "frame": 1507,
+   "kind": "step",
+   "gain": 0.6,
+   "reverse": false
+  },
+  {
+   "frame": 1538,
+   "kind": "cloth",
+   "gain": 0.5,
+   "reverse": false
+  },
+  {
+   "frame": 1552,
+   "kind": "cloth",
+   "gain": 0.5,
+   "reverse": false
+  },
+  {
+   "frame": 1560,
+   "kind": "riser",
+   "gain": 0.5,
+   "reverse": false
+  },
+  {
+   "frame": 1598,
+   "kind": "chair",
+   "gain": 0.7,
+   "reverse": false
+  },
+  {
+   "frame": 1628,
+   "kind": "chime",
+   "gain": 0.7,
+   "reverse": false
+  },
+  {
+   "frame": 1631,
+   "kind": "whoosh",
+   "gain": 0.6,
+   "reverse": true
+  }
+ ],
+ "beds": [],
+ "music": {
+  "file": "shorts/fragrant-flower/cut-v6/public/temporex-numbers.mp3",
+  "start": 0,
+  "under": 23,
+  "keys": [
+   [
+    0,
+    0
+   ],
+   [
+    24,
+    0.4
+   ],
+   [
+    90,
+    0.5
+   ],
+   [
+    149,
+    0.7
+   ],
+   [
+    500,
+    0.7
+   ],
+   [
+    515,
+    0.5
+   ],
+   [
+    612,
+    0.7
+   ],
+   [
+    830,
+    0.6
+   ],
+   [
+    858,
+    0.2
+   ],
+   [
+    882,
+    0.9
+   ],
+   [
+    1102,
+    0.8
+   ],
+   [
+    1216,
+    0.6
+   ],
+   [
+    1329,
+    0.8
+   ],
+   [
+    1500,
+    0.8
+   ],
+   [
+    1585,
+    0.9
+   ],
+   [
+    1610,
+    0.9
+   ],
+   [
+    1646,
+    0.12
+   ]
+  ]
+ }
+}

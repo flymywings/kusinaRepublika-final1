@@ -1,0 +1,55 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'supermarket-after-hours/proof/After Hours - v7 - 2K.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf61.7.100
+    comment         : Made with Remotion 4.0.540
+  Duration: 00:00:37.97, start: 0.000000, bitrate: 10272 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuvj420p(pc, bt470bg/unknown/unknown, progressive), 1440x2560 [SAR 1:1 DAR 9:16], 9947 kb/s, 30 fps, 30 tbr, 90k tbn (default)
+    Metadata:
+      handler_name    : VideoHandler
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 317 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+Stream mapping:
+  Stream #0:1 -> #0:0 (aac (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'NUL':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    comment         : Made with Remotion 4.0.540
+    encoder         : Lavf63.1.102
+  Stream #0:0(und): Audio: pcm_s16le, 192000 Hz, stereo, s16, 6144 kb/s (default)
+    Metadata:
+      encoder         : Lavc63.1.102 pcm_s16le
+      handler_name    : SoundHandler
+size=N/A time=00:00:01.70 bitrate=N/A speed=1.41x elapsed=0:00:01.20    
+size=N/A time=00:00:04.00 bitrate=N/A speed=2.29x elapsed=0:00:01.74    
+size=N/A time=00:00:05.90 bitrate=N/A speed=2.58x elapsed=0:00:02.28    
+size=N/A time=00:00:07.30 bitrate=N/A speed=2.57x elapsed=0:00:02.84    
+size=N/A time=00:00:09.40 bitrate=N/A speed=2.79x elapsed=0:00:03.36    
+size=N/A time=00:00:13.10 bitrate=N/A speed=3.35x elapsed=0:00:03.91    
+size=N/A time=00:00:15.90 bitrate=N/A speed=3.55x elapsed=0:00:04.47    
+size=N/A time=00:00:18.20 bitrate=N/A speed=3.63x elapsed=0:00:05.01    
+size=N/A time=00:00:20.80 bitrate=N/A speed=3.75x elapsed=0:00:05.55    
+size=N/A time=00:00:23.00 bitrate=N/A speed=3.78x elapsed=0:00:06.08    
+size=N/A time=00:00:26.20 bitrate=N/A speed=3.92x elapsed=0:00:06.67    
+size=N/A time=00:00:28.70 bitrate=N/A speed=3.99x elapsed=0:00:07.19    
+[Parsed_loudnorm_0 @ 000001e791633f40] 
+{
+	"input_i" : "-16.69",
+	"input_tp" : "-1.48",
+	"input_lra" : "2.20",
+	"input_thresh" : "-27.42",
+	"output_i" : "-16.71",
+	"output_tp" : "-1.50",
+	"output_lra" : "2.20",
+	"output_thresh" : "-27.40",
+	"normalization_type" : "dynamic",
+	"target_offset" : "0.11"
+}
+[out#0/null @ 000001e7915fc340] video:0KiB audio:28480KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:00:38.00 bitrate=N/A speed=4.96x elapsed=0:00:07.66    

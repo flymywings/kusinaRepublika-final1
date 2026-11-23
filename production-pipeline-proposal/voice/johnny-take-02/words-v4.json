@@ -1,0 +1,2304 @@
+{
+ "duration": 54.855,
+ "method": "ffmpeg whisper filter (model.bin, max_len=1, json) on the v3 master as in cut-v3.mjs; each whisper start snapped to the nearest >=9 dB energy onset within 120 ms. Hook words (0-7.0 s) are hand-checked on spectrograms. Phrase edges and marks are exactly v3. Words with status fallback-midpoint(unverified) disagree with whisper by more than 80 ms and found no onset.",
+ "status_counts": {
+  "locked-phrase-edge-or-mark": 23,
+  "hand-checked": 19,
+  "whisper+onset": 101,
+  "v3-agrees-with-whisper": 22,
+  "fallback-midpoint(unverified)": 15
+ },
+ "moved_over_2_frames": [
+  {
+   "i": 3,
+   "word": "terrified",
+   "v3": 1.08,
+   "corrected": 0.865,
+   "frames": -6.5,
+   "status": "hand-checked"
+  },
+  {
+   "i": 5,
+   "word": "his",
+   "v3": 1.631,
+   "corrected": 1.7,
+   "frames": 2.1,
+   "status": "hand-checked"
+  },
+  {
+   "i": 13,
+   "word": "cake.",
+   "v3": 3.803,
+   "corrected": 3.72,
+   "frames": -2.5,
+   "status": "hand-checked"
+  },
+  {
+   "i": 17,
+   "word": "blond,",
+   "v3": 5.274,
+   "corrected": 5.66,
+   "frames": 11.6,
+   "status": "hand-checked"
+  },
+  {
+   "i": 18,
+   "word": "pierced,",
+   "v3": 5.663,
+   "corrected": 6.16,
+   "frames": 14.9,
+   "status": "hand-checked"
+  },
+  {
+   "i": 19,
+   "word": "and",
+   "v3": 6.159,
+   "corrected": 6.67,
+   "frames": 15.3,
+   "status": "hand-checked"
+  },
+  {
+   "i": 20,
+   "word": "so",
+   "v3": 6.382,
+   "corrected": 6.78,
+   "frames": 11.9,
+   "status": "hand-checked"
+  },
+  {
+   "i": 21,
+   "word": "intimidating",
+   "v3": 6.67,
+   "corrected": 6.95,
+   "frames": 8.4,
+   "status": "hand-checked"
+  },
+  {
+   "i": 22,
+   "word": "that",
+   "v3": 7.391,
+   "corrected": 7.725,
+   "frames": 10,
+   "status": "whisper+onset"
+  },
+  {
+   "i": 23,
+   "word": "strangers",
+   "v3": 7.625,
+   "corrected": 7.845,
+   "frames": 6.6,
+   "status": "whisper+onset"
+  },
+  {
+   "i": 25,
+   "word": "run",
+   "v3": 8.641,
+   "corrected": 8.945,
+   "frames": 9.1,
+   "status": "whisper+onset"
+  },
+  {
+   "i": 29,
+   "word": "isn't",
+   "v3": 9.795,
+   "corrected": 9.675,
+   "frames": -3.6,
+   "status": "whisper+onset"
+  },
+  {
+   "i": 32,
+   "word": "your",
+   "v3": 10.566,
+   "corrected": 10.655,
+   "frames": 2.7,
+   "status": "whisper+onset"
+  },
+  {
+   "i": 36,
+   "word": "cake",
+   "v3": 11.438,
+   "corrected": 11.295,
+   "frames": -4.3,
+   "status": "whisper+onset"
+  },
+  {
+   "i": 37,
+   "word": "shop.",
+   "v3": 11.694,
+   "corrected": 11.825,
+   "frames": 3.9,
+   "status": "whisper+onset"
+  },
+  {
+   "i": 39,
+   "word": "when",
+   "v3": 12.26,
+   "corrected": 12.189,
+   "frames": -2.1,
+   "status": "whisper+onset"
+  },
+  {
+   "i": 40,
+   "word": "he",
+   "v3": 12.55,
+   "corrected": 12.48,
+   "frames": -2.1,
+   "status": "fallback-midpoint(unverified)"
+  },
+  {
+   "i": 43,
+   "word": "girl",
+   "v3": 13.012,
+   "corrected": 12.905,
+   "frames": -3.2,
+   "status": "whisper+onset"
+  },
+  {
+   "i": 50,
+   "word": "can't",
+   "v3": 15.117,
+   "corrected": 15.035,
+   "frames": -2.5,
+   "status": "whisper+onset"
+  },
+  {
+   "i": 54,
+   "word": "locks",
+   "v3": 16.505,
+   "corrected": 16.403,
+   "frames": -3.1,
+   "status": "whisper+onset"
+  },
+  {
+   "i": 56,
+   "word": "with",
+   "v3": 17.141,
+   "corrected": 17.025,
+   "frames": -3.5,
+   "status": "whisper+onset"
+  },
+  {
+   "i": 58,
+   "word": "and",
+   "v3": 17.537,
+   "corrected": 17.435,
+   "frames": -3.1,
+   "status": "whisper+onset"
+  },
+  {
+   "i": 64,
+   "word": "sure",
+   "v3": 19.088,
+   "corrected": 18.975,
+   "frames": -3.4,
+   "status": "whisper+onset"
+  },
+  {
+   "i": 65,
+   "word": "he's",
+   "v3": 19.442,
+   "corrected": 19.245,
+   "frames": -5.9,
+   "status": "whisper+onset"
+  },
+  {
+   "i": 72,
+   "word": "next",
+   "v3": 21.41,
+   "corrected": 21.285,
+   "frames": -3.8,
+   "status": "whisper+onset"
+  },
+  {
+   "i": 74,
+   "word": "she's",
+   "v3": 22.022,
+   "corrected": 21.916,
+   "frames": -3.2,
+   "status": "fallback-midpoint(unverified)"
+  },
+  {
+   "i": 77,
+   "word": "and",
+   "v3": 23.375,
+   "corrected": 23.005,
+   "frames": -11.1,
+   "status": "whisper+onset"
+  },
+  {
+   "i": 78,
+   "word": "insisting",
+   "v3": 23.496,
+   "corrected": 23.385,
+   "frames": -3.3,
+   "status": "whisper+onset"
+  },
+  {
+   "i": 79,
+   "word": "on",
+   "v3": 24.071,
+   "corrected": 23.965,
+   "frames": -3.2,
+   "status": "whisper+onset"
+  },
+  {
+   "i": 80,
+   "word": "buying",
+   "v3": 24.121,
+   "corrected": 24.015,
+   "frames": -3.2,
+   "status": "whisper+onset"
+  },
+  {
+   "i": 81,
+   "word": "him",
+   "v3": 24.653,
+   "corrected": 24.566,
+   "frames": -2.6,
+   "status": "fallback-midpoint(unverified)"
+  },
+  {
+   "i": 85,
+   "word": "he",
+   "v3": 25.55,
+   "corrected": 25.442,
+   "frames": -3.2,
+   "status": "whisper+onset"
+  },
+  {
+   "i": 90,
+   "word": "run",
+   "v3": 27.059,
+   "corrected": 26.955,
+   "frames": -3.1,
+   "status": "whisper+onset"
+  },
+  {
+   "i": 98,
+   "word": "see,",
+   "v3": 29.997,
+   "corrected": 29.914,
+   "frames": -2.5,
+   "status": "whisper+onset"
+  },
+  {
+   "i": 102,
+   "word": "that",
+   "v3": 31.201,
+   "corrected": 31.311,
+   "frames": 3.3,
+   "status": "fallback-midpoint(unverified)"
+  },
+  {
+   "i": 103,
+   "word": "look",
+   "v3": 31.612,
+   "corrected": 31.775,
+   "frames": 4.9,
+   "status": "whisper+onset"
+  },
+  {
+   "i": 108,
+   "word": "guy",
+   "v3": 33.477,
+   "corrected": 33.406,
+   "frames": -2.1,
+   "status": "whisper+onset"
+  },
+  {
+   "i": 109,
+   "word": "had",
+   "v3": 33.793,
+   "corrected": 33.645,
+   "frames": -4.4,
+   "status": "whisper+onset"
+  },
+  {
+   "i": 110,
+   "word": "ever",
+   "v3": 34.157,
+   "corrected": 34.013,
+   "frames": -4.3,
+   "status": "fallback-midpoint(unverified)"
+  },
+  {
+   "i": 111,
+   "word": "stared",
+   "v3": 34.541,
+   "corrected": 34.145,
+   "frames": -11.9,
+   "status": "whisper+onset"
+  },
+  {
+   "i": 112,
+   "word": "at",
+   "v3": 34.848,
+   "corrected": 34.545,
+   "frames": -9.1,
+   "status": "whisper+onset"
+  },
+  {
+   "i": 113,
+   "word": "her",
+   "v3": 35.002,
+   "corrected": 34.875,
+   "frames": -3.8,
+   "status": "whisper+onset"
+  },
+  {
+   "i": 116,
+   "word": "her",
+   "v3": 35.844,
+   "corrected": 35.751,
+   "frames": -2.8,
+   "status": "whisper+onset"
+  },
+  {
+   "i": 118,
+   "word": "was",
+   "v3": 36.305,
+   "corrected": 36.565,
+   "frames": 7.8,
+   "status": "whisper+onset"
+  },
+  {
+   "i": 122,
+   "word": "just",
+   "v3": 38.304,
+   "corrected": 38.135,
+   "frames": -5.1,
+   "status": "whisper+onset"
+  },
+  {
+   "i": 123,
+   "word": "noticed",
+   "v3": 38.62,
+   "corrected": 38.415,
+   "frames": -6.1,
+   "status": "whisper+onset"
+  },
+  {
+   "i": 124,
+   "word": "her,",
+   "v3": 39.294,
+   "corrected": 39.072,
+   "frames": -6.7,
+   "status": "fallback-midpoint(unverified)"
+  },
+  {
+   "i": 125,
+   "word": "but",
+   "v3": 39.402,
+   "corrected": 39.275,
+   "frames": -3.8,
+   "status": "whisper+onset"
+  },
+  {
+   "i": 126,
+   "word": "she'd",
+   "v3": 39.595,
+   "corrected": 39.405,
+   "frames": -5.7,
+   "status": "whisper+onset"
+  },
+  {
+   "i": 127,
+   "word": "noticed",
+   "v3": 39.778,
+   "corrected": 39.885,
+   "frames": 3.2,
+   "status": "whisper+onset"
+  },
+  {
+   "i": 129,
+   "word": "long",
+   "v3": 40.388,
+   "corrected": 40.459,
+   "frames": 2.1,
+   "status": "fallback-midpoint(unverified)"
+  },
+  {
+   "i": 130,
+   "word": "before",
+   "v3": 40.735,
+   "corrected": 40.925,
+   "frames": 5.7,
+   "status": "whisper+onset"
+  },
+  {
+   "i": 131,
+   "word": "that.",
+   "v3": 41.1,
+   "corrected": 41.18,
+   "frames": 2.4,
+   "status": "fallback-midpoint(unverified)"
+  },
+  {
+   "i": 133,
+   "word": "read",
+   "v3": 42.004,
+   "corrected": 41.937,
+   "frames": -2,
+   "status": "whisper+onset"
+  },
+  {
+   "i": 141,
+   "word": "reads",
+   "v3": 44.937,
+   "corrected": 44.819,
+   "frames": -3.5,
+   "status": "fallback-midpoint(unverified)"
+  },
+  {
+   "i": 149,
+   "word": "once",
+   "v3": 47.38,
+   "corrected": 47.215,
+   "frames": -4.9,
+   "status": "whisper+onset"
+  },
+  {
+   "i": 150,
+   "word": "thought",
+   "v3": 47.637,
+   "corrected": 47.975,
+   "frames": 10.1,
+   "status": "whisper+onset"
+  },
+  {
+   "i": 152,
+   "word": "were",
+   "v3": 48.075,
+   "corrected": 48.335,
+   "frames": 7.8,
+   "status": "whisper+onset"
+  },
+  {
+   "i": 155,
+   "word": "used",
+   "v3": 49.337,
+   "corrected": 49.247,
+   "frames": -2.7,
+   "status": "whisper+onset"
+  },
+  {
+   "i": 158,
+   "word": "taking",
+   "v3": 50.011,
+   "corrected": 49.895,
+   "frames": -3.5,
+   "status": "whisper+onset"
+  },
+  {
+   "i": 159,
+   "word": "one",
+   "v3": 50.512,
+   "corrected": 50.426,
+   "frames": -2.6,
+   "status": "fallback-midpoint(unverified)"
+  },
+  {
+   "i": 161,
+   "word": "at",
+   "v3": 50.888,
+   "corrected": 50.735,
+   "frames": -4.6,
+   "status": "whisper+onset"
+  },
+  {
+   "i": 162,
+   "word": "his",
+   "v3": 51.033,
+   "corrected": 50.785,
+   "frames": -7.4,
+   "status": "whisper+onset"
+  },
+  {
+   "i": 170,
+   "word": "what",
+   "v3": 53.007,
+   "corrected": 52.925,
+   "frames": -2.5,
+   "status": "whisper+onset"
+  },
+  {
+   "i": 175,
+   "word": "looks",
+   "v3": 54.275,
+   "corrected": 54.362,
+   "frames": 2.6,
+   "status": "fallback-midpoint(unverified)"
+  },
+  {
+   "i": 176,
+   "word": "at",
+   "v3": 54.536,
+   "corrected": 54.633,
+   "frames": 2.9,
+   "status": "fallback-midpoint(unverified)"
+  },
+  {
+   "i": 177,
+   "word": "it...",
+   "v3": 54.656,
+   "corrected": 54.763,
+   "frames": 3.2,
+   "status": "fallback-midpoint(unverified)"
+  }
+ ],
+ "words": [
+  {
+   "word": "This",
+   "start": 0.06,
+   "end": 0.325,
+   "line": 1,
+   "status": "locked-phrase-edge-or-mark",
+   "v3_start": 0.06,
+   "whisper_start": 0.11
+  },
+  {
+   "word": "girl",
+   "start": 0.325,
+   "end": 0.742,
+   "line": 1,
+   "status": "hand-checked",
+   "v3_start": 0.313,
+   "whisper_start": 0.25
+  },
+  {
+   "word": "looked",
+   "start": 0.742,
+   "end": 0.865,
+   "line": 1,
+   "status": "hand-checked",
+   "v3_start": 0.742,
+   "whisper_start": 0.5
+  },
+  {
+   "word": "terrified",
+   "start": 0.865,
+   "end": 1.62,
+   "line": 1,
+   "status": "hand-checked",
+   "v3_start": 1.08,
+   "whisper_start": 0.87
+  },
+  {
+   "word": "of",
+   "start": 1.62,
+   "end": 1.7,
+   "line": 1,
+   "status": "hand-checked",
+   "v3_start": 1.581,
+   "whisper_start": 1.43
+  },
+  {
+   "word": "his",
+   "start": 1.7,
+   "end": 1.797,
+   "line": 1,
+   "status": "hand-checked",
+   "v3_start": 1.631,
+   "whisper_start": 1.63
+  },
+  {
+   "word": "face...",
+   "start": 1.797,
+   "end": 2.1,
+   "line": 1,
+   "status": "hand-checked",
+   "v3_start": 1.797,
+   "whisper_start": 1.73
+  },
+  {
+   "word": "then",
+   "start": 2.4,
+   "end": 2.68,
+   "line": 2,
+   "status": "locked-phrase-edge-or-mark",
+   "v3_start": 2.4,
+   "whisper_start": 2.18
+  },
+  {
+   "word": "came",
+   "start": 2.68,
+   "end": 2.947,
+   "line": 2,
+   "status": "hand-checked",
+   "v3_start": 2.679,
+   "whisper_start": 2.51
+  },
+  {
+   "word": "back",
+   "start": 2.947,
+   "end": 3.158,
+   "line": 2,
+   "status": "hand-checked",
+   "v3_start": 2.934,
+   "whisper_start": 2.93
+  },
+  {
+   "word": "to",
+   "start": 3.158,
+   "end": 3.308,
+   "line": 2,
+   "status": "hand-checked",
+   "v3_start": 3.17,
+   "whisper_start": 3.17
+  },
+  {
+   "word": "buy",
+   "start": 3.308,
+   "end": 3.628,
+   "line": 2,
+   "status": "hand-checked",
+   "v3_start": 3.31,
+   "whisper_start": 3.34
+  },
+  {
+   "word": "him",
+   "start": 3.628,
+   "end": 3.72,
+   "line": 2,
+   "status": "hand-checked",
+   "v3_start": 3.621,
+   "whisper_start": 3.58
+  },
+  {
+   "word": "cake.",
+   "start": 3.72,
+   "end": 4.058,
+   "line": 2,
+   "status": "hand-checked",
+   "v3_start": 3.803,
+   "whisper_start": 3.83
+  },
+  {
+   "word": "Rintaro",
+   "start": 4.558,
+   "end": 4.961,
+   "line": 3,
+   "status": "locked-phrase-edge-or-mark",
+   "v3_start": 4.558,
+   "whisper_start": 4.44
+  },
+  {
+   "word": "is",
+   "start": 4.961,
+   "end": 5.185,
+   "line": 3,
+   "status": "hand-checked",
+   "v3_start": 4.961,
+   "whisper_start": 4.93
+  },
+  {
+   "word": "tall,",
+   "start": 5.185,
+   "end": 5.66,
+   "line": 3,
+   "status": "hand-checked",
+   "v3_start": 5.174,
+   "whisper_start": 5.19
+  },
+  {
+   "word": "blond,",
+   "start": 5.66,
+   "end": 6.16,
+   "line": 3,
+   "status": "hand-checked",
+   "v3_start": 5.274,
+   "whisper_start": 5.49
+  },
+  {
+   "word": "pierced,",
+   "start": 6.16,
+   "end": 6.67,
+   "line": 3,
+   "status": "hand-checked",
+   "v3_start": 5.663,
+   "whisper_start": 6.06
+  },
+  {
+   "word": "and",
+   "start": 6.67,
+   "end": 6.78,
+   "line": 3,
+   "status": "hand-checked",
+   "v3_start": 6.159,
+   "whisper_start": 6.84
+  },
+  {
+   "word": "so",
+   "start": 6.78,
+   "end": 6.95,
+   "line": 3,
+   "status": "hand-checked",
+   "v3_start": 6.382,
+   "whisper_start": 6.85
+  },
+  {
+   "word": "intimidating",
+   "start": 6.95,
+   "end": 7.725,
+   "line": 3,
+   "status": "hand-checked",
+   "v3_start": 6.67,
+   "whisper_start": 6.95
+  },
+  {
+   "word": "that",
+   "start": 7.725,
+   "end": 7.845,
+   "line": 3,
+   "status": "whisper+onset",
+   "v3_start": 7.391,
+   "whisper_start": 7.61
+  },
+  {
+   "word": "strangers",
+   "start": 7.845,
+   "end": 8.175,
+   "line": 3,
+   "status": "whisper+onset",
+   "v3_start": 7.625,
+   "whisper_start": 7.77
+  },
+  {
+   "word": "run",
+   "start": 8.172,
+   "end": 8.222,
+   "line": 3,
+   "status": "whisper+onset",
+   "v3_start": 8.641,
+   "whisper_start": 8.88
+  },
+  {
+   "word": "from",
+   "start": 8.222,
+   "end": 8.272,
+   "line": 3,
+   "status": "whisper+onset",
+   "v3_start": 8.943,
+   "whisper_start": 9
+  },
+  {
+   "word": "him.",
+   "start": 8.272,
+   "end": 8.501,
+   "line": 3,
+   "status": "whisper+onset",
+   "v3_start": 9.086,
+   "whisper_start": 9.03
+  },
+  {
+   "word": "Which",
+   "start": 8.741,
+   "end": 8.902,
+   "line": 4,
+   "status": "locked-phrase-edge-or-mark",
+   "v3_start": 9.514,
+   "whisper_start": 9.42
+  },
+  {
+   "word": "isn't",
+   "start": 8.902,
+   "end": 9.252,
+   "line": 4,
+   "status": "whisper+onset",
+   "v3_start": 9.795,
+   "whisper_start": 9.75
+  },
+  {
+   "word": "great",
+   "start": 9.252,
+   "end": 9.532,
+   "line": 4,
+   "status": "whisper+onset",
+   "v3_start": 10.015,
+   "whisper_start": 9.99
+  },
+  {
+   "word": "when",
+   "start": 9.532,
+   "end": 9.882,
+   "line": 4,
+   "status": "whisper+onset",
+   "v3_start": 10.286,
+   "whisper_start": 10.29
+  },
+  {
+   "word": "your",
+   "start": 9.882,
+   "end": 9.932,
+   "line": 4,
+   "status": "whisper+onset",
+   "v3_start": 10.566,
+   "whisper_start": 10.58
+  },
+  {
+   "word": "family",
+   "start": 9.932,
+   "end": 10.333,
+   "line": 4,
+   "status": "whisper+onset",
+   "v3_start": 10.721,
+   "whisper_start": 10.74
+  },
+  {
+   "word": "owns",
+   "start": 10.333,
+   "end": 10.472,
+   "line": 4,
+   "status": "v3-agrees-with-whisper",
+   "v3_start": 11.106,
+   "whisper_start": 11.08
+  },
+  {
+   "word": "a",
+   "start": 10.472,
+   "end": 10.522,
+   "line": 4,
+   "status": "whisper+onset",
+   "v3_start": 11.308,
+   "whisper_start": 11.31
+  },
+  {
+   "word": "cake",
+   "start": 10.522,
+   "end": 11.052,
+   "line": 4,
+   "status": "whisper+onset",
+   "v3_start": 11.438,
+   "whisper_start": 11.36
+  },
+  {
+   "word": "shop.",
+   "start": 11.052,
+   "end": 11.126,
+   "line": 4,
+   "status": "whisper+onset",
+   "v3_start": 11.694,
+   "whisper_start": 11.82
+  },
+  {
+   "word": "So",
+   "start": 11.366,
+   "end": 11.416,
+   "line": 5,
+   "status": "locked-phrase-edge-or-mark",
+   "v3_start": 12.139,
+   "whisper_start": 12.04
+  },
+  {
+   "word": "when",
+   "start": 11.416,
+   "end": 11.707,
+   "line": 5,
+   "status": "whisper+onset",
+   "v3_start": 12.26,
+   "whisper_start": 12.17
+  },
+  {
+   "word": "he",
+   "start": 11.707,
+   "end": 11.882,
+   "line": 5,
+   "status": "fallback-midpoint(unverified)",
+   "v3_start": 12.55,
+   "whisper_start": 12.41
+  },
+  {
+   "word": "spots",
+   "start": 11.882,
+   "end": 12.082,
+   "line": 5,
+   "status": "whisper+onset",
+   "v3_start": 12.681,
+   "whisper_start": 12.53
+  },
+  {
+   "word": "a",
+   "start": 12.082,
+   "end": 12.132,
+   "line": 5,
+   "status": "whisper+onset",
+   "v3_start": 12.887,
+   "whisper_start": 12.88
+  },
+  {
+   "word": "girl",
+   "start": 12.132,
+   "end": 12.472,
+   "line": 5,
+   "status": "whisper+onset",
+   "v3_start": 13.012,
+   "whisper_start": 12.91
+  },
+  {
+   "word": "demolishing",
+   "start": 12.472,
+   "end": 13.131,
+   "line": 5,
+   "status": "whisper+onset",
+   "v3_start": 13.232,
+   "whisper_start": 13.2
+  },
+  {
+   "word": "a",
+   "start": 13.131,
+   "end": 13.202,
+   "line": 5,
+   "status": "v3-agrees-with-whisper",
+   "v3_start": 13.904,
+   "whisper_start": 13.86
+  },
+  {
+   "word": "mountain",
+   "start": 13.202,
+   "end": 13.702,
+   "line": 5,
+   "status": "v3-agrees-with-whisper",
+   "v3_start": 13.975,
+   "whisper_start": 13.92
+  },
+  {
+   "word": "of",
+   "start": 13.702,
+   "end": 13.752,
+   "line": 5,
+   "status": "whisper+onset",
+   "v3_start": 14.465,
+   "whisper_start": 14.45
+  },
+  {
+   "word": "cake,",
+   "start": 13.752,
+   "end": 14.212,
+   "line": 5,
+   "status": "whisper+onset",
+   "v3_start": 14.54,
+   "whisper_start": 14.55
+  },
+  {
+   "word": "he",
+   "start": 14.212,
+   "end": 14.262,
+   "line": 5,
+   "status": "whisper+onset",
+   "v3_start": 15.009,
+   "whisper_start": 14.94
+  },
+  {
+   "word": "can't",
+   "start": 14.262,
+   "end": 14.632,
+   "line": 5,
+   "status": "whisper+onset",
+   "v3_start": 15.117,
+   "whisper_start": 15.06
+  },
+  {
+   "word": "help",
+   "start": 14.632,
+   "end": 14.962,
+   "line": 5,
+   "status": "whisper+onset",
+   "v3_start": 15.389,
+   "whisper_start": 15.36
+  },
+  {
+   "word": "staring.",
+   "start": 14.962,
+   "end": 15.34,
+   "line": 5,
+   "status": "whisper+onset",
+   "v3_start": 15.698,
+   "whisper_start": 15.61
+  },
+  {
+   "word": "She",
+   "start": 15.58,
+   "end": 15.63,
+   "line": 6,
+   "status": "locked-phrase-edge-or-mark",
+   "v3_start": 16.353,
+   "whisper_start": 16.26
+  },
+  {
+   "word": "locks",
+   "start": 15.63,
+   "end": 15.952,
+   "line": 6,
+   "status": "whisper+onset",
+   "v3_start": 16.505,
+   "whisper_start": 16.45
+  },
+  {
+   "word": "eyes",
+   "start": 15.952,
+   "end": 16.252,
+   "line": 6,
+   "status": "whisper+onset",
+   "v3_start": 16.72,
+   "whisper_start": 16.76
+  },
+  {
+   "word": "with",
+   "start": 16.252,
+   "end": 16.612,
+   "line": 6,
+   "status": "whisper+onset",
+   "v3_start": 17.141,
+   "whisper_start": 17.01
+  },
+  {
+   "word": "him",
+   "start": 16.612,
+   "end": 16.662,
+   "line": 6,
+   "status": "whisper+onset",
+   "v3_start": 17.382,
+   "whisper_start": 17.26
+  },
+  {
+   "word": "and",
+   "start": 16.662,
+   "end": 16.902,
+   "line": 6,
+   "status": "whisper+onset",
+   "v3_start": 17.537,
+   "whisper_start": 17.45
+  },
+  {
+   "word": "bolts",
+   "start": 16.902,
+   "end": 17.122,
+   "line": 6,
+   "status": "whisper+onset",
+   "v3_start": 17.659,
+   "whisper_start": 17.65
+  },
+  {
+   "word": "out",
+   "start": 17.122,
+   "end": 17.352,
+   "line": 6,
+   "status": "whisper+onset",
+   "v3_start": 17.948,
+   "whisper_start": 17.95
+  },
+  {
+   "word": "the",
+   "start": 17.352,
+   "end": 17.402,
+   "line": 6,
+   "status": "whisper+onset",
+   "v3_start": 18.134,
+   "whisper_start": 18.14
+  },
+  {
+   "word": "door.",
+   "start": 17.402,
+   "end": 17.795,
+   "line": 6,
+   "status": "whisper+onset",
+   "v3_start": 18.239,
+   "whisper_start": 18.24
+  },
+  {
+   "word": "He's",
+   "start": 18.145,
+   "end": 18.202,
+   "line": 7,
+   "status": "locked-phrase-edge-or-mark",
+   "v3_start": 18.918,
+   "whisper_start": 18.82
+  },
+  {
+   "word": "sure",
+   "start": 18.202,
+   "end": 18.472,
+   "line": 7,
+   "status": "whisper+onset",
+   "v3_start": 19.088,
+   "whisper_start": 19.06
+  },
+  {
+   "word": "he's",
+   "start": 18.472,
+   "end": 18.872,
+   "line": 7,
+   "status": "whisper+onset",
+   "v3_start": 19.442,
+   "whisper_start": 19.3
+  },
+  {
+   "word": "traumatized",
+   "start": 18.872,
+   "end": 19.462,
+   "line": 7,
+   "status": "whisper+onset",
+   "v3_start": 19.632,
+   "whisper_start": 19.57
+  },
+  {
+   "word": "her",
+   "start": 19.462,
+   "end": 19.622,
+   "line": 7,
+   "status": "whisper+onset",
+   "v3_start": 20.223,
+   "whisper_start": 20.21
+  },
+  {
+   "word": "for",
+   "start": 19.622,
+   "end": 19.815,
+   "line": 7,
+   "status": "whisper+onset",
+   "v3_start": 20.451,
+   "whisper_start": 20.45
+  },
+  {
+   "word": "life.",
+   "start": 19.815,
+   "end": 20.16,
+   "line": 7,
+   "status": "v3-agrees-with-whisper",
+   "v3_start": 20.588,
+   "whisper_start": 20.57
+  },
+  {
+   "word": "But",
+   "start": 20.4,
+   "end": 20.45,
+   "line": 8,
+   "status": "locked-phrase-edge-or-mark",
+   "v3_start": 21.173,
+   "whisper_start": 21.06
+  },
+  {
+   "word": "the",
+   "start": 20.45,
+   "end": 20.512,
+   "line": 8,
+   "status": "whisper+onset",
+   "v3_start": 21.275,
+   "whisper_start": 21.23
+  },
+  {
+   "word": "next",
+   "start": 20.512,
+   "end": 20.862,
+   "line": 8,
+   "status": "whisper+onset",
+   "v3_start": 21.41,
+   "whisper_start": 21.4
+  },
+  {
+   "word": "day",
+   "start": 20.862,
+   "end": 21.143,
+   "line": 8,
+   "status": "whisper+onset",
+   "v3_start": 21.626,
+   "whisper_start": 21.62
+  },
+  {
+   "word": "she's",
+   "start": 21.143,
+   "end": 21.312,
+   "line": 8,
+   "status": "fallback-midpoint(unverified)",
+   "v3_start": 22.022,
+   "whisper_start": 21.81
+  },
+  {
+   "word": "back,",
+   "start": 21.312,
+   "end": 21.762,
+   "line": 8,
+   "status": "whisper+onset",
+   "v3_start": 22.072,
+   "whisper_start": 22.07
+  },
+  {
+   "word": "apologizing",
+   "start": 21.762,
+   "end": 22.232,
+   "line": 8,
+   "status": "whisper+onset",
+   "v3_start": 22.546,
+   "whisper_start": 22.42
+  },
+  {
+   "word": "and",
+   "start": 22.232,
+   "end": 22.612,
+   "line": 8,
+   "status": "whisper+onset",
+   "v3_start": 23.375,
+   "whisper_start": 23.04
+  },
+  {
+   "word": "insisting",
+   "start": 22.612,
+   "end": 23.192,
+   "line": 8,
+   "status": "whisper+onset",
+   "v3_start": 23.496,
+   "whisper_start": 23.49
+  },
+  {
+   "word": "on",
+   "start": 23.192,
+   "end": 23.242,
+   "line": 8,
+   "status": "whisper+onset",
+   "v3_start": 24.071,
+   "whisper_start": 23.95
+  },
+  {
+   "word": "buying",
+   "start": 23.242,
+   "end": 23.793,
+   "line": 8,
+   "status": "whisper+onset",
+   "v3_start": 24.121,
+   "whisper_start": 24.08
+  },
+  {
+   "word": "him",
+   "start": 23.793,
+   "end": 24.022,
+   "line": 8,
+   "status": "fallback-midpoint(unverified)",
+   "v3_start": 24.653,
+   "whisper_start": 24.48
+  },
+  {
+   "word": "a",
+   "start": 24.022,
+   "end": 24.072,
+   "line": 8,
+   "status": "whisper+onset",
+   "v3_start": 24.731,
+   "whisper_start": 24.7
+  },
+  {
+   "word": "slice.",
+   "start": 24.072,
+   "end": 24.379,
+   "line": 8,
+   "status": "whisper+onset",
+   "v3_start": 24.794,
+   "whisper_start": 24.74
+  },
+  {
+   "word": "So",
+   "start": 24.619,
+   "end": 24.669,
+   "line": 9,
+   "status": "locked-phrase-edge-or-mark",
+   "v3_start": 25.392,
+   "whisper_start": 25.3
+  },
+  {
+   "word": "he",
+   "start": 24.669,
+   "end": 24.906,
+   "line": 9,
+   "status": "whisper+onset",
+   "v3_start": 25.55,
+   "whisper_start": 25.46
+  },
+  {
+   "word": "asks,",
+   "start": 24.906,
+   "end": 25.311,
+   "line": 9,
+   "status": "v3-agrees-with-whisper",
+   "v3_start": 25.679,
+   "whisper_start": 25.63
+  },
+  {
+   "word": "\"Wait,",
+   "start": 25.451,
+   "end": 25.701,
+   "line": 10,
+   "status": "locked-phrase-edge-or-mark",
+   "v3_start": 26.224,
+   "whisper_start": 26.17
+  },
+  {
+   "word": "didn't",
+   "start": 25.841,
+   "end": 26.132,
+   "line": 11,
+   "status": "locked-phrase-edge-or-mark",
+   "v3_start": 26.614,
+   "whisper_start": 26.52
+  },
+  {
+   "word": "you",
+   "start": 26.132,
+   "end": 26.182,
+   "line": 11,
+   "status": "whisper+onset",
+   "v3_start": 26.898,
+   "whisper_start": 26.93
+  },
+  {
+   "word": "run",
+   "start": 26.182,
+   "end": 26.447,
+   "line": 11,
+   "status": "whisper+onset",
+   "v3_start": 27.059,
+   "whisper_start": 27.01
+  },
+  {
+   "word": "because",
+   "start": 26.447,
+   "end": 26.908,
+   "line": 11,
+   "status": "v3-agrees-with-whisper",
+   "v3_start": 27.22,
+   "whisper_start": 27.17
+  },
+  {
+   "word": "you",
+   "start": 26.908,
+   "end": 26.98,
+   "line": 11,
+   "status": "v3-agrees-with-whisper",
+   "v3_start": 27.681,
+   "whisper_start": 27.7
+  },
+  {
+   "word": "were",
+   "start": 26.98,
+   "end": 27.252,
+   "line": 11,
+   "status": "v3-agrees-with-whisper",
+   "v3_start": 27.753,
+   "whisper_start": 27.72
+  },
+  {
+   "word": "scared",
+   "start": 27.252,
+   "end": 27.572,
+   "line": 11,
+   "status": "whisper+onset",
+   "v3_start": 28.011,
+   "whisper_start": 27.94
+  },
+  {
+   "word": "of",
+   "start": 27.572,
+   "end": 27.622,
+   "line": 11,
+   "status": "whisper+onset",
+   "v3_start": 28.342,
+   "whisper_start": 28.27
+  },
+  {
+   "word": "me?\"",
+   "start": 27.622,
+   "end": 27.791,
+   "line": 11,
+   "status": "whisper+onset",
+   "v3_start": 28.447,
+   "whisper_start": 28.38
+  },
+  {
+   "word": "from",
+   "start": 29.045,
+   "end": 29.395,
+   "line": 12,
+   "status": "whisper+onset",
+   "v3_start": 30.424,
+   "whisper_start": 30.49
+  },
+  {
+   "word": "HER",
+   "start": 29.395,
+   "end": 29.551,
+   "line": 12,
+   "status": "whisper+onset",
+   "v3_start": 30.712,
+   "whisper_start": 30.7
+  },
+  {
+   "word": "side,",
+   "start": 29.551,
+   "end": 29.941,
+   "line": 12,
+   "status": "v3-agrees-with-whisper",
+   "v3_start": 30.921,
+   "whisper_start": 30.94
+  },
+  {
+   "word": "that",
+   "start": 29.941,
+   "end": 30.405,
+   "line": 12,
+   "status": "fallback-midpoint(unverified)",
+   "v3_start": 31.201,
+   "whisper_start": 31.42
+  },
+  {
+   "word": "look",
+   "start": 30.405,
+   "end": 30.715,
+   "line": 12,
+   "status": "whisper+onset",
+   "v3_start": 31.612,
+   "whisper_start": 31.76
+  },
+  {
+   "word": "was",
+   "start": 30.715,
+   "end": 30.875,
+   "line": 12,
+   "status": "whisper+onset",
+   "v3_start": 32.02,
+   "whisper_start": 32.14
+  },
+  {
+   "word": "never",
+   "start": 30.875,
+   "end": 31.405,
+   "line": 12,
+   "status": "whisper+onset",
+   "v3_start": 32.242,
+   "whisper_start": 32.3
+  },
+  {
+   "word": "fear.",
+   "start": 31.405,
+   "end": 31.726,
+   "line": 12,
+   "status": "whisper+onset",
+   "v3_start": 32.71,
+   "whisper_start": 32.7
+  },
+  {
+   "word": "No",
+   "start": 31.986,
+   "end": 32.036,
+   "line": 13,
+   "status": "locked-phrase-edge-or-mark",
+   "v3_start": 33.356,
+   "whisper_start": 33.28
+  },
+  {
+   "word": "guy",
+   "start": 32.036,
+   "end": 32.275,
+   "line": 13,
+   "status": "whisper+onset",
+   "v3_start": 33.477,
+   "whisper_start": 33.43
+  },
+  {
+   "word": "had",
+   "start": 32.275,
+   "end": 32.643,
+   "line": 13,
+   "status": "whisper+onset",
+   "v3_start": 33.793,
+   "whisper_start": 33.65
+  },
+  {
+   "word": "ever",
+   "start": 32.643,
+   "end": 32.775,
+   "line": 13,
+   "status": "fallback-midpoint(unverified)",
+   "v3_start": 34.157,
+   "whisper_start": 33.87
+  },
+  {
+   "word": "stared",
+   "start": 32.775,
+   "end": 33.175,
+   "line": 13,
+   "status": "whisper+onset",
+   "v3_start": 34.541,
+   "whisper_start": 34.17
+  },
+  {
+   "word": "at",
+   "start": 33.175,
+   "end": 33.505,
+   "line": 13,
+   "status": "whisper+onset",
+   "v3_start": 34.848,
+   "whisper_start": 34.62
+  },
+  {
+   "word": "her",
+   "start": 33.505,
+   "end": 33.665,
+   "line": 13,
+   "status": "whisper+onset",
+   "v3_start": 35.002,
+   "whisper_start": 34.77
+  },
+  {
+   "word": "before,",
+   "start": 33.665,
+   "end": 34.131,
+   "line": 13,
+   "status": "whisper+onset",
+   "v3_start": 35.052,
+   "whisper_start": 34.99
+  },
+  {
+   "word": "and",
+   "start": 34.331,
+   "end": 34.381,
+   "line": 14,
+   "status": "locked-phrase-edge-or-mark",
+   "v3_start": 35.701,
+   "whisper_start": 35.68
+  },
+  {
+   "word": "her",
+   "start": 34.381,
+   "end": 34.715,
+   "line": 14,
+   "status": "whisper+onset",
+   "v3_start": 35.844,
+   "whisper_start": 35.84
+  },
+  {
+   "word": "heart",
+   "start": 34.715,
+   "end": 35.195,
+   "line": 14,
+   "status": "whisper+onset",
+   "v3_start": 36.028,
+   "whisper_start": 36.06
+  },
+  {
+   "word": "was",
+   "start": 35.195,
+   "end": 35.107,
+   "line": 14,
+   "status": "whisper+onset",
+   "v3_start": 36.305,
+   "whisper_start": 36.45
+  },
+  {
+   "word": "POUNDING.",
+   "start": 35.242,
+   "end": 35.854,
+   "line": 15,
+   "status": "locked-phrase-edge-or-mark",
+   "v3_start": 36.612,
+   "whisper_start": 36.66
+  },
+  {
+   "word": "He'd",
+   "start": 36.254,
+   "end": 36.464,
+   "line": 16,
+   "status": "locked-phrase-edge-or-mark",
+   "v3_start": 37.624,
+   "whisper_start": 37.52
+  },
+  {
+   "word": "only",
+   "start": 36.464,
+   "end": 36.765,
+   "line": 16,
+   "status": "v3-agrees-with-whisper",
+   "v3_start": 37.834,
+   "whisper_start": 37.85
+  },
+  {
+   "word": "just",
+   "start": 36.765,
+   "end": 37.045,
+   "line": 16,
+   "status": "whisper+onset",
+   "v3_start": 38.304,
+   "whisper_start": 38.08
+  },
+  {
+   "word": "noticed",
+   "start": 37.045,
+   "end": 37.702,
+   "line": 16,
+   "status": "whisper+onset",
+   "v3_start": 38.62,
+   "whisper_start": 38.37
+  },
+  {
+   "word": "her,",
+   "start": 37.702,
+   "end": 37.905,
+   "line": 16,
+   "status": "fallback-midpoint(unverified)",
+   "v3_start": 39.294,
+   "whisper_start": 38.85
+  },
+  {
+   "word": "but",
+   "start": 37.905,
+   "end": 38.035,
+   "line": 16,
+   "status": "whisper+onset",
+   "v3_start": 39.402,
+   "whisper_start": 39.22
+  },
+  {
+   "word": "she'd",
+   "start": 38.035,
+   "end": 38.515,
+   "line": 16,
+   "status": "whisper+onset",
+   "v3_start": 39.595,
+   "whisper_start": 39.44
+  },
+  {
+   "word": "noticed",
+   "start": 38.515,
+   "end": 38.9,
+   "line": 16,
+   "status": "whisper+onset",
+   "v3_start": 39.778,
+   "whisper_start": 39.94
+  },
+  {
+   "word": "him",
+   "start": 38.9,
+   "end": 39.089,
+   "line": 16,
+   "status": "v3-agrees-with-whisper",
+   "v3_start": 40.27,
+   "whisper_start": 40.31
+  },
+  {
+   "word": "long",
+   "start": 39.089,
+   "end": 39.555,
+   "line": 16,
+   "status": "fallback-midpoint(unverified)",
+   "v3_start": 40.388,
+   "whisper_start": 40.53
+  },
+  {
+   "word": "before",
+   "start": 39.555,
+   "end": 39.81,
+   "line": 16,
+   "status": "whisper+onset",
+   "v3_start": 40.735,
+   "whisper_start": 40.83
+  },
+  {
+   "word": "that.",
+   "start": 39.81,
+   "end": 40.067,
+   "line": 16,
+   "status": "fallback-midpoint(unverified)",
+   "v3_start": 41.1,
+   "whisper_start": 41.26
+  },
+  {
+   "word": "He",
+   "start": 40.517,
+   "end": 40.567,
+   "line": 17,
+   "status": "locked-phrase-edge-or-mark",
+   "v3_start": 41.887,
+   "whisper_start": 41.82
+  },
+  {
+   "word": "read",
+   "start": 40.567,
+   "end": 40.918,
+   "line": 17,
+   "status": "whisper+onset",
+   "v3_start": 42.004,
+   "whisper_start": 41.98
+  },
+  {
+   "word": "her",
+   "start": 40.918,
+   "end": 41.145,
+   "line": 17,
+   "status": "v3-agrees-with-whisper",
+   "v3_start": 42.288,
+   "whisper_start": 42.3
+  },
+  {
+   "word": "face",
+   "start": 41.145,
+   "end": 41.415,
+   "line": 17,
+   "status": "whisper+onset",
+   "v3_start": 42.499,
+   "whisper_start": 42.57
+  },
+  {
+   "word": "the",
+   "start": 41.415,
+   "end": 41.67,
+   "line": 17,
+   "status": "whisper+onset",
+   "v3_start": 42.809,
+   "whisper_start": 42.86
+  },
+  {
+   "word": "exact",
+   "start": 41.67,
+   "end": 42.045,
+   "line": 17,
+   "status": "fallback-midpoint(unverified)",
+   "v3_start": 42.98,
+   "whisper_start": 43.1
+  },
+  {
+   "word": "same",
+   "start": 42.045,
+   "end": 42.415,
+   "line": 17,
+   "status": "whisper+onset",
+   "v3_start": 43.416,
+   "whisper_start": 43.5
+  },
+  {
+   "word": "way",
+   "start": 42.415,
+   "end": 42.805,
+   "line": 17,
+   "status": "v3-agrees-with-whisper",
+   "v3_start": 43.785,
+   "whisper_start": 43.84
+  },
+  {
+   "word": "EVERYONE",
+   "start": 42.805,
+   "end": 43.449,
+   "line": 17,
+   "status": "whisper+onset",
+   "v3_start": 44.185,
+   "whisper_start": 44.24
+  },
+  {
+   "word": "reads",
+   "start": 43.449,
+   "end": 43.885,
+   "line": 17,
+   "status": "fallback-midpoint(unverified)",
+   "v3_start": 44.937,
+   "whisper_start": 44.7
+  },
+  {
+   "word": "his.",
+   "start": 43.885,
+   "end": 44.04,
+   "line": 17,
+   "status": "whisper+onset",
+   "v3_start": 45.261,
+   "whisper_start": 45.13
+  },
+  {
+   "word": "Then",
+   "start": 44.3,
+   "end": 44.501,
+   "line": 18,
+   "status": "locked-phrase-edge-or-mark",
+   "v3_start": 45.67,
+   "whisper_start": 45.6
+  },
+  {
+   "word": "she",
+   "start": 44.501,
+   "end": 44.665,
+   "line": 18,
+   "status": "v3-agrees-with-whisper",
+   "v3_start": 45.871,
+   "whisper_start": 45.85
+  },
+  {
+   "word": "tells",
+   "start": 44.665,
+   "end": 44.983,
+   "line": 18,
+   "status": "whisper+onset",
+   "v3_start": 46.032,
+   "whisper_start": 46.04
+  },
+  {
+   "word": "him,",
+   "start": 44.983,
+   "end": 45.127,
+   "line": 18,
+   "status": "v3-agrees-with-whisper",
+   "v3_start": 46.353,
+   "whisper_start": 46.35
+  },
+  {
+   "word": "\"I've",
+   "start": 45.427,
+   "end": 45.585,
+   "line": 19,
+   "status": "locked-phrase-edge-or-mark",
+   "v3_start": 46.797,
+   "whisper_start": 46.74
+  },
+  {
+   "word": "never",
+   "start": 45.585,
+   "end": 45.845,
+   "line": 19,
+   "status": "whisper+onset",
+   "v3_start": 46.944,
+   "whisper_start": 46.99
+  },
+  {
+   "word": "once",
+   "start": 45.845,
+   "end": 46.605,
+   "line": 19,
+   "status": "whisper+onset",
+   "v3_start": 47.38,
+   "whisper_start": 47.31
+  },
+  {
+   "word": "thought",
+   "start": 46.605,
+   "end": 46.655,
+   "line": 19,
+   "status": "whisper+onset",
+   "v3_start": 47.637,
+   "whisper_start": 48
+  },
+  {
+   "word": "you",
+   "start": 46.655,
+   "end": 46.965,
+   "line": 19,
+   "status": "whisper+onset",
+   "v3_start": 47.961,
+   "whisper_start": 48.02
+  },
+  {
+   "word": "were",
+   "start": 46.965,
+   "end": 47.077,
+   "line": 19,
+   "status": "whisper+onset",
+   "v3_start": 48.075,
+   "whisper_start": 48.21
+  },
+  {
+   "word": "scary.\"",
+   "start": 47.077,
+   "end": 47.377,
+   "line": 19,
+   "status": "v3-agrees-with-whisper",
+   "v3_start": 48.447,
+   "whisper_start": 48.47
+  },
+  {
+   "word": "He's",
+   "start": 47.827,
+   "end": 47.877,
+   "line": 20,
+   "status": "locked-phrase-edge-or-mark",
+   "v3_start": 49.197,
+   "whisper_start": 49.1
+  },
+  {
+   "word": "used",
+   "start": 47.877,
+   "end": 48.245,
+   "line": 20,
+   "status": "whisper+onset",
+   "v3_start": 49.337,
+   "whisper_start": 49.32
+  },
+  {
+   "word": "to",
+   "start": 48.245,
+   "end": 48.365,
+   "line": 20,
+   "status": "whisper+onset",
+   "v3_start": 49.605,
+   "whisper_start": 49.55
+  },
+  {
+   "word": "people",
+   "start": 48.365,
+   "end": 48.525,
+   "line": 20,
+   "status": "whisper+onset",
+   "v3_start": 49.725,
+   "whisper_start": 49.66
+  },
+  {
+   "word": "taking",
+   "start": 48.525,
+   "end": 49.056,
+   "line": 20,
+   "status": "whisper+onset",
+   "v3_start": 50.011,
+   "whisper_start": 50
+  },
+  {
+   "word": "one",
+   "start": 49.056,
+   "end": 49.199,
+   "line": 20,
+   "status": "fallback-midpoint(unverified)",
+   "v3_start": 50.512,
+   "whisper_start": 50.34
+  },
+  {
+   "word": "look",
+   "start": 49.199,
+   "end": 49.365,
+   "line": 20,
+   "status": "v3-agrees-with-whisper",
+   "v3_start": 50.569,
+   "whisper_start": 50.51
+  },
+  {
+   "word": "at",
+   "start": 49.365,
+   "end": 49.415,
+   "line": 20,
+   "status": "whisper+onset",
+   "v3_start": 50.888,
+   "whisper_start": 50.74
+  },
+  {
+   "word": "his",
+   "start": 49.415,
+   "end": 49.675,
+   "line": 20,
+   "status": "whisper+onset",
+   "v3_start": 51.033,
+   "whisper_start": 50.85
+  },
+  {
+   "word": "face",
+   "start": 49.675,
+   "end": 50.026,
+   "line": 20,
+   "status": "whisper+onset",
+   "v3_start": 51.083,
+   "whisper_start": 51.02
+  },
+  {
+   "word": "and",
+   "start": 50.026,
+   "end": 50.099,
+   "line": 20,
+   "status": "v3-agrees-with-whisper",
+   "v3_start": 51.396,
+   "whisper_start": 51.42
+  },
+  {
+   "word": "running.",
+   "start": 50.099,
+   "end": 50.513,
+   "line": 20,
+   "status": "v3-agrees-with-whisper",
+   "v3_start": 51.469,
+   "whisper_start": 51.52
+  },
+  {
+   "word": "He",
+   "start": 50.753,
+   "end": 50.803,
+   "line": 21,
+   "status": "locked-phrase-edge-or-mark",
+   "v3_start": 52.123,
+   "whisper_start": 52.04
+  },
+  {
+   "word": "has",
+   "start": 50.803,
+   "end": 51.091,
+   "line": 21,
+   "status": "whisper+onset",
+   "v3_start": 52.215,
+   "whisper_start": 52.19
+  },
+  {
+   "word": "no",
+   "start": 51.091,
+   "end": 51.247,
+   "line": 21,
+   "status": "v3-agrees-with-whisper",
+   "v3_start": 52.461,
+   "whisper_start": 52.42
+  },
+  {
+   "word": "idea",
+   "start": 51.247,
+   "end": 51.555,
+   "line": 21,
+   "status": "v3-agrees-with-whisper",
+   "v3_start": 52.617,
+   "whisper_start": 52.57
+  },
+  {
+   "word": "what",
+   "start": 51.555,
+   "end": 51.879,
+   "line": 21,
+   "status": "whisper+onset",
+   "v3_start": 53.007,
+   "whisper_start": 52.91
+  },
+  {
+   "word": "to",
+   "start": 51.879,
+   "end": 51.975,
+   "line": 21,
+   "status": "fallback-midpoint(unverified)",
+   "v3_start": 53.298,
+   "whisper_start": 53.2
+  },
+  {
+   "word": "do",
+   "start": 51.975,
+   "end": 52.115,
+   "line": 21,
+   "status": "whisper+onset",
+   "v3_start": 53.348,
+   "whisper_start": 53.34
+  },
+  {
+   "word": "when",
+   "start": 52.115,
+   "end": 52.409,
+   "line": 21,
+   "status": "whisper+onset",
+   "v3_start": 53.484,
+   "whisper_start": 53.49
+  },
+  {
+   "word": "someone",
+   "start": 52.409,
+   "end": 52.992,
+   "line": 21,
+   "status": "v3-agrees-with-whisper",
+   "v3_start": 53.779,
+   "whisper_start": 53.8
+  },
+  {
+   "word": "looks",
+   "start": 52.992,
+   "end": 53.263,
+   "line": 21,
+   "status": "fallback-midpoint(unverified)",
+   "v3_start": 54.275,
+   "whisper_start": 54.45
+  },
+  {
+   "word": "at",
+   "start": 53.263,
+   "end": 53.393,
+   "line": 21,
+   "status": "fallback-midpoint(unverified)",
+   "v3_start": 54.536,
+   "whisper_start": 54.73
+  },
+  {
+   "word": "it...",
+   "start": 53.393,
+   "end": 53.364,
+   "line": 21,
+   "status": "fallback-midpoint(unverified)",
+   "v3_start": 54.656,
+   "whisper_start": 54.87
+  },
+  {
+   "word": "and",
+   "start": 53.994,
+   "end": 54.283,
+   "line": 22,
+   "status": "locked-phrase-edge-or-mark",
+   "v3_start": 55.364,
+   "whisper_start": 55.3
+  },
+  {
+   "word": "stays.",
+   "start": 54.283,
+   "end": 54.77,
+   "line": 22,
+   "status": "locked-phrase-edge-or-mark",
+   "v3_start": 55.653,
+   "whisper_start": 55.63
+  }
+ ],
+ "lines": [
+  {
+   "line": 1,
+   "text": "This girl looked terrified of his face...",
+   "start": 0.06,
+   "end": 2.1
+  },
+  {
+   "line": 2,
+   "text": "then came back to buy him cake.",
+   "start": 2.4,
+   "end": 4.058
+  },
+  {
+   "line": 3,
+   "text": "Rintaro is tall, blond, pierced, and so intimidating that strangers run from him.",
+   "start": 4.558,
+   "end": 8.501
+  },
+  {
+   "line": 4,
+   "text": "Which isn't great when your family owns a cake shop.",
+   "start": 8.741,
+   "end": 11.126
+  },
+  {
+   "line": 5,
+   "text": "So when he spots a girl demolishing a mountain of cake, he can't help staring.",
+   "start": 11.366,
+   "end": 15.34
+  },
+  {
+   "line": 6,
+   "text": "She locks eyes with him and bolts out the door.",
+   "start": 15.58,
+   "end": 17.795
+  },
+  {
+   "line": 7,
+   "text": "He's sure he's traumatized her for life.",
+   "start": 18.145,
+   "end": 20.16
+  },
+  {
+   "line": 8,
+   "text": "But the next day she's back, apologizing and insisting on buying him a slice.",
+   "start": 20.4,
+   "end": 24.379
+  },
+  {
+   "line": 9,
+   "text": "So he asks,",
+   "start": 24.619,
+   "end": 25.311
+  },
+  {
+   "line": 10,
+   "text": "\"Wait,",
+   "start": 25.451,
+   "end": 25.701
+  },
+  {
+   "line": 11,
+   "text": "didn't you run because you were scared of me?\"",
+   "start": 25.841,
+   "end": 27.791
+  },
+  {
+   "line": 12,
+   "text": "from HER side, that look was never fear.",
+   "start": 29.045,
+   "end": 31.726
+  },
+  {
+   "line": 13,
+   "text": "No guy had ever stared at her before,",
+   "start": 31.986,
+   "end": 34.131
+  },
+  {
+   "line": 14,
+   "text": "and her heart was",
+   "start": 34.331,
+   "end": 35.107
+  },
+  {
+   "line": 15,
+   "text": "POUNDING.",
+   "start": 35.242,
+   "end": 35.854
+  },
+  {
+   "line": 16,
+   "text": "He'd only just noticed her, but she'd noticed him long before that.",
+   "start": 36.254,
+   "end": 40.067
+  },
+  {
+   "line": 17,
+   "text": "He read her face the exact same way EVERYONE reads his.",
+   "start": 40.517,
+   "end": 44.04
+  },
+  {
+   "line": 18,
+   "text": "Then she tells him,",
+   "start": 44.3,
+   "end": 45.127
+  },
+  {
+   "line": 19,
+   "text": "\"I've never once thought you were scary.\"",
+   "start": 45.427,
+   "end": 47.377
+  },
+  {
+   "line": 20,
+   "text": "He's used to people taking one look at his face and running.",
+   "start": 47.827,
+   "end": 50.513
+  },
+  {
+   "line": 21,
+   "text": "He has no idea what to do when someone looks at it...",
+   "start": 50.753,
+   "end": 53.364
+  },
+  {
+   "line": 22,
+   "text": "and stays.",
+   "start": 53.994,
+   "end": 54.77
+  }
+ ],
+ "marks": {
+  "rewindStart": 27.791,
+  "rewindEnd": 29.045,
+  "youSee": 29.045,
+  "pounding": 35.242,
+  "stays": 54.283,
+  "andStays": 53.994
+ },
+ "trim": {
+  "from": "words-v3-corrected.json",
+  "cuts": [
+   {
+    "cut": "3:literally",
+    "removedWords": "literally",
+    "removedSeconds": 0.7735,
+    "outputJoinAt": 8.1624
+   },
+   {
+    "cut": "12:You see,",
+    "removedWords": "You see,",
+    "removedSeconds": 0.597,
+    "outputJoinAt": 29.0305
+   }
+  ],
+  "note": "all times after each cut are shifted earlier by the removed seconds; marks that sat on a removed word now sit on the next word"
+ }
+}

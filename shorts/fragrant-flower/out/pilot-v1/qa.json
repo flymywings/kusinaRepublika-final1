@@ -1,0 +1,102 @@
+{
+  "input": "C:\\Users\\Win 10\\Downloads\\new video edit\\shorts\\fragrant-flower\\out\\pilot-v1\\Fragrant_Flower_Pilot_v1.mp4",
+  "passed": true,
+  "failedChecks": [],
+  "expected": {
+    "width": 1440,
+    "height": 2560,
+    "fps": 30,
+    "frames": 732,
+    "lufs": -15,
+    "peak": -1.5
+  },
+  "checks": {
+    "probe": {
+      "passed": true
+    },
+    "videoPresence": {
+      "passed": true
+    },
+    "dimensions": {
+      "passed": true,
+      "actual": {
+        "width": 1440,
+        "height": 2560
+      },
+      "expected": {
+        "width": 1440,
+        "height": 2560
+      }
+    },
+    "decode": {
+      "passed": true
+    },
+    "audioPresence": {
+      "passed": true,
+      "streamFound": true
+    },
+    "fps": {
+      "passed": true,
+      "expected": 30,
+      "reported": 30,
+      "offCadenceIntervals": 0
+    },
+    "frameCount": {
+      "passed": true,
+      "decoded": 732,
+      "expected": 732,
+      "container": 732
+    },
+    "durationAgreement": {
+      "passed": true,
+      "videoSeconds": 24.400000333333335,
+      "audioSeconds": 24.405,
+      "videoStart": 0,
+      "audioStart": 0,
+      "maxDifferenceSeconds": 0.0049996666666665135,
+      "toleranceSeconds": 0.033334333333333334
+    },
+    "integratedLoudness": {
+      "passed": true,
+      "actualLufs": -14.98,
+      "targetLufs": -15,
+      "toleranceLu": 1
+    },
+    "truePeak": {
+      "passed": true,
+      "actualDbtp": -2.11,
+      "maximumDbtp": -1.5
+    },
+    "blackSpans": {
+      "passed": true,
+      "minimumSeconds": 0.1,
+      "spans": []
+    },
+    "frozenSpans": {
+      "passed": true,
+      "minimumSeconds": 0.5,
+      "allowances": [],
+      "spans": []
+    },
+    "quietSpans": {
+      "passed": true,
+      "thresholdDbfs": -30,
+      "minimumSeconds": 0.5,
+      "allowances": [
+        [
+          19.5,
+          21.6
+        ]
+      ],
+      "spans": [
+        {
+          "start": 20.124708,
+          "end": 20.691854,
+          "duration": 0.567146,
+          "allowed": true
+        }
+      ]
+    }
+  },
+  "scope": "Decoded frames and audio signal only. Review playback at normal speed with sound for timing and mix."
+}

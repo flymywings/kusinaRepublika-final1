@@ -1,0 +1,1127 @@
+{
+  "frames": 1139,
+  "sampleRate": 48000,
+  "channels": 2,
+  "samplesPerChannel": 1822400,
+  "duration": 37.96666666666667,
+  "voice": {
+    "file": "public/voice-r2.wav",
+    "gainDb": 0,
+    "paddedOnlyAtEnd": true,
+    "sourceVoiceGainUnchanged": true,
+    "sha256": "718e1d3dd62650c8facdd7ea1050866854e78a538ddcb73ede95ea4f2dde2362",
+    "note": "Unchanged paced narration stem at unity before bus mastering; mastering affects the combined mix."
+  },
+  "music": {
+    "file": "public/music-v8.wav",
+    "source": "public/music.wav",
+    "tempo": 1,
+    "endFadeSeconds": 0.65,
+    "bedGain": 1.8,
+    "ending": "musical resolution with short tail taper; outdoor environment continues to the final image",
+    "trimmedAtNaturalTempo": true,
+    "sourceStartSeconds": 0,
+    "sinceritySourceFrames": [
+      940,
+      1070
+    ],
+    "emotionalTurnSourceFrames": [
+      1050,
+      1165
+    ],
+    "emotionalTurnOutputFrames": [
+      761.563,
+      841.488
+    ],
+    "lullLevel": 0.46,
+    "missingDiscoveryMusicalSpace": {
+      "sourceFrames": [
+        423,
+        475
+      ],
+      "minimumLevel": 0.38
+    },
+    "gentleAccents": [
+      {
+        "sourceFrame": 343,
+        "midi": 71,
+        "gain": 0.012,
+        "duration": 1.15,
+        "delay": 0,
+        "reason": "recognition of Yamada and the remembered smile"
+      },
+      {
+        "sourceFrame": 343,
+        "midi": 76,
+        "gain": 0.008,
+        "duration": 1.05,
+        "delay": 0.16,
+        "reason": "recognition chord upper voice"
+      },
+      {
+        "sourceFrame": 432,
+        "midi": 59,
+        "gain": 0.01,
+        "duration": 0.7,
+        "delay": 0,
+        "reason": "hesitation at the absent cashier; soft low note without impact"
+      },
+      {
+        "sourceFrame": 850,
+        "midi": 74,
+        "gain": 0.01,
+        "duration": 0.65,
+        "delay": 0,
+        "reason": "flustered reaction after teasing"
+      },
+      {
+        "sourceFrame": 850,
+        "midi": 71,
+        "gain": 0.008,
+        "duration": 0.75,
+        "delay": 0.12,
+        "reason": "small answering note for the raised hand and recoil"
+      },
+      {
+        "sourceFrame": 940,
+        "midi": 57,
+        "gain": 0.008,
+        "duration": 2.2,
+        "delay": 0,
+        "reason": "sincere explanation opens; sparse sustained warmth"
+      },
+      {
+        "sourceFrame": 940,
+        "midi": 64,
+        "gain": 0.006,
+        "duration": 2,
+        "delay": 0.18,
+        "reason": "sincere explanation upper voice"
+      },
+      {
+        "sourceFrame": 1363,
+        "midi": 60,
+        "gain": 0.011,
+        "duration": 1.8,
+        "delay": 0,
+        "reason": "warm ending at kindness"
+      },
+      {
+        "sourceFrame": 1363,
+        "midi": 64,
+        "gain": 0.008,
+        "duration": 1.7,
+        "delay": 0.12,
+        "reason": "warm ending chord middle voice"
+      },
+      {
+        "sourceFrame": 1363,
+        "midi": 67,
+        "gain": 0.008,
+        "duration": 1.6,
+        "delay": 0.26,
+        "reason": "warm ending chord upper voice"
+      },
+      {
+        "sourceFrame": 1465,
+        "midi": 72,
+        "gain": 0.009,
+        "duration": 1.5,
+        "delay": 0,
+        "reason": "gentle closing musical response with the pair still outside"
+      }
+    ],
+    "noBoomAtMissingCashier": true
+  },
+  "sfx": {
+    "file": "public/sfx-v8.wav",
+    "footsteps": [
+      {
+        "sourceFrame": 277.845,
+        "outputFrame": 235.4522,
+        "foot": 0,
+        "contact": [
+          -0.83,
+          0.028000000000000004,
+          -0.07
+        ],
+        "surface": "threshold/exterior",
+        "gain": 0.17
+      },
+      {
+        "sourceFrame": 294.5399,
+        "outputFrame": 241.4096,
+        "foot": 1,
+        "contact": [
+          -0.57,
+          0.028000000000000004,
+          -0.54
+        ],
+        "surface": "dry interior",
+        "gain": 0.2
+      },
+      {
+        "sourceFrame": 311.2349,
+        "outputFrame": 247.2334,
+        "foot": 0,
+        "contact": [
+          -0.83,
+          0.028000000000000004,
+          -1.0100000000000002
+        ],
+        "surface": "dry interior",
+        "gain": 0.2
+      },
+      {
+        "sourceFrame": 327.9299,
+        "outputFrame": 254.1329,
+        "foot": 1,
+        "contact": [
+          -0.57,
+          0.028000000000000004,
+          -1.4800000000000002
+        ],
+        "surface": "dry interior",
+        "gain": 0.2
+      },
+      {
+        "sourceFrame": 344.6248,
+        "outputFrame": 264.6577,
+        "foot": 0,
+        "contact": [
+          -0.83,
+          0.028000000000000004,
+          -1.9500000000000002
+        ],
+        "surface": "dry interior",
+        "gain": 0.2
+      },
+      {
+        "sourceFrame": 362.6338,
+        "outputFrame": 277.1058,
+        "foot": 1,
+        "contact": [
+          -0.57,
+          0.028000000000000004,
+          -1.9500000000000002
+        ],
+        "surface": "dry interior",
+        "gain": 0.2
+      }
+    ],
+    "lighter": {
+      "sourceFrame": 660,
+      "outputFrame": 454.575,
+      "sourceWindowSeconds": [
+        0.12,
+        0.45
+      ],
+      "impactOffsetSeconds": 0.07
+    },
+    "ambience": {
+      "source": "0578.mp3",
+      "sourceWindowSeconds": [
+        12,
+        18.2728125
+      ],
+      "outputSourceFrames": [
+        252,
+        517
+      ],
+      "outputWindowSeconds": [
+        7.4526,
+        13.7254
+      ],
+      "centeredMono": true,
+      "gain": 0.19,
+      "rememberedCashier": {
+        "semanticFrames": [
+          105,
+          170
+        ],
+        "gain": 0.2
+      },
+      "office": {
+        "semanticFrames": [
+          170,
+          252
+        ],
+        "gain": 0.42,
+        "description": "continuous equipment hum plus pictured typing"
+      },
+      "exterior": {
+        "semanticFrames": [
+          517,
+          1590
+        ],
+        "gain": 0.34,
+        "continuousAcrossEmotionalResponse": true,
+        "endsWithShortDeclickOnly": true
+      }
+    },
+    "practicalCues": [
+      {
+        "kind": "air",
+        "sourceStart": 0,
+        "sourceEnd": 105,
+        "outputStartFrame": 0,
+        "outputEndFrame": 78.11062500015143,
+        "gain": 0.34,
+        "pan": -0.12,
+        "origin": "custom deterministic synthesis",
+        "justification": "opening service-area outdoor air"
+      },
+      {
+        "kind": "office",
+        "sourceStart": 170,
+        "sourceEnd": 252,
+        "outputStartFrame": 140.33312499997461,
+        "outputEndFrame": 223.57711881479128,
+        "gain": 0.42,
+        "pan": 0,
+        "origin": "custom deterministic synthesis",
+        "justification": "office fluorescent/equipment room tone"
+      },
+      {
+        "kind": "key",
+        "sourceStart": 176,
+        "sourceEnd": 177.7,
+        "outputStartFrame": 146.91979646379644,
+        "outputEndFrame": 148.6748506658052,
+        "gain": 0.085,
+        "pan": -0.13,
+        "origin": "custom deterministic synthesis",
+        "justification": "hands at desk; typing tapers to rest before exhausted face detail"
+      },
+      {
+        "kind": "key",
+        "sourceStart": 182,
+        "sourceEnd": 183.7,
+        "outputStartFrame": 153.28255796891847,
+        "outputEndFrame": 155.16819391329773,
+        "gain": 0.085,
+        "pan": -0.13,
+        "origin": "custom deterministic synthesis",
+        "justification": "hands at desk; typing tapers to rest before exhausted face detail"
+      },
+      {
+        "kind": "key",
+        "sourceStart": 187,
+        "sourceEnd": 188.7,
+        "outputStartFrame": 158.92300512247175,
+        "outputEndFrame": 160.90097301381553,
+        "gain": 0.085,
+        "pan": -0.13,
+        "origin": "custom deterministic synthesis",
+        "justification": "hands at desk; typing tapers to rest before exhausted face detail"
+      },
+      {
+        "kind": "key",
+        "sourceStart": 194,
+        "sourceEnd": 195.7,
+        "outputStartFrame": 167.21240016278412,
+        "outputEndFrame": 169.2678523096674,
+        "gain": 0.085,
+        "pan": -0.13,
+        "origin": "custom deterministic synthesis",
+        "justification": "hands at desk; typing tapers to rest before exhausted face detail"
+      },
+      {
+        "kind": "key",
+        "sourceStart": 201,
+        "sourceEnd": 202.7,
+        "outputStartFrame": 175.6944783539983,
+        "outputEndFrame": 177.7432285640629,
+        "gain": 0.085,
+        "pan": -0.13,
+        "origin": "custom deterministic synthesis",
+        "justification": "hands at desk; typing tapers to rest before exhausted face detail"
+      },
+      {
+        "kind": "key",
+        "sourceStart": 207,
+        "sourceEnd": 208.7,
+        "outputStartFrame": 182.8490469199314,
+        "outputEndFrame": 184.82612359911064,
+        "gain": 0.085,
+        "pan": -0.13,
+        "origin": "custom deterministic synthesis",
+        "justification": "hands at desk; typing tapers to rest before exhausted face detail"
+      },
+      {
+        "kind": "key",
+        "sourceStart": 214,
+        "sourceEnd": 215.7,
+        "outputStartFrame": 190.79232682190542,
+        "outputEndFrame": 192.6347125272011,
+        "gain": 0.085,
+        "pan": -0.13,
+        "origin": "custom deterministic synthesis",
+        "justification": "hands at desk; typing tapers to rest before exhausted face detail"
+      },
+      {
+        "kind": "key",
+        "sourceStart": 220,
+        "sourceEnd": 221.7,
+        "outputStartFrame": 197.12737660442397,
+        "outputEndFrame": 198.83599841305445,
+        "gain": 0.0595,
+        "pan": -0.13,
+        "origin": "custom deterministic synthesis",
+        "justification": "hands at desk; typing tapers to rest before exhausted face detail"
+      },
+      {
+        "kind": "key",
+        "sourceStart": 225,
+        "sourceEnd": 226.7,
+        "outputStartFrame": 202.04357714149427,
+        "outputEndFrame": 203.64054562310758,
+        "gain": 0.038250000000000006,
+        "pan": -0.13,
+        "origin": "custom deterministic synthesis",
+        "justification": "hands at desk; typing tapers to rest before exhausted face detail"
+      },
+      {
+        "kind": "key",
+        "sourceStart": 229,
+        "sourceEnd": 230.7,
+        "outputStartFrame": 205.7426553633231,
+        "outputEndFrame": 207.25423754749255,
+        "gain": 0.02125,
+        "pan": -0.13,
+        "origin": "custom deterministic synthesis",
+        "justification": "hands at desk; typing tapers to rest before exhausted face detail"
+      },
+      {
+        "kind": "cloth",
+        "sourceStart": 230,
+        "sourceEnd": 246,
+        "outputStartFrame": 206.63609025393802,
+        "outputEndFrame": 219.41543583372186,
+        "gain": 0.075,
+        "pan": -0.05,
+        "origin": "custom deterministic synthesis",
+        "justification": "small settling fabric movement at desk"
+      },
+      {
+        "kind": "motor",
+        "sourceStart": 246,
+        "sourceEnd": 260,
+        "outputStartFrame": 219.41543583372186,
+        "outputEndFrame": 228.0411262883203,
+        "gain": 0.11,
+        "pan": 0,
+        "origin": "custom deterministic synthesis",
+        "justification": "sliding entrance opens; no closure cue after store cut"
+      },
+      {
+        "kind": "cloth",
+        "sourceStart": 264,
+        "sourceEnd": 280,
+        "outputStartFrame": 229.89001980146617,
+        "outputEndFrame": 236.24942802990574,
+        "gain": 0.105,
+        "pan": -0.08,
+        "origin": "custom deterministic synthesis",
+        "justification": "walking suit and carried briefcase movement"
+      },
+      {
+        "kind": "cloth",
+        "sourceStart": 313,
+        "sourceEnd": 331,
+        "outputStartFrame": 247.86342905948337,
+        "outputEndFrame": 255.78627311891776,
+        "gain": 0.09,
+        "pan": -0.08,
+        "origin": "custom deterministic synthesis",
+        "justification": "suit/briefcase movement during grounded approach"
+      },
+      {
+        "kind": "cloth",
+        "sourceStart": 473,
+        "sourceEnd": 501,
+        "outputStartFrame": 381.16271263572435,
+        "outputEndFrame": 401.68495785912705,
+        "gain": 0.1,
+        "pan": -0.06,
+        "origin": "custom deterministic synthesis",
+        "justification": "hand and briefcase settle during disappointed posture"
+      },
+      {
+        "kind": "air",
+        "sourceStart": 517,
+        "sourceEnd": 1590,
+        "outputStartFrame": 411.7612500001203,
+        "outputEndFrame": 1139.0275,
+        "gain": 0.34,
+        "pan": 0.05,
+        "origin": "custom deterministic synthesis",
+        "justification": "unbroken exterior service lane ventilation and air, including the sincere response and final image"
+      },
+      {
+        "kind": "cloth",
+        "sourceStart": 570,
+        "sourceEnd": 623,
+        "outputStartFrame": 423.06868543425395,
+        "outputEndFrame": 433.0673072571368,
+        "gain": 0.075,
+        "pan": -0.1,
+        "origin": "custom deterministic synthesis",
+        "justification": "actual standing lighter reach begins at pictured hand movement"
+      },
+      {
+        "kind": "cloth",
+        "sourceStart": 639,
+        "sourceEnd": 654,
+        "outputStartFrame": 439.16189819357453,
+        "outputEndFrame": 450.8988563873755,
+        "gain": 0.09,
+        "pan": -0.05,
+        "origin": "custom deterministic synthesis",
+        "justification": "hands extend lighter and cigarette"
+      },
+      {
+        "kind": "flame",
+        "sourceStart": 661,
+        "sourceEnd": 674,
+        "outputStartFrame": 455.0794985508448,
+        "outputEndFrame": 462.70965486137436,
+        "gain": 0.045,
+        "pan": 0,
+        "origin": "custom deterministic synthesis",
+        "justification": "short burning lighter flame"
+      },
+      {
+        "kind": "closure",
+        "sourceStart": 690,
+        "sourceEnd": 693,
+        "outputStartFrame": 481.54217484332554,
+        "outputEndFrame": 484.6282315492727,
+        "gain": 0.14,
+        "pan": 0.03,
+        "origin": "custom deterministic synthesis",
+        "justification": "lighter lid closure as hand withdraws"
+      },
+      {
+        "kind": "cloth",
+        "sourceStart": 682,
+        "sourceEnd": 700,
+        "outputStartFrame": 471.0624199336872,
+        "outputEndFrame": 489.73964013195877,
+        "gain": 0.06,
+        "pan": -0.04,
+        "origin": "custom deterministic synthesis",
+        "justification": "hands lower after light"
+      },
+      {
+        "kind": "cloth",
+        "sourceStart": 832,
+        "sourceEnd": 859,
+        "outputStartFrame": 591.7009635411915,
+        "outputEndFrame": 613.6940102756646,
+        "gain": 0.055,
+        "pan": -0.08,
+        "origin": "custom deterministic synthesis",
+        "justification": "visible flustered recoil and raised hand"
+      },
+      {
+        "kind": "cloth",
+        "sourceStart": 939,
+        "sourceEnd": 969,
+        "outputStartFrame": 679.4857451711468,
+        "outputEndFrame": 702.8188684292286,
+        "gain": 0.045,
+        "pan": -0.08,
+        "origin": "custom deterministic synthesis",
+        "justification": "explanation gesture and settling clothing"
+      },
+      {
+        "kind": "cloth",
+        "sourceStart": 1209,
+        "sourceEnd": 1234,
+        "outputStartFrame": 873.8260734127659,
+        "outputEndFrame": 894.3738495610095,
+        "gain": 0.045,
+        "pan": 0.09,
+        "origin": "custom deterministic synthesis",
+        "justification": "small introduction gesture"
+      }
+    ],
+    "generatedSeed": 193071,
+    "generatedDescription": "Original deterministic synthesis: office hum/keys, air, door motor, cloth/briefcase, flame and lid closure. These are generated textures, not recorded Foley. No camera whooshes or heartbeat.",
+    "licenses": [
+      {
+        "file": "public/sfx-source/0514.mp3",
+        "creator": "Joseph Sardin",
+        "title": "Footsteps, Shoe on Concrete",
+        "url": "https://bigsoundbank.com/footsteps-shoe-on-concrete-s0514.html",
+        "license": "CC0 / public-domain equivalent; attribution not required"
+      },
+      {
+        "file": "public/sfx-source/2131.mp3",
+        "creator": "Joseph Sardin",
+        "title": "Cigarette, Ignition",
+        "url": "https://bigsoundbank.com/cigarette-ignition-s2131.html",
+        "license": "CC0 / public-domain equivalent; attribution not required"
+      },
+      {
+        "file": "public/sfx-source/0578.mp3",
+        "creator": "Joseph Sardin",
+        "title": "Supermarket",
+        "url": "https://bigsoundbank.com/supermarket-s0578.html",
+        "license": "CC0 / public-domain equivalent; attribution not required"
+      }
+    ]
+  },
+  "finalMix": {
+    "file": "public/mix-v8.wav",
+    "voiceGainConstant": true,
+    "voiceBusGainDb": 0,
+    "master": "Two-pass FFmpeg loudnorm; I=-16.6 LUFS, TP=-1.5 dBTP, LRA target20; dynamic peak control applied only as needed.",
+    "premaster": {
+      "integratedLufs": -21.61,
+      "truePeakDbfs": -4.45
+    },
+    "integratedLufs": -16.6,
+    "truePeakDbfs": -1.5,
+    "samplePeakDbfs": -1.5,
+    "rmsDbfs": -20.136,
+    "preLimitPeak": 0.5983818769454956
+  },
+  "measuredSceneComparison": {
+    "method": "Decoded delivered PCM; per-scene sample RMS and sample peak in dBFS. Voice RMS includes its original pauses and end padding. Music and SFX stems are before combined-bus mastering; mix values are mastered composites, not isolated voice. Relative values compare each published stem to the unchanged unmastered voice window; these measurements do not establish perceived audibility, masking, or listening quality.",
+    "scenes": [
+      {
+        "scene": "confiding reveal",
+        "semanticFrames": [
+          0,
+          105
+        ],
+        "outputSeconds": [
+          0,
+          2.60369
+        ],
+        "voice": {
+          "rmsDbfs": -26.36,
+          "samplePeakDbfs": -9.05
+        },
+        "music": {
+          "r2": {
+            "rmsDbfs": -44.55,
+            "samplePeakDbfs": -34.12
+          },
+          "v8": {
+            "rmsDbfs": -39.44,
+            "samplePeakDbfs": -29.01
+          },
+          "rmsChangeDb": 5.11,
+          "r2DigitalSilence": false,
+          "v8RmsRelativeToUnmasteredVoiceDb": -13.08
+        },
+        "sfx": {
+          "r2": {
+            "rmsDbfs": -68.93,
+            "samplePeakDbfs": -54.19
+          },
+          "v8": {
+            "rmsDbfs": -46.26,
+            "samplePeakDbfs": -31.51
+          },
+          "rmsChangeDb": 22.67,
+          "r2DigitalSilence": false,
+          "v8RmsRelativeToUnmasteredVoiceDb": -19.9
+        },
+        "mix": {
+          "r2": {
+            "rmsDbfs": -20.18,
+            "samplePeakDbfs": -2.69
+          },
+          "v8": {
+            "rmsDbfs": -20.11,
+            "samplePeakDbfs": -2.74
+          },
+          "rmsChangeDb": 0.07,
+          "r2DigitalSilence": false,
+          "v8RmsRelativeToUnmasteredVoiceDb": 6.25
+        }
+      },
+      {
+        "scene": "remembered cashier",
+        "semanticFrames": [
+          105,
+          170
+        ],
+        "outputSeconds": [
+          2.60369,
+          4.67777
+        ],
+        "voice": {
+          "rmsDbfs": -26.17,
+          "samplePeakDbfs": -4.35
+        },
+        "music": {
+          "r2": {
+            "rmsDbfs": -46.3,
+            "samplePeakDbfs": -34.19
+          },
+          "v8": {
+            "rmsDbfs": -41.19,
+            "samplePeakDbfs": -29.08
+          },
+          "rmsChangeDb": 5.11,
+          "r2DigitalSilence": false,
+          "v8RmsRelativeToUnmasteredVoiceDb": -15.02
+        },
+        "sfx": {
+          "r2": {
+            "rmsDbfs": null,
+            "samplePeakDbfs": null
+          },
+          "v8": {
+            "rmsDbfs": -45.2,
+            "samplePeakDbfs": -30.72
+          },
+          "rmsChangeDb": null,
+          "r2DigitalSilence": true,
+          "v8RmsRelativeToUnmasteredVoiceDb": -19.03
+        },
+        "mix": {
+          "r2": {
+            "rmsDbfs": -21.03,
+            "samplePeakDbfs": -1.52
+          },
+          "v8": {
+            "rmsDbfs": -20.88,
+            "samplePeakDbfs": -1.51
+          },
+          "rmsChangeDb": 0.15,
+          "r2DigitalSilence": false,
+          "v8RmsRelativeToUnmasteredVoiceDb": 5.29
+        }
+      },
+      {
+        "scene": "exhausting office shift",
+        "semanticFrames": [
+          170,
+          252
+        ],
+        "outputSeconds": [
+          4.67777,
+          7.45256
+        ],
+        "voice": {
+          "rmsDbfs": -22.71,
+          "samplePeakDbfs": -5.6
+        },
+        "music": {
+          "r2": {
+            "rmsDbfs": -46.2,
+            "samplePeakDbfs": -34.63
+          },
+          "v8": {
+            "rmsDbfs": -41.1,
+            "samplePeakDbfs": -29.53
+          },
+          "rmsChangeDb": 5.1,
+          "r2DigitalSilence": false,
+          "v8RmsRelativeToUnmasteredVoiceDb": -18.39
+        },
+        "sfx": {
+          "r2": {
+            "rmsDbfs": -60.14,
+            "samplePeakDbfs": -41.06
+          },
+          "v8": {
+            "rmsDbfs": -43.84,
+            "samplePeakDbfs": -29.8
+          },
+          "rmsChangeDb": 16.3,
+          "r2DigitalSilence": false,
+          "v8RmsRelativeToUnmasteredVoiceDb": -21.13
+        },
+        "mix": {
+          "r2": {
+            "rmsDbfs": -18.03,
+            "samplePeakDbfs": -1.5
+          },
+          "v8": {
+            "rmsDbfs": -17.92,
+            "samplePeakDbfs": -1.5
+          },
+          "rmsChangeDb": 0.11,
+          "r2DigitalSilence": false,
+          "v8RmsRelativeToUnmasteredVoiceDb": 4.79
+        }
+      },
+      {
+        "scene": "arrival and absent cashier",
+        "semanticFrames": [
+          252,
+          517
+        ],
+        "outputSeconds": [
+          7.45256,
+          13.72537
+        ],
+        "voice": {
+          "rmsDbfs": -25.77,
+          "samplePeakDbfs": -6.13
+        },
+        "music": {
+          "r2": {
+            "rmsDbfs": -45.76,
+            "samplePeakDbfs": -34.55
+          },
+          "v8": {
+            "rmsDbfs": -40.54,
+            "samplePeakDbfs": -29.37
+          },
+          "rmsChangeDb": 5.22,
+          "r2DigitalSilence": false,
+          "v8RmsRelativeToUnmasteredVoiceDb": -14.77
+        },
+        "sfx": {
+          "r2": {
+            "rmsDbfs": -48.59,
+            "samplePeakDbfs": -24.8
+          },
+          "v8": {
+            "rmsDbfs": -41.73,
+            "samplePeakDbfs": -16.1
+          },
+          "rmsChangeDb": 6.86,
+          "r2DigitalSilence": false,
+          "v8RmsRelativeToUnmasteredVoiceDb": -15.96
+        },
+        "mix": {
+          "r2": {
+            "rmsDbfs": -21.02,
+            "samplePeakDbfs": -1.67
+          },
+          "v8": {
+            "rmsDbfs": -20.85,
+            "samplePeakDbfs": -1.69
+          },
+          "rmsChangeDb": 0.17,
+          "r2DigitalSilence": false,
+          "v8RmsRelativeToUnmasteredVoiceDb": 4.92
+        }
+      },
+      {
+        "scene": "lighter exchange and identity detail",
+        "semanticFrames": [
+          517,
+          775
+        ],
+        "outputSeconds": [
+          13.72537,
+          17.95079
+        ],
+        "voice": {
+          "rmsDbfs": -24.92,
+          "samplePeakDbfs": -4.57
+        },
+        "music": {
+          "r2": {
+            "rmsDbfs": -45.46,
+            "samplePeakDbfs": -34.12
+          },
+          "v8": {
+            "rmsDbfs": -40.36,
+            "samplePeakDbfs": -29.01
+          },
+          "rmsChangeDb": 5.1,
+          "r2DigitalSilence": false,
+          "v8RmsRelativeToUnmasteredVoiceDb": -15.44
+        },
+        "sfx": {
+          "r2": {
+            "rmsDbfs": -57.81,
+            "samplePeakDbfs": -25.45
+          },
+          "v8": {
+            "rmsDbfs": -43.97,
+            "samplePeakDbfs": -15.68
+          },
+          "rmsChangeDb": 13.84,
+          "r2DigitalSilence": false,
+          "v8RmsRelativeToUnmasteredVoiceDb": -19.05
+        },
+        "mix": {
+          "r2": {
+            "rmsDbfs": -20.1,
+            "samplePeakDbfs": -1.5
+          },
+          "v8": {
+            "rmsDbfs": -20,
+            "samplePeakDbfs": -1.5
+          },
+          "rmsChangeDb": 0.1,
+          "r2DigitalSilence": false,
+          "v8RmsRelativeToUnmasteredVoiceDb": 4.92
+        }
+      },
+      {
+        "scene": "teasing and fluster",
+        "semanticFrames": [
+          775,
+          902
+        ],
+        "outputSeconds": [
+          17.95079,
+          21.3551
+        ],
+        "voice": {
+          "rmsDbfs": -26.13,
+          "samplePeakDbfs": -5.55
+        },
+        "music": {
+          "r2": {
+            "rmsDbfs": -45.66,
+            "samplePeakDbfs": -34.19
+          },
+          "v8": {
+            "rmsDbfs": -40.48,
+            "samplePeakDbfs": -28.86
+          },
+          "rmsChangeDb": 5.18,
+          "r2DigitalSilence": false,
+          "v8RmsRelativeToUnmasteredVoiceDb": -14.35
+        },
+        "sfx": {
+          "r2": {
+            "rmsDbfs": -65.49,
+            "samplePeakDbfs": -43.99
+          },
+          "v8": {
+            "rmsDbfs": -45.61,
+            "samplePeakDbfs": -32.67
+          },
+          "rmsChangeDb": 19.88,
+          "r2DigitalSilence": false,
+          "v8RmsRelativeToUnmasteredVoiceDb": -19.48
+        },
+        "mix": {
+          "r2": {
+            "rmsDbfs": -21.13,
+            "samplePeakDbfs": -1.51
+          },
+          "v8": {
+            "rmsDbfs": -21.03,
+            "samplePeakDbfs": -1.51
+          },
+          "rmsChangeDb": 0.1,
+          "r2DigitalSilence": false,
+          "v8RmsRelativeToUnmasteredVoiceDb": 5.1
+        }
+      },
+      {
+        "scene": "sincere explanation and response",
+        "semanticFrames": [
+          902,
+          1165
+        ],
+        "outputSeconds": [
+          21.3551,
+          28.0496
+        ],
+        "voice": {
+          "rmsDbfs": -25.62,
+          "samplePeakDbfs": -5.14
+        },
+        "music": {
+          "r2": {
+            "rmsDbfs": -49.48,
+            "samplePeakDbfs": -35.5
+          },
+          "v8": {
+            "rmsDbfs": -43.44,
+            "samplePeakDbfs": -30.4
+          },
+          "rmsChangeDb": 6.04,
+          "r2DigitalSilence": false,
+          "v8RmsRelativeToUnmasteredVoiceDb": -17.82
+        },
+        "sfx": {
+          "r2": {
+            "rmsDbfs": -68.26,
+            "samplePeakDbfs": -45.3
+          },
+          "v8": {
+            "rmsDbfs": -45.67,
+            "samplePeakDbfs": -32.43
+          },
+          "rmsChangeDb": 22.59,
+          "r2DigitalSilence": false,
+          "v8RmsRelativeToUnmasteredVoiceDb": -20.05
+        },
+        "mix": {
+          "r2": {
+            "rmsDbfs": -20.52,
+            "samplePeakDbfs": -1.52
+          },
+          "v8": {
+            "rmsDbfs": -20.49,
+            "samplePeakDbfs": -1.52
+          },
+          "rmsChangeDb": 0.03,
+          "r2DigitalSilence": false,
+          "v8RmsRelativeToUnmasteredVoiceDb": 5.13
+        }
+      },
+      {
+        "scene": "introduction and warm ending",
+        "semanticFrames": [
+          1165,
+          1590
+        ],
+        "outputSeconds": [
+          28.0496,
+          37.96667
+        ],
+        "voice": {
+          "rmsDbfs": -25.13,
+          "samplePeakDbfs": -5.12
+        },
+        "music": {
+          "r2": {
+            "rmsDbfs": -46.74,
+            "samplePeakDbfs": -34.12
+          },
+          "v8": {
+            "rmsDbfs": -41.43,
+            "samplePeakDbfs": -28.67
+          },
+          "rmsChangeDb": 5.31,
+          "r2DigitalSilence": false,
+          "v8RmsRelativeToUnmasteredVoiceDb": -16.3
+        },
+        "sfx": {
+          "r2": {
+            "rmsDbfs": -67.52,
+            "samplePeakDbfs": -46.5
+          },
+          "v8": {
+            "rmsDbfs": -45.64,
+            "samplePeakDbfs": -32.53
+          },
+          "rmsChangeDb": 21.88,
+          "r2DigitalSilence": false,
+          "v8RmsRelativeToUnmasteredVoiceDb": -20.51
+        },
+        "mix": {
+          "r2": {
+            "rmsDbfs": -20,
+            "samplePeakDbfs": -1.5
+          },
+          "v8": {
+            "rmsDbfs": -19.95,
+            "samplePeakDbfs": -1.5
+          },
+          "rmsChangeDb": 0.05,
+          "r2DigitalSilence": false,
+          "v8RmsRelativeToUnmasteredVoiceDb": 5.18
+        }
+      }
+    ]
+  },
+  "verification": {
+    "actualDurationSeconds": 37.96666666666667,
+    "exactFrames": 1139,
+    "assets": [
+      {
+        "file": "public/mix-v8.wav",
+        "codec": "PCM s16le",
+        "channels": 2,
+        "sampleRate": 48000,
+        "samplesPerChannel": 1822400,
+        "fullDecodePassed": true,
+        "sha256": "8adb0e85a4ceb79d96f4f6d8688938738d6d30721bbbaaa9fb6cee0a4c3a22c9"
+      },
+      {
+        "file": "public/music-v8.wav",
+        "codec": "PCM s16le",
+        "channels": 2,
+        "sampleRate": 48000,
+        "samplesPerChannel": 1822400,
+        "fullDecodePassed": true,
+        "sha256": "72c88335e66e530b512e1541a59c286f90392415fa9afe47ffbd5d8eac1443aa"
+      },
+      {
+        "file": "public/sfx-v8.wav",
+        "codec": "PCM s16le",
+        "channels": 2,
+        "sampleRate": 48000,
+        "samplesPerChannel": 1822400,
+        "fullDecodePassed": true,
+        "sha256": "7ece26568fcba327cde33afbde0121b92c3e891cbb25b22a2d804c1a3d6d1b9e"
+      }
+    ],
+    "preservedSourceFiles": [
+      {
+        "file": "public/voice-r2.wav",
+        "sha256": "718e1d3dd62650c8facdd7ea1050866854e78a538ddcb73ede95ea4f2dde2362",
+        "unchanged": true
+      },
+      {
+        "file": "public/voice-r2-source.wav",
+        "sha256": "d21115f3174ad42bbcec00751210985066596462ac0592d66975c53270ee2594",
+        "unchanged": true
+      },
+      {
+        "file": "public/pace-map-r2.json",
+        "sha256": "50b54a8af8bc47b0e8f62aae1e2699e71d0b70c1c364e38cdce22935f2de586b",
+        "unchanged": true
+      },
+      {
+        "file": "public/story-map-r2.json",
+        "sha256": "165a70ced072aa4af55a5659d2a00c5b80bb12c9732364e01d31969b3a981b71",
+        "unchanged": true
+      },
+      {
+        "file": "pace-r2.ts",
+        "sha256": "ed0d9f24a2fff1ab36db11ccdc8742f0be0d24df7231a2cb9130a5e0437f6cea",
+        "unchanged": true
+      },
+      {
+        "file": "sound-r2.mjs",
+        "sha256": "a2ec74487f9cff3e0da35d9577795bcc0a0ecccd61b65d074d7a9f3f26db5f8c",
+        "unchanged": true
+      },
+      {
+        "file": "public/mix-r2.wav",
+        "sha256": "22cb6de72067a646d80afdadc513cfb205ff6151a13a7edf3e4552a8922b8051",
+        "unchanged": true
+      },
+      {
+        "file": "public/music-r2.wav",
+        "sha256": "ed17173f0a5871441f437f8c3db308b07d674df6e0d520afd02245b5f44d0e50",
+        "unchanged": true
+      },
+      {
+        "file": "public/sfx-r2.wav",
+        "sha256": "aa2638bafc1982ba96487f8d848e4b3a2c563481dbfa18aaac11e82099793ef7",
+        "unchanged": true
+      }
+    ],
+    "sourceQuietPcmAndDurations": {
+      "independentlyCompared": true,
+      "exactIntervals": 20,
+      "duration": 8.9293125,
+      "scope": "voice-r2.wav narration stem; compared to voice-r2-source.wav"
+    },
+    "noDiscreteSfxEventsDuringMappedSourceFrames": [
+      1050,
+      1165
+    ],
+    "sparseWindowAirGain": 0.34,
+    "emotionalTurnOutputFrames": [
+      761.563,
+      841.488
+    ],
+    "doorCloseCue": false,
+    "serviceWalkFootsteps": false,
+    "obsoleteReachCueAt526": false,
+    "listening": "Not verified by listening; user continuous audiovisual review required"
+  }
+}

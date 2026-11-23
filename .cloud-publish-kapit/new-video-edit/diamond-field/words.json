@@ -1,0 +1,722 @@
+[
+  {
+    "text": "Two",
+    "start_ms": 90,
+    "end_ms": 270,
+    "caption_frames": [
+      0,
+      8
+    ]
+  },
+  {
+    "text": "men",
+    "start_ms": 270,
+    "end_ms": 540,
+    "caption_frames": [
+      8,
+      16
+    ]
+  },
+  {
+    "text": "struck",
+    "start_ms": 540,
+    "end_ms": 1160,
+    "caption_frames": [
+      16,
+      33
+    ]
+  },
+  {
+    "text": "it",
+    "start_ms": 1160,
+    "end_ms": 1260,
+    "caption_frames": [
+      33,
+      38
+    ]
+  },
+  {
+    "text": "rich",
+    "start_ms": 1260,
+    "end_ms": 1630,
+    "caption_frames": [
+      38,
+      48
+    ]
+  },
+  {
+    "text": "by",
+    "start_ms": 1630,
+    "end_ms": 1770,
+    "caption_frames": [
+      48,
+      53
+    ]
+  },
+  {
+    "text": "putting",
+    "start_ms": 1770,
+    "end_ms": 2260,
+    "caption_frames": [
+      53,
+      68
+    ]
+  },
+  {
+    "text": "diamonds",
+    "start_ms": 2260,
+    "end_ms": 2800,
+    "caption_frames": [
+      68,
+      84
+    ]
+  },
+  {
+    "text": "into",
+    "start_ms": 2800,
+    "end_ms": 3100,
+    "caption_frames": [
+      84,
+      93
+    ]
+  },
+  {
+    "text": "the",
+    "start_ms": 3100,
+    "end_ms": 3320,
+    "caption_frames": [
+      93,
+      100
+    ]
+  },
+  {
+    "text": "ground.",
+    "start_ms": 3320,
+    "end_ms": 4000,
+    "caption_frames": [
+      100,
+      120
+    ]
+  },
+  {
+    "text": "In",
+    "start_ms": 4000,
+    "end_ms": 4190,
+    "caption_frames": [
+      120,
+      126
+    ]
+  },
+  {
+    "text": "1872,",
+    "start_ms": 4190,
+    "end_ms": 5560,
+    "caption_frames": [
+      126,
+      167
+    ]
+  },
+  {
+    "text": "they",
+    "start_ms": 5560,
+    "end_ms": 5770,
+    "caption_frames": [
+      167,
+      173
+    ]
+  },
+  {
+    "text": "led",
+    "start_ms": 5770,
+    "end_ms": 5950,
+    "caption_frames": [
+      173,
+      178
+    ]
+  },
+  {
+    "text": "investors",
+    "start_ms": 5950,
+    "end_ms": 6520,
+    "caption_frames": [
+      178,
+      194
+    ]
+  },
+  {
+    "text": "to",
+    "start_ms": 6520,
+    "end_ms": 6700,
+    "caption_frames": [
+      194,
+      199
+    ]
+  },
+  {
+    "text": "a",
+    "start_ms": 6700,
+    "end_ms": 6790,
+    "caption_frames": [
+      199,
+      204
+    ]
+  },
+  {
+    "text": "remote",
+    "start_ms": 6790,
+    "end_ms": 7350,
+    "caption_frames": [
+      204,
+      220
+    ]
+  },
+  {
+    "text": "spot",
+    "start_ms": 7350,
+    "end_ms": 7660,
+    "caption_frames": [
+      220,
+      230
+    ]
+  },
+  {
+    "text": "in",
+    "start_ms": 7660,
+    "end_ms": 8040,
+    "caption_frames": [
+      230,
+      241
+    ]
+  },
+  {
+    "text": "Colorado.",
+    "start_ms": 8040,
+    "end_ms": 8960,
+    "caption_frames": [
+      241,
+      269
+    ]
+  },
+  {
+    "text": "Diamonds!",
+    "start_ms": 8960,
+    "end_ms": 10120,
+    "caption_frames": [
+      269,
+      304
+    ]
+  },
+  {
+    "text": "Rubies!",
+    "start_ms": 10120,
+    "end_ms": 11040,
+    "caption_frames": [
+      304,
+      331
+    ]
+  },
+  {
+    "text": "Visitors",
+    "start_ms": 11040,
+    "end_ms": 11460,
+    "caption_frames": [
+      331,
+      344
+    ]
+  },
+  {
+    "text": "picked",
+    "start_ms": 11460,
+    "end_ms": 11780,
+    "caption_frames": [
+      344,
+      353
+    ]
+  },
+  {
+    "text": "them",
+    "start_ms": 11780,
+    "end_ms": 12000,
+    "caption_frames": [
+      353,
+      360
+    ]
+  },
+  {
+    "text": "right",
+    "start_ms": 12000,
+    "end_ms": 12410,
+    "caption_frames": [
+      360,
+      372
+    ]
+  },
+  {
+    "text": "off",
+    "start_ms": 12410,
+    "end_ms": 12920,
+    "caption_frames": [
+      372,
+      385
+    ]
+  },
+  {
+    "text": "the",
+    "start_ms": 12920,
+    "end_ms": 13000,
+    "caption_frames": [
+      385,
+      390
+    ]
+  },
+  {
+    "text": "ground.",
+    "start_ms": 13000,
+    "end_ms": 13440,
+    "caption_frames": [
+      390,
+      403
+    ]
+  },
+  {
+    "text": "Even",
+    "start_ms": 13440,
+    "end_ms": 13720,
+    "caption_frames": [
+      403,
+      409
+    ]
+  },
+  {
+    "text": "a",
+    "start_ms": 13720,
+    "end_ms": 13790,
+    "caption_frames": [
+      409,
+      414
+    ]
+  },
+  {
+    "text": "mining",
+    "start_ms": 13790,
+    "end_ms": 14230,
+    "caption_frames": [
+      414,
+      427
+    ]
+  },
+  {
+    "text": "engineer",
+    "start_ms": 14230,
+    "end_ms": 14770,
+    "caption_frames": [
+      427,
+      443
+    ]
+  },
+  {
+    "text": "approved",
+    "start_ms": 14770,
+    "end_ms": 15340,
+    "caption_frames": [
+      443,
+      460
+    ]
+  },
+  {
+    "text": "it.",
+    "start_ms": 15340,
+    "end_ms": 15720,
+    "caption_frames": [
+      460,
+      472
+    ]
+  },
+  {
+    "text": "The",
+    "start_ms": 15720,
+    "end_ms": 15900,
+    "caption_frames": [
+      472,
+      477
+    ]
+  },
+  {
+    "text": "men",
+    "start_ms": 15900,
+    "end_ms": 16080,
+    "caption_frames": [
+      477,
+      482
+    ]
+  },
+  {
+    "text": "walked",
+    "start_ms": 16080,
+    "end_ms": 16440,
+    "caption_frames": [
+      482,
+      493
+    ]
+  },
+  {
+    "text": "away",
+    "start_ms": 16440,
+    "end_ms": 16700,
+    "caption_frames": [
+      493,
+      501
+    ]
+  },
+  {
+    "text": "with",
+    "start_ms": 16700,
+    "end_ms": 16950,
+    "caption_frames": [
+      501,
+      508
+    ]
+  },
+  {
+    "text": "hundreds",
+    "start_ms": 16950,
+    "end_ms": 17480,
+    "caption_frames": [
+      508,
+      524
+    ]
+  },
+  {
+    "text": "of",
+    "start_ms": 17480,
+    "end_ms": 17670,
+    "caption_frames": [
+      524,
+      530
+    ]
+  },
+  {
+    "text": "thousands",
+    "start_ms": 17670,
+    "end_ms": 18550,
+    "caption_frames": [
+      530,
+      556
+    ]
+  },
+  {
+    "text": "of",
+    "start_ms": 18550,
+    "end_ms": 18740,
+    "caption_frames": [
+      556,
+      562
+    ]
+  },
+  {
+    "text": "dollars.",
+    "start_ms": 18740,
+    "end_ms": 19440,
+    "caption_frames": [
+      562,
+      583
+    ]
+  },
+  {
+    "text": "But",
+    "start_ms": 19440,
+    "end_ms": 19650,
+    "caption_frames": [
+      583,
+      590
+    ]
+  },
+  {
+    "text": "investigators",
+    "start_ms": 19650,
+    "end_ms": 20600,
+    "caption_frames": [
+      590,
+      618
+    ]
+  },
+  {
+    "text": "noticed",
+    "start_ms": 20600,
+    "end_ms": 21160,
+    "caption_frames": [
+      618,
+      635
+    ]
+  },
+  {
+    "text": "something",
+    "start_ms": 21160,
+    "end_ms": 21740,
+    "caption_frames": [
+      635,
+      652
+    ]
+  },
+  {
+    "text": "odd:",
+    "start_ms": 21740,
+    "end_ms": 22200,
+    "caption_frames": [
+      652,
+      666
+    ]
+  },
+  {
+    "text": "gems",
+    "start_ms": 22200,
+    "end_ms": 22540,
+    "caption_frames": [
+      666,
+      676
+    ]
+  },
+  {
+    "text": "appeared",
+    "start_ms": 22540,
+    "end_ms": 23210,
+    "caption_frames": [
+      676,
+      696
+    ]
+  },
+  {
+    "text": "only",
+    "start_ms": 23210,
+    "end_ms": 23560,
+    "caption_frames": [
+      696,
+      707
+    ]
+  },
+  {
+    "text": "where",
+    "start_ms": 23560,
+    "end_ms": 23760,
+    "caption_frames": [
+      707,
+      713
+    ]
+  },
+  {
+    "text": "someone",
+    "start_ms": 23760,
+    "end_ms": 24100,
+    "caption_frames": [
+      713,
+      723
+    ]
+  },
+  {
+    "text": "had",
+    "start_ms": 24100,
+    "end_ms": 24300,
+    "caption_frames": [
+      723,
+      729
+    ]
+  },
+  {
+    "text": "disturbed",
+    "start_ms": 24300,
+    "end_ms": 24950,
+    "caption_frames": [
+      729,
+      748
+    ]
+  },
+  {
+    "text": "the",
+    "start_ms": 24950,
+    "end_ms": 25170,
+    "caption_frames": [
+      748,
+      755
+    ]
+  },
+  {
+    "text": "ground.",
+    "start_ms": 25170,
+    "end_ms": 25840,
+    "caption_frames": [
+      755,
+      775
+    ]
+  },
+  {
+    "text": "The",
+    "start_ms": 25840,
+    "end_ms": 26010,
+    "caption_frames": [
+      775,
+      780
+    ]
+  },
+  {
+    "text": "men",
+    "start_ms": 26010,
+    "end_ms": 26180,
+    "caption_frames": [
+      780,
+      785
+    ]
+  },
+  {
+    "text": "had",
+    "start_ms": 26180,
+    "end_ms": 26350,
+    "caption_frames": [
+      785,
+      790
+    ]
+  },
+  {
+    "text": "stocked",
+    "start_ms": 26350,
+    "end_ms": 26750,
+    "caption_frames": [
+      790,
+      802
+    ]
+  },
+  {
+    "text": "the",
+    "start_ms": 26750,
+    "end_ms": 27000,
+    "caption_frames": [
+      802,
+      810
+    ]
+  },
+  {
+    "text": "site",
+    "start_ms": 27000,
+    "end_ms": 27200,
+    "caption_frames": [
+      810,
+      816
+    ]
+  },
+  {
+    "text": "with",
+    "start_ms": 27200,
+    "end_ms": 27460,
+    "caption_frames": [
+      816,
+      824
+    ]
+  },
+  {
+    "text": "stones",
+    "start_ms": 27460,
+    "end_ms": 27880,
+    "caption_frames": [
+      824,
+      836
+    ]
+  },
+  {
+    "text": "bought",
+    "start_ms": 27880,
+    "end_ms": 28310,
+    "caption_frames": [
+      836,
+      849
+    ]
+  },
+  {
+    "text": "in",
+    "start_ms": 28310,
+    "end_ms": 28450,
+    "caption_frames": [
+      849,
+      854
+    ]
+  },
+  {
+    "text": "London.",
+    "start_ms": 28450,
+    "end_ms": 29120,
+    "caption_frames": [
+      854,
+      876
+    ]
+  },
+  {
+    "text": "They",
+    "start_ms": 29210,
+    "end_ms": 29370,
+    "caption_frames": [
+      876,
+      881
+    ]
+  },
+  {
+    "text": "weren’t",
+    "start_ms": 29370,
+    "end_ms": 29800,
+    "caption_frames": [
+      881,
+      894
+    ]
+  },
+  {
+    "text": "mining",
+    "start_ms": 29800,
+    "end_ms": 30170,
+    "caption_frames": [
+      894,
+      905
+    ]
+  },
+  {
+    "text": "diamonds.",
+    "start_ms": 30170,
+    "end_ms": 30880,
+    "caption_frames": [
+      905,
+      926
+    ]
+  },
+  {
+    "text": "They",
+    "start_ms": 30880,
+    "end_ms": 31160,
+    "caption_frames": [
+      926,
+      935
+    ]
+  },
+  {
+    "text": "were",
+    "start_ms": 31160,
+    "end_ms": 31440,
+    "caption_frames": [
+      935,
+      943
+    ]
+  },
+  {
+    "text": "mining",
+    "start_ms": 31440,
+    "end_ms": 31860,
+    "caption_frames": [
+      943,
+      956
+    ]
+  },
+  {
+    "text": "investors.",
+    "start_ms": 31860,
+    "end_ms": 32679,
+    "caption_frames": [
+      956,
+      981
+    ]
+  }
+]

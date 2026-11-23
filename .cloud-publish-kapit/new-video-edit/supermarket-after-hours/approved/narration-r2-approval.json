@@ -1,0 +1,24 @@
+{
+  "approvedOn": "2026-11-18",
+  "approvedScope": "Exact revised story/narration, writing block48620",
+  "userReply": "yes",
+  "script": "approved/NARRATION-r2.txt",
+  "taggedScript": "approved/NARRATION-r2-Darian.txt",
+  "words": 120,
+  "scriptSha256": "070e3df476e0ed7a94b20e78cd54a0a03d9caff0249e090ec5a4dea239ef8c1a",
+  "tagsOnly": true,
+  "existingCharacterApprovalReused": true,
+  "voiceRecording": "Received 2026-11-18; preserved in voiceover-revisions/supermarket-after-hours-r2/voice-source.mp3",
+  "targetOverallWpm": [
+    190,
+    195
+  ],
+  "filmAcceptance": "Pending",
+  "voicePreparation": {
+    "sourceOverallWpm": 158.8616386835445,
+    "adjustedOverallWpm": 193.08103928551077,
+    "preservedQuietIntervals": 20,
+    "preservedQuietSeconds": 8.9293125,
+    "continuousListening": "User review; no automated listening claim"
+  }
+}

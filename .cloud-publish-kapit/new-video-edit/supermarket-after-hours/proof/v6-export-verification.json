@@ -1,0 +1,122 @@
+{
+  "file": "C:\\Users\\Win 10\\Downloads\\new video edit\\supermarket-after-hours\\proof\\After Hours - v6 - 2K.mp4",
+  "sha256": "df54b41166498795afab4b8fe23fc9bc66e57fdeb2aefe1609102f41d0f2f00c",
+  "bytes": 58790018,
+  "width": 1440,
+  "height": 2560,
+  "fps": 30,
+  "frames": 1372,
+  "videoSeconds": 45.733333,
+  "containerSeconds": 45.739,
+  "decode": "Entire video and audio decoded without error",
+  "decodedAudioSha256": "SHA256=1b5be09ad3bab7832acae685348839c5a0715b662b02cefcbe714c72c4ee73d1",
+  "sourceMixSha256": "fd550f6113e5c6065e7ba52c3a27aec5e4c05dc83a25906830a6f406ebbd084d",
+  "exportAudioCorrelation": [
+    {
+      "second": 0,
+      "correlation": 0.9999716942506636
+    },
+    {
+      "second": 4,
+      "correlation": 0.9999774455142508
+    },
+    {
+      "second": 8,
+      "correlation": 0.999965090126608
+    },
+    {
+      "second": 12,
+      "correlation": 0.9999651105449089
+    },
+    {
+      "second": 16,
+      "correlation": 0.9999803784152459
+    },
+    {
+      "second": 20,
+      "correlation": 0.9999767352881866
+    },
+    {
+      "second": 24,
+      "correlation": 0.9999586459819929
+    },
+    {
+      "second": 28,
+      "correlation": 0.9999786750806103
+    },
+    {
+      "second": 32,
+      "correlation": 0.9999760622346244
+    },
+    {
+      "second": 36,
+      "correlation": 0.99996075543271
+    },
+    {
+      "second": 40,
+      "correlation": 0.999964728297524
+    },
+    {
+      "second": 43,
+      "correlation": 0.9999710123881097
+    }
+  ],
+  "pace": {
+    "audioSeconds": 45.066895833333334,
+    "exportSeconds": 45.7175,
+    "frames": 1372,
+    "wpm": 193.04635562596528,
+    "tempo": 1.221534720319398,
+    "targetWpm": 193,
+    "targetAudioSeconds": 45.07772020725388,
+    "errorSamples": -520,
+    "errorFrames": -0.32473121761647405,
+    "method": "pitch-preserving ffmpeg atempo on speech cores; original quiet and guards copied"
+  },
+  "quiet": {
+    "intervals": 26,
+    "durationSeconds": 10.536291666666667,
+    "exactPcmUnchanged": true,
+    "durationsUnchanged": true
+  },
+  "approvedAppearanceSha256": "7d235635a1a314a198720f973ce20803603827e6260bfed362f9fe079440570f",
+  "previousExportUnchanged": true,
+  "sources": {
+    "Cast.tsx": "7b75a8973bcc42583bccbb1a200ac43ddd39b67338aad6dfdd5cbaccfa8b3e34",
+    "CastSheet.tsx": "120c4701268989c2200bab261c2262deaa53ec46519e53ecffdc628b02a259d9",
+    "check-connected.cjs": "df59a2be4b84eea7e2b34fbfbdcf928cdf9a6d643e908dcd3cdb5a66e31e15f8",
+    "check-gait.cjs": "e81a2a45efc96140c1d377f97c770a40fda0b87fceb6c501176d364d0a40c853",
+    "check-v5.cjs": "d26e348d2b83acbf6eabe6c9377db0e125fc4cd8ecadfa4f2a27410e5008b950",
+    "check-v6.cjs": "712864214d650980268546d68606a692dadef6ab8b8ebe9d8ff285da117aae50",
+    "check.cjs": "20e3db6b505a4b6427dc3b0acfb4d9e84fb1b2d870b8893235878fd745d7ddce",
+    "Film.tsx": "7fb6f1d26b1ea38888a57cf2b09d30d1ffab0854b9e27f2aaa3febf7b785f41c",
+    "gait.ts": "44fea340044faa23f9211baf0a006a3b9533033b54e48739bf876a9c515a0393",
+    "index.tsx": "e7b692d46f2cef85edc0f3d562b27369e782ff363c58331ed130b56d85f0f997",
+    "pace-193.mjs": "5eddad2e22869ed6ca805e2099fd403b82098e3f27d00a3312a8d0ea2ea2865a",
+    "pace-193.ts": "dd83634f776ea1989be4d68826bae3fa337ec6ad9a055647ef34f0379728089d",
+    "pace.mjs": "f50ad21375d6a10c86d25273f56ccd362bf75d200b31f213e45dabe7a6664467",
+    "pace.ts": "43ea9dce939d5324ee959652eddda28834cd0dfac55ec70874b8b5a0a81dece5",
+    "prepare.mjs": "7204ca2bb9f080cb8545c8a26b4dd5631bee09dc68baa1e17445ce9550cffe17",
+    "ReferenceCast.tsx": "c7e7e3a8bbee7304a1a94cf5db65ab22fafbb51df46887f3d92fc10d3ea859fc",
+    "render-cast-sheet.mjs": "344a244351436418a37cb262fa1538487d1f7e25f612a7a099688fc71b6acaa3",
+    "render.mjs": "fbca62005102fa8de4b1345bb01b65f897a673dc3fd7f22a341817817f4de0fd",
+    "sound-175.mjs": "889e9fa89c8c379f86a1ea3fe87111c79fcd0ca1cbcb1be6788c45eb7dae1c8a",
+    "sound-193.mjs": "c787c4c5515c552f23883cd2a1a6ef4d16afe24579a83f1e3c12212d08bc15b8",
+    "sound.mjs": "e46e43fc4af733d5cdee25b02e4c473d8a2c36eacd305ddae072f3f7145d83e4",
+    "staging.ts": "83b41cdc671312733c36d4cf59f6c4b30d7b523ae1ad9297ce872691a45564c2",
+    "StoreMaterials.ts": "c9ecdf704187eba257c522578c796b7265dcee883d40a465b2013d424765fb32",
+    "StoreProps.tsx": "263d532c3ea36d8aff132a64c6652a71d2945e4fbca7812a9b0b06e1487e214c",
+    "story.ts": "d5e74f1db290881d94699a7b366d763b0eac7e075f23f2845dff5dfdff1b2b7b",
+    "World.tsx": "768e343b9339a2151d97aa29321591e4fcface11abcd0cdb331375a74bc0a544"
+  },
+  "visualReview": "Lead inspected exact-export overview, dense entrance/register sequences, office/light/ear/reaction/ending details. Independent revised-reveal review performed on matching targeted preview. No additional material defect found in observed coverage.",
+  "continuousAudiovisualReview": false,
+  "coverageLimit": "Chronological and consecutive visual samples, source PCM and signal checks. User performs the agreed continuous audiovisual review; automated checks and samples are supplementary.",
+  "acceptance": "User acceptance pending",
+  "exportLoudness": {
+    "integratedLufs": -16.7,
+    "truePeakDbtp": -1.5,
+    "lraLu": 2.9
+  },
+  "filmOverallWpm": 190.23323753814313
+}

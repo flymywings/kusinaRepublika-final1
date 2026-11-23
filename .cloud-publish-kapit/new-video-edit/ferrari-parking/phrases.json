@@ -1,0 +1,107 @@
+{
+ "duration": 26.798798,
+ "frames30": 804,
+ "source": "silence-align (cost 1.24)",
+ "segments": [
+  [
+   0.0,
+   2.122653
+  ],
+  [
+   2.453265,
+   4.615918
+  ],
+  [
+   5.153197,
+   6.596145
+  ],
+  [
+   6.75229,
+   12.325578
+  ],
+  [
+   12.800159,
+   13.468481
+  ],
+  [
+   13.649206,
+   14.19254
+  ],
+  [
+   14.483991,
+   15.346395
+  ],
+  [
+   15.47127,
+   17.42059
+  ],
+  [
+   17.900023,
+   20.814943
+  ],
+  [
+   21.286667,
+   22.189728
+  ],
+  [
+   22.700272,
+   25.703243
+  ],
+  [
+   25.908776,
+   26.798798
+  ]
+ ],
+ "phrases": [
+  {
+   "text": "A billionaire borrowed ONE dollar and handed the bank the keys to his Ferrari.",
+   "s": 0.0,
+   "e": 4.616
+  },
+  {
+   "text": "He walked into a Manhattan bank,",
+   "s": 5.153,
+   "e": 6.596
+  },
+  {
+   "text": "requested a one-dollar loan, and watched guards drive his half-million-dollar supercar into their underground vault.",
+   "s": 6.752,
+   "e": 12.326
+  },
+  {
+   "text": "Two weeks later,",
+   "s": 12.8,
+   "e": 13.468
+  },
+  {
+   "text": "he returned,",
+   "s": 13.649,
+   "e": 14.193
+  },
+  {
+   "text": "paid back the dollar,",
+   "s": 14.484,
+   "e": 15.346
+  },
+  {
+   "text": "and gave the teller two cents in interest.",
+   "s": 15.471,
+   "e": 17.421
+  },
+  {
+   "text": "The banker asked why a wealthy man needed a one-dollar loan.",
+   "s": 17.9,
+   "e": 20.815
+  },
+  {
+   "text": "The billionaire smiled:",
+   "s": 21.287,
+   "e": 22.19
+  },
+  {
+   "text": "where else in Manhattan can you park a Ferrari for two weeks for two cents?",
+   "s": 22.7,
+   "e": 26.799
+  }
+ ]
+}

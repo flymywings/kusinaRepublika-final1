@@ -1,0 +1,18 @@
+# Hook shot list, Fragrant Flower (paper only, replaces hook-B-r3)
+
+Skill: cartoon-short-merged/SKILL.md + LOOP.md. Voice: words-v3-corrected.json lines 1-3 (the v4 trim only removes "literally" from line 3, so hook timings hold; re-check after the trim). Frames at 30 fps. Hook = f0-f149, "Rintaro" lands f137.
+Why it changes: hook-B-r3 scored 6/10 (too much going on, no emphasis, static). Fix: one subject per line, a real move through the cafe, the mirror OUT of the hook. The mirror is saved for the rewind reveal (card 5) and the ending (card 7). No reflected face anywhere in the hook.
+
+Word frames: This f2, girl f10, looked f22, terrified f26, of f49, his f51, face f54, line end f63, then f72, came f80, back f88, buy f99, him f111, cake f112, line end f122, Rintaro f137.
+
+Metric decisions (20-reference benchmark: median shot 2.93 s, first edit in a hook at median 3.65 s, 12 of 20 hooks have no edit in them, key noun gets one continuous push):
+- 1A stays 2.2 s, no extra rack focus at f54. 2.2 s is nearer the 2.93 s median than 1.5 s, and one push on the key noun is the reference pattern.
+- Old 1B and 1C merge into one 2.8 s shot. The old 1C was 1.2 s, under the 1.5 s rule, and a second cut at f112 would put 3 changes in 5 s against a median of about 1 in the hook. Result: one cut (f66) plus the handoff at f149.
+
+| Shot | Frames | Word | Subject | Camera: position and move | Light | Sound |
+|---|---|---|---|---|---|---|
+| 1A | f0-f66 (2.2 s) | "This girl looked terrified of his face..." | Her face alone, big, eyes in the upper third, whole head clear (no plate or hand over it). Her hand holds the fork up in frame, tines trembling. Cafe soft behind her: plate tower, window, lamp, chair backs (15+ props, all out of focus). Frame 0 already mid-reaction. | Eye level, close. One slow push in from f0. It speeds up at f22 and lands tight on her eyes on "terrified" f26, then settles into a small drift to f66. Nothing else moves. | Late-afternoon gold on the wall, cool grade on her (his misreading). Focus on her eyes. | Fork tick f0, f11, f21, f26. Ticks stop on "face" f54. Room tone and case hum under it. |
+| 1B | f66-f149 (2.8 s) | "then came back to buy him cake." + pause, "Rintaro" f137 | Her walking back in next day, then the box. The cafe is the subject: the camera travels with her past the cake case, the plate tower and the door with its bell, to her booth. Her hand puts the coins down on "buy" f99 and slides the one-slice box to a stop on "cake" f112. Her face stays whole and clear, calm, upper third. Fingertips stay on the box through the pause. | One long glide, low-medium height, from the doorway side, arcing around the plate tower. A matched dissolve on "then" f72 hides the time jump while the move keeps going. Ends low at table height, rack focus from coins to box by f118, then to her eyes. Slow push on "Rintaro" f137. Handoff on "is" f149: cut to card 2, his full height on the street, matched on the box edge. | Gold evening to morning daylight, half warm, over 8 frames at f72. | Low felt-piano note on "then" f72. Door bell on "came" f80. Footsteps on "back" f88. Coin clink f99. Box tap f112. Case and room hum in the pause. Street air rises from f137. |
+
+Captions: 1-2 words, white, bold, at 70% height, never over a face. In 1A her face sits above 55% height. In 1B the caption sits between her face and the box.
+Gates: eyes visible and uncropped in both shots; fork, coins and box each held or placed by a visible hand; her face never in the bottom 30%; 15-40 props per shot with no empty background; nobody frozen; test stills of 1A (f0, f26, f66) and 1B (f66, f90, f112, f137) before any render.

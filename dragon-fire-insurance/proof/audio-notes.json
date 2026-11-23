@@ -1,0 +1,12 @@
+{
+  "voice": "Accepted V5, unretimed",
+  "sourceLufs": -23.1,
+  "sourcePeak": -4,
+  "masterGainDb": 2.5,
+  "expectedLufs": -20.6,
+  "expectedPeak": -1.5,
+  "seed": 76042958,
+  "music": "Original plucked motif; dropout at realization, withdrawal before splash",
+  "ducking": "Voice-led sidechain on music only",
+  "review": "Measured signal checks; listening pending"
+}

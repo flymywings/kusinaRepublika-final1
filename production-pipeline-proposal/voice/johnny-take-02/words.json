@@ -1,0 +1,1221 @@
+{
+ "duration": 57.764,
+ "words": [
+  {
+   "word": "This",
+   "start": 0.06,
+   "end": 0.313,
+   "line": 1
+  },
+  {
+   "word": "girl",
+   "start": 0.313,
+   "end": 0.661,
+   "line": 1
+  },
+  {
+   "word": "looked",
+   "start": 0.742,
+   "end": 1.08,
+   "line": 1
+  },
+  {
+   "word": "terrified",
+   "start": 1.08,
+   "end": 1.581,
+   "line": 1
+  },
+  {
+   "word": "of",
+   "start": 1.581,
+   "end": 1.631,
+   "line": 1
+  },
+  {
+   "word": "his",
+   "start": 1.631,
+   "end": 1.797,
+   "line": 1
+  },
+  {
+   "word": "face...",
+   "start": 1.797,
+   "end": 2.1,
+   "line": 1
+  },
+  {
+   "word": "then",
+   "start": 2.4,
+   "end": 2.679,
+   "line": 2
+  },
+  {
+   "word": "came",
+   "start": 2.679,
+   "end": 2.934,
+   "line": 2
+  },
+  {
+   "word": "back",
+   "start": 2.934,
+   "end": 3.29,
+   "line": 2
+  },
+  {
+   "word": "to",
+   "start": 3.29,
+   "end": 3.357,
+   "line": 2
+  },
+  {
+   "word": "buy",
+   "start": 3.357,
+   "end": 3.63,
+   "line": 2
+  },
+  {
+   "word": "him",
+   "start": 3.63,
+   "end": 3.716,
+   "line": 2
+  },
+  {
+   "word": "cake.",
+   "start": 3.716,
+   "end": 4.058,
+   "line": 2
+  },
+  {
+   "word": "Rintaro",
+   "start": 4.298,
+   "end": 4.758,
+   "line": 3
+  },
+  {
+   "word": "is",
+   "start": 4.758,
+   "end": 4.869,
+   "line": 3
+  },
+  {
+   "word": "tall,",
+   "start": 4.869,
+   "end": 5.014,
+   "line": 3
+  },
+  {
+   "word": "blond,",
+   "start": 5.014,
+   "end": 5.292,
+   "line": 3
+  },
+  {
+   "word": "pierced,",
+   "start": 5.407,
+   "end": 5.793,
+   "line": 3
+  },
+  {
+   "word": "and",
+   "start": 5.898,
+   "end": 6.121,
+   "line": 3
+  },
+  {
+   "word": "so",
+   "start": 6.121,
+   "end": 6.274,
+   "line": 3
+  },
+  {
+   "word": "intimidating",
+   "start": 6.41,
+   "end": 7.131,
+   "line": 3
+  },
+  {
+   "word": "that",
+   "start": 7.131,
+   "end": 7.454,
+   "line": 3
+  },
+  {
+   "word": "strangers",
+   "start": 7.454,
+   "end": 7.885,
+   "line": 3
+  },
+  {
+   "word": "literally",
+   "start": 7.885,
+   "end": 8.381,
+   "line": 3
+  },
+  {
+   "word": "run",
+   "start": 8.381,
+   "end": 8.667,
+   "line": 3
+  },
+  {
+   "word": "from",
+   "start": 8.667,
+   "end": 8.923,
+   "line": 3
+  },
+  {
+   "word": "him.",
+   "start": 8.923,
+   "end": 9.014,
+   "line": 3
+  },
+  {
+   "word": "Which",
+   "start": 9.254,
+   "end": 9.444,
+   "line": 4
+  },
+  {
+   "word": "isn't",
+   "start": 9.444,
+   "end": 9.755,
+   "line": 4
+  },
+  {
+   "word": "great",
+   "start": 9.755,
+   "end": 10.025,
+   "line": 4
+  },
+  {
+   "word": "when",
+   "start": 10.025,
+   "end": 10.296,
+   "line": 4
+  },
+  {
+   "word": "your",
+   "start": 10.296,
+   "end": 10.451,
+   "line": 4
+  },
+  {
+   "word": "family",
+   "start": 10.451,
+   "end": 10.847,
+   "line": 4
+  },
+  {
+   "word": "owns",
+   "start": 10.847,
+   "end": 11.053,
+   "line": 4
+  },
+  {
+   "word": "a",
+   "start": 11.053,
+   "end": 11.168,
+   "line": 4
+  },
+  {
+   "word": "cake",
+   "start": 11.168,
+   "end": 11.438,
+   "line": 4
+  },
+  {
+   "word": "shop.",
+   "start": 11.438,
+   "end": 11.639,
+   "line": 4
+  },
+  {
+   "word": "So",
+   "start": 11.879,
+   "end": 12.005,
+   "line": 5
+  },
+  {
+   "word": "when",
+   "start": 12.005,
+   "end": 12.239,
+   "line": 5
+  },
+  {
+   "word": "he",
+   "start": 12.239,
+   "end": 12.418,
+   "line": 5
+  },
+  {
+   "word": "spots",
+   "start": 12.478,
+   "end": 12.766,
+   "line": 5
+  },
+  {
+   "word": "a",
+   "start": 12.766,
+   "end": 12.827,
+   "line": 5
+  },
+  {
+   "word": "girl",
+   "start": 12.827,
+   "end": 13.149,
+   "line": 5
+  },
+  {
+   "word": "demolishing",
+   "start": 13.149,
+   "end": 13.815,
+   "line": 5
+  },
+  {
+   "word": "a",
+   "start": 13.815,
+   "end": 13.889,
+   "line": 5
+  },
+  {
+   "word": "mountain",
+   "start": 13.889,
+   "end": 14.38,
+   "line": 5
+  },
+  {
+   "word": "of",
+   "start": 14.38,
+   "end": 14.48,
+   "line": 5
+  },
+  {
+   "word": "cake,",
+   "start": 14.48,
+   "end": 14.763,
+   "line": 5
+  },
+  {
+   "word": "he",
+   "start": 14.954,
+   "end": 15.077,
+   "line": 5
+  },
+  {
+   "word": "can't",
+   "start": 15.077,
+   "end": 15.392,
+   "line": 5
+  },
+  {
+   "word": "help",
+   "start": 15.392,
+   "end": 15.738,
+   "line": 5
+  },
+  {
+   "word": "staring.",
+   "start": 15.738,
+   "end": 16.154,
+   "line": 5
+  },
+  {
+   "word": "She",
+   "start": 16.394,
+   "end": 16.575,
+   "line": 6
+  },
+  {
+   "word": "locks",
+   "start": 16.575,
+   "end": 16.826,
+   "line": 6
+  },
+  {
+   "word": "eyes",
+   "start": 16.826,
+   "end": 17.186,
+   "line": 6
+  },
+  {
+   "word": "with",
+   "start": 17.186,
+   "end": 17.562,
+   "line": 6
+  },
+  {
+   "word": "him",
+   "start": 17.562,
+   "end": 17.718,
+   "line": 6
+  },
+  {
+   "word": "and",
+   "start": 17.718,
+   "end": 17.855,
+   "line": 6
+  },
+  {
+   "word": "bolts",
+   "start": 17.921,
+   "end": 18.204,
+   "line": 6
+  },
+  {
+   "word": "out",
+   "start": 18.204,
+   "end": 18.539,
+   "line": 6
+  },
+  {
+   "word": "the",
+   "start": 18.539,
+   "end": 18.705,
+   "line": 6
+  },
+  {
+   "word": "door.",
+   "start": 18.705,
+   "end": 18.9,
+   "line": 6
+  },
+  {
+   "word": "He's",
+   "start": 19.25,
+   "end": 19.43,
+   "line": 7
+  },
+  {
+   "word": "sure",
+   "start": 19.43,
+   "end": 19.752,
+   "line": 7
+  },
+  {
+   "word": "he's",
+   "start": 19.752,
+   "end": 19.938,
+   "line": 7
+  },
+  {
+   "word": "traumatized",
+   "start": 19.938,
+   "end": 20.615,
+   "line": 7
+  },
+  {
+   "word": "her",
+   "start": 20.615,
+   "end": 20.785,
+   "line": 7
+  },
+  {
+   "word": "for",
+   "start": 20.785,
+   "end": 20.879,
+   "line": 7
+  },
+  {
+   "word": "life.",
+   "start": 20.879,
+   "end": 21.194,
+   "line": 7
+  },
+  {
+   "word": "But",
+   "start": 21.434,
+   "end": 21.536,
+   "line": 8
+  },
+  {
+   "word": "the",
+   "start": 21.536,
+   "end": 21.67,
+   "line": 8
+  },
+  {
+   "word": "next",
+   "start": 21.67,
+   "end": 21.892,
+   "line": 8
+  },
+  {
+   "word": "day",
+   "start": 21.892,
+   "end": 22.283,
+   "line": 8
+  },
+  {
+   "word": "she's",
+   "start": 22.283,
+   "end": 22.338,
+   "line": 8
+  },
+  {
+   "word": "back,",
+   "start": 22.338,
+   "end": 22.701,
+   "line": 8
+  },
+  {
+   "word": "apologizing",
+   "start": 22.807,
+   "end": 23.636,
+   "line": 8
+  },
+  {
+   "word": "and",
+   "start": 23.636,
+   "end": 23.756,
+   "line": 8
+  },
+  {
+   "word": "insisting",
+   "start": 23.756,
+   "end": 24.313,
+   "line": 8
+  },
+  {
+   "word": "on",
+   "start": 24.313,
+   "end": 24.363,
+   "line": 8
+  },
+  {
+   "word": "buying",
+   "start": 24.363,
+   "end": 24.871,
+   "line": 8
+  },
+  {
+   "word": "him",
+   "start": 24.871,
+   "end": 24.991,
+   "line": 8
+  },
+  {
+   "word": "a",
+   "start": 24.991,
+   "end": 25.054,
+   "line": 8
+  },
+  {
+   "word": "slice.",
+   "start": 25.054,
+   "end": 25.413,
+   "line": 8
+  },
+  {
+   "word": "So",
+   "start": 25.653,
+   "end": 25.824,
+   "line": 9
+  },
+  {
+   "word": "he",
+   "start": 25.824,
+   "end": 26.026,
+   "line": 9
+  },
+  {
+   "word": "asks,",
+   "start": 26.026,
+   "end": 26.39,
+   "line": 9
+  },
+  {
+   "word": "\"Wait,",
+   "start": 26.67,
+   "end": 26.945,
+   "line": 10
+  },
+  {
+   "word": "didn't",
+   "start": 27.225,
+   "end": 27.46,
+   "line": 11
+  },
+  {
+   "word": "you",
+   "start": 27.46,
+   "end": 27.606,
+   "line": 11
+  },
+  {
+   "word": "run",
+   "start": 27.606,
+   "end": 27.936,
+   "line": 11
+  },
+  {
+   "word": "because",
+   "start": 27.936,
+   "end": 28.358,
+   "line": 11
+  },
+  {
+   "word": "you",
+   "start": 28.358,
+   "end": 28.467,
+   "line": 11
+  },
+  {
+   "word": "were",
+   "start": 28.467,
+   "end": 28.738,
+   "line": 11
+  },
+  {
+   "word": "scared",
+   "start": 28.738,
+   "end": 29.088,
+   "line": 11
+  },
+  {
+   "word": "of",
+   "start": 29.088,
+   "end": 29.204,
+   "line": 11
+  },
+  {
+   "word": "me?\"",
+   "start": 29.204,
+   "end": 29.335,
+   "line": 11
+  },
+  {
+   "word": "You",
+   "start": 30.635,
+   "end": 30.782,
+   "line": 12
+  },
+  {
+   "word": "see,",
+   "start": 30.782,
+   "end": 31.08,
+   "line": 12
+  },
+  {
+   "word": "from",
+   "start": 31.196,
+   "end": 31.495,
+   "line": 12
+  },
+  {
+   "word": "HER",
+   "start": 31.495,
+   "end": 31.689,
+   "line": 12
+  },
+  {
+   "word": "side,",
+   "start": 31.689,
+   "end": 31.973,
+   "line": 12
+  },
+  {
+   "word": "that",
+   "start": 31.973,
+   "end": 32.273,
+   "line": 12
+  },
+  {
+   "word": "look",
+   "start": 32.383,
+   "end": 32.792,
+   "line": 12
+  },
+  {
+   "word": "was",
+   "start": 32.792,
+   "end": 33.006,
+   "line": 12
+  },
+  {
+   "word": "never",
+   "start": 33.006,
+   "end": 33.444,
+   "line": 12
+  },
+  {
+   "word": "fear.",
+   "start": 33.444,
+   "end": 33.863,
+   "line": 12
+  },
+  {
+   "word": "No",
+   "start": 34.123,
+   "end": 34.332,
+   "line": 13
+  },
+  {
+   "word": "guy",
+   "start": 34.332,
+   "end": 34.646,
+   "line": 13
+  },
+  {
+   "word": "had",
+   "start": 34.646,
+   "end": 34.884,
+   "line": 13
+  },
+  {
+   "word": "ever",
+   "start": 34.979,
+   "end": 35.397,
+   "line": 13
+  },
+  {
+   "word": "stared",
+   "start": 35.397,
+   "end": 35.748,
+   "line": 13
+  },
+  {
+   "word": "at",
+   "start": 35.748,
+   "end": 35.879,
+   "line": 13
+  },
+  {
+   "word": "her",
+   "start": 35.879,
+   "end": 36.009,
+   "line": 13
+  },
+  {
+   "word": "before,",
+   "start": 36.009,
+   "end": 36.418,
+   "line": 13
+  },
+  {
+   "word": "and",
+   "start": 36.618,
+   "end": 36.866,
+   "line": 14
+  },
+  {
+   "word": "her",
+   "start": 36.866,
+   "end": 36.966,
+   "line": 14
+  },
+  {
+   "word": "heart",
+   "start": 36.966,
+   "end": 37.307,
+   "line": 14
+  },
+  {
+   "word": "was",
+   "start": 37.307,
+   "end": 37.535,
+   "line": 14
+  },
+  {
+   "word": "POUNDING.",
+   "start": 37.63,
+   "end": 38.332,
+   "line": 14
+  },
+  {
+   "word": "He'd",
+   "start": 38.732,
+   "end": 38.925,
+   "line": 15
+  },
+  {
+   "word": "only",
+   "start": 38.925,
+   "end": 39.392,
+   "line": 15
+  },
+  {
+   "word": "just",
+   "start": 39.392,
+   "end": 39.661,
+   "line": 15
+  },
+  {
+   "word": "noticed",
+   "start": 39.661,
+   "end": 40.171,
+   "line": 15
+  },
+  {
+   "word": "her,",
+   "start": 40.401,
+   "end": 40.499,
+   "line": 15
+  },
+  {
+   "word": "but",
+   "start": 40.499,
+   "end": 40.691,
+   "line": 15
+  },
+  {
+   "word": "she'd",
+   "start": 40.691,
+   "end": 40.886,
+   "line": 15
+  },
+  {
+   "word": "noticed",
+   "start": 40.886,
+   "end": 41.339,
+   "line": 15
+  },
+  {
+   "word": "him",
+   "start": 41.339,
+   "end": 41.496,
+   "line": 15
+  },
+  {
+   "word": "long",
+   "start": 41.496,
+   "end": 41.842,
+   "line": 15
+  },
+  {
+   "word": "before",
+   "start": 41.842,
+   "end": 42.208,
+   "line": 15
+  },
+  {
+   "word": "that.",
+   "start": 42.208,
+   "end": 42.545,
+   "line": 15
+  },
+  {
+   "word": "He",
+   "start": 42.995,
+   "end": 43.168,
+   "line": 16
+  },
+  {
+   "word": "read",
+   "start": 43.168,
+   "end": 43.531,
+   "line": 16
+  },
+  {
+   "word": "her",
+   "start": 43.531,
+   "end": 43.614,
+   "line": 16
+  },
+  {
+   "word": "face",
+   "start": 43.614,
+   "end": 43.902,
+   "line": 16
+  },
+  {
+   "word": "the",
+   "start": 43.902,
+   "end": 44.087,
+   "line": 16
+  },
+  {
+   "word": "exact",
+   "start": 44.087,
+   "end": 44.513,
+   "line": 16
+  },
+  {
+   "word": "same",
+   "start": 44.513,
+   "end": 44.838,
+   "line": 16
+  },
+  {
+   "word": "way",
+   "start": 44.838,
+   "end": 45.152,
+   "line": 16
+  },
+  {
+   "word": "EVERYONE",
+   "start": 45.292,
+   "end": 46.044,
+   "line": 16
+  },
+  {
+   "word": "reads",
+   "start": 46.044,
+   "end": 46.36,
+   "line": 16
+  },
+  {
+   "word": "his.",
+   "start": 46.36,
+   "end": 46.518,
+   "line": 16
+  },
+  {
+   "word": "Then",
+   "start": 46.778,
+   "end": 47.069,
+   "line": 17
+  },
+  {
+   "word": "she",
+   "start": 47.069,
+   "end": 47.229,
+   "line": 17
+  },
+  {
+   "word": "tells",
+   "start": 47.229,
+   "end": 47.593,
+   "line": 17
+  },
+  {
+   "word": "him,",
+   "start": 47.593,
+   "end": 47.715,
+   "line": 17
+  },
+  {
+   "word": "\"I've",
+   "start": 48.015,
+   "end": 48.187,
+   "line": 18
+  },
+  {
+   "word": "never",
+   "start": 48.187,
+   "end": 48.589,
+   "line": 18
+  },
+  {
+   "word": "once",
+   "start": 48.589,
+   "end": 48.855,
+   "line": 18
+  },
+  {
+   "word": "thought",
+   "start": 48.855,
+   "end": 49.179,
+   "line": 18
+  },
+  {
+   "word": "you",
+   "start": 49.179,
+   "end": 49.293,
+   "line": 18
+  },
+  {
+   "word": "were",
+   "start": 49.293,
+   "end": 49.545,
+   "line": 18
+  },
+  {
+   "word": "scary.\"",
+   "start": 49.545,
+   "end": 49.965,
+   "line": 18
+  },
+  {
+   "word": "He's",
+   "start": 50.415,
+   "end": 50.63,
+   "line": 19
+  },
+  {
+   "word": "used",
+   "start": 50.63,
+   "end": 50.848,
+   "line": 19
+  },
+  {
+   "word": "to",
+   "start": 50.848,
+   "end": 50.957,
+   "line": 19
+  },
+  {
+   "word": "people",
+   "start": 50.957,
+   "end": 51.419,
+   "line": 19
+  },
+  {
+   "word": "taking",
+   "start": 51.419,
+   "end": 51.78,
+   "line": 19
+  },
+  {
+   "word": "one",
+   "start": 51.78,
+   "end": 51.97,
+   "line": 19
+  },
+  {
+   "word": "look",
+   "start": 51.97,
+   "end": 52.184,
+   "line": 19
+  },
+  {
+   "word": "at",
+   "start": 52.184,
+   "end": 52.297,
+   "line": 19
+  },
+  {
+   "word": "his",
+   "start": 52.297,
+   "end": 52.432,
+   "line": 19
+  },
+  {
+   "word": "face",
+   "start": 52.432,
+   "end": 52.696,
+   "line": 19
+  },
+  {
+   "word": "and",
+   "start": 52.696,
+   "end": 52.862,
+   "line": 19
+  },
+  {
+   "word": "running.",
+   "start": 52.862,
+   "end": 53.231,
+   "line": 19
+  },
+  {
+   "word": "He",
+   "start": 53.471,
+   "end": 53.679,
+   "line": 20
+  },
+  {
+   "word": "has",
+   "start": 53.679,
+   "end": 53.899,
+   "line": 20
+  },
+  {
+   "word": "no",
+   "start": 53.899,
+   "end": 54.066,
+   "line": 20
+  },
+  {
+   "word": "idea",
+   "start": 54.066,
+   "end": 54.428,
+   "line": 20
+  },
+  {
+   "word": "what",
+   "start": 54.428,
+   "end": 54.776,
+   "line": 20
+  },
+  {
+   "word": "to",
+   "start": 54.776,
+   "end": 54.912,
+   "line": 20
+  },
+  {
+   "word": "do",
+   "start": 54.912,
+   "end": 55.025,
+   "line": 20
+  },
+  {
+   "word": "when",
+   "start": 55.025,
+   "end": 55.33,
+   "line": 20
+  },
+  {
+   "word": "someone",
+   "start": 55.33,
+   "end": 55.779,
+   "line": 20
+  },
+  {
+   "word": "looks",
+   "start": 55.779,
+   "end": 56.064,
+   "line": 20
+  },
+  {
+   "word": "at",
+   "start": 56.064,
+   "end": 56.19,
+   "line": 20
+  },
+  {
+   "word": "it...",
+   "start": 56.19,
+   "end": 56.272,
+   "line": 20
+  },
+  {
+   "word": "and",
+   "start": 56.902,
+   "end": 57.182,
+   "line": 21
+  },
+  {
+   "word": "stays.",
+   "start": 57.182,
+   "end": 57.679,
+   "line": 21
+  }
+ ],
+ "lines": [
+  {
+   "line": 1,
+   "text": "This girl looked terrified of his face...",
+   "start": 0.06,
+   "end": 2.1
+  },
+  {
+   "line": 2,
+   "text": "then came back to buy him cake.",
+   "start": 2.4,
+   "end": 4.058
+  },
+  {
+   "line": 3,
+   "text": "Rintaro is tall, blond, pierced, and so intimidating that strangers literally run from him.",
+   "start": 4.298,
+   "end": 9.014
+  },
+  {
+   "line": 4,
+   "text": "Which isn't great when your family owns a cake shop.",
+   "start": 9.254,
+   "end": 11.639
+  },
+  {
+   "line": 5,
+   "text": "So when he spots a girl demolishing a mountain of cake, he can't help staring.",
+   "start": 11.879,
+   "end": 16.154
+  },
+  {
+   "line": 6,
+   "text": "She locks eyes with him and bolts out the door.",
+   "start": 16.394,
+   "end": 18.9
+  },
+  {
+   "line": 7,
+   "text": "He's sure he's traumatized her for life.",
+   "start": 19.25,
+   "end": 21.194
+  },
+  {
+   "line": 8,
+   "text": "But the next day she's back, apologizing and insisting on buying him a slice.",
+   "start": 21.434,
+   "end": 25.413
+  },
+  {
+   "line": 9,
+   "text": "So he asks,",
+   "start": 25.653,
+   "end": 26.39
+  },
+  {
+   "line": 10,
+   "text": "\"Wait,",
+   "start": 26.67,
+   "end": 26.945
+  },
+  {
+   "line": 11,
+   "text": "didn't you run because you were scared of me?\"",
+   "start": 27.225,
+   "end": 29.335
+  },
+  {
+   "line": 12,
+   "text": "You see, from HER side, that look was never fear.",
+   "start": 30.635,
+   "end": 33.863
+  },
+  {
+   "line": 13,
+   "text": "No guy had ever stared at her before,",
+   "start": 34.123,
+   "end": 36.418
+  },
+  {
+   "line": 14,
+   "text": "and her heart was POUNDING.",
+   "start": 36.618,
+   "end": 38.332
+  },
+  {
+   "line": 15,
+   "text": "He'd only just noticed her, but she'd noticed him long before that.",
+   "start": 38.732,
+   "end": 42.545
+  },
+  {
+   "line": 16,
+   "text": "He read her face the exact same way EVERYONE reads his.",
+   "start": 42.995,
+   "end": 46.518
+  },
+  {
+   "line": 17,
+   "text": "Then she tells him,",
+   "start": 46.778,
+   "end": 47.715
+  },
+  {
+   "line": 18,
+   "text": "\"I've never once thought you were scary.\"",
+   "start": 48.015,
+   "end": 49.965
+  },
+  {
+   "line": 19,
+   "text": "He's used to people taking one look at his face and running.",
+   "start": 50.415,
+   "end": 53.231
+  },
+  {
+   "line": 20,
+   "text": "He has no idea what to do when someone looks at it...",
+   "start": 53.471,
+   "end": 56.272
+  },
+  {
+   "line": 21,
+   "text": "and stays.",
+   "start": 56.902,
+   "end": 57.679
+  }
+ ],
+ "marks": {
+  "rewindStart": 29.335,
+  "rewindEnd": 30.635,
+  "youSee": 30.635,
+  "pounding": 37.63,
+  "stays": 57.182,
+  "andStays": 56.902
+ }
+}

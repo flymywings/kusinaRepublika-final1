@@ -1,0 +1,163 @@
+{
+ "sampleRate": 48000,
+ "fps": 30,
+ "seconds": 54.867,
+ "voiceSpeechRmsDbfs": -15.7,
+ "masterGainDb": 2.8,
+ "integratedLufs": -14.4,
+ "truePeakDbfs": -0.8,
+ "events": [
+  {
+   "frame": 0,
+   "kind": "fork"
+  },
+  {
+   "frame": 11,
+   "kind": "fork"
+  },
+  {
+   "frame": 21,
+   "kind": "fork"
+  },
+  {
+   "frame": 32,
+   "kind": "fork"
+  },
+  {
+   "frame": 42,
+   "kind": "fork"
+  },
+  {
+   "frame": 72,
+   "kind": "piano"
+  },
+  {
+   "frame": 80,
+   "kind": "bell"
+  },
+  {
+   "frame": 99,
+   "kind": "clink"
+  },
+  {
+   "frame": 103,
+   "kind": "clink"
+  },
+  {
+   "frame": 112,
+   "kind": "tap"
+  },
+  {
+   "frame": 834,
+   "kind": "whir"
+  },
+  {
+   "frame": 842,
+   "kind": "bell (reversed)"
+  },
+  {
+   "frame": 855,
+   "kind": "clink (reversed)"
+  },
+  {
+   "frame": 865,
+   "kind": "chair (reversed)"
+  },
+  {
+   "frame": 882,
+   "kind": "clunk"
+  },
+  {
+   "frame": 882,
+   "kind": "fork"
+  },
+  {
+   "frame": 892,
+   "kind": "fork"
+  },
+  {
+   "frame": 903,
+   "kind": "fork"
+  },
+  {
+   "frame": 913,
+   "kind": "fork"
+  },
+  {
+   "frame": 912,
+   "kind": "piano"
+  },
+  {
+   "frame": 944,
+   "kind": "piano"
+  },
+  {
+   "frame": 960,
+   "kind": "cloth"
+  },
+  {
+   "frame": 964,
+   "kind": "piano"
+  },
+  {
+   "frame": 1018,
+   "kind": "cloth"
+  },
+  {
+   "frame": 1057,
+   "kind": "heart"
+  },
+  {
+   "frame": 1068,
+   "kind": "heart"
+  },
+  {
+   "frame": 1078,
+   "kind": "heart"
+  },
+  {
+   "frame": 1057,
+   "kind": "fork"
+  },
+  {
+   "frame": 1068,
+   "kind": "fork"
+  },
+  {
+   "frame": 1078,
+   "kind": "fork"
+  }
+ ],
+ "beds": [
+  {
+   "kind": "room",
+   "from": 0,
+   "to": 1646,
+   "gain": 1,
+   "fadeIn": 2,
+   "fadeOut": 2
+  },
+  {
+   "kind": "hum",
+   "from": 46,
+   "to": 76,
+   "gain": 0.55
+  },
+  {
+   "kind": "hum",
+   "from": 960,
+   "to": 1010,
+   "gain": 0.5,
+   "fadeIn": 10,
+   "fadeOut": 10
+  },
+  {
+   "kind": "air",
+   "from": 126,
+   "to": 330,
+   "gain": 0.9,
+   "fadeIn": 14,
+   "fadeOut": 20
+  }
+ ]
+}

@@ -1,0 +1,8 @@
+{
+  "method": "waveform/level checks; no listening claim",
+  "active_voice_rms": 0.08503003234052874,
+  "music_relative_db_active": -16.75123277629429,
+  "effects_relative_db_active": -18.701316739200568,
+  "mix_master_frames": 1523200,
+  "original_audio_sha256": "e2840643f9f771a24a6103d10fa6cb202f2f348846b08ee3e34693fcc79d9fae"
+}

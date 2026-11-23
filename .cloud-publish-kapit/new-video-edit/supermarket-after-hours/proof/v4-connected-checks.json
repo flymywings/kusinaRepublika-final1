@@ -1,0 +1,13 @@
+{
+  "frames": 1590,
+  "bridges": [
+    105,
+    170,
+    252,
+    517
+  ],
+  "maxCameraStep": 0.1657168464334556,
+  "maxFovStep": 0.8041517805020533,
+  "identitySwitch": "outside frame",
+  "scope": "camera/state integrity; creative motion review required"
+}

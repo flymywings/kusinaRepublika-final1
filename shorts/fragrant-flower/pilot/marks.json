@@ -1,0 +1,7 @@
+{
+ "hook":   {"fork": 0.72, "chair": 0.89, "door": 1.0, "bell": 1.14},
+ "flight": {"fork": 3.90, "chair": 4.07, "door": 4.2, "bell": 4.32},
+ "replay": {"fork": 13.47, "chair": 13.64, "bell": 13.89},
+ "box": 10.5,
+ "offscreen": ["hook.fork", "hook.chair", "replay.bell"]
+}

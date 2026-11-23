@@ -1,0 +1,127 @@
+[
+  {
+    "id": "DragonHook",
+    "offset": 0,
+    "grid": "6x5",
+    "file": "C:\\Users\\Win 10\\Downloads\\new video edit\\dragon-fire-insurance\\proof\\DragonHook-proof.mp4",
+    "sha256": "28c1b5914e5aef777dc745c4864879502a37148ada01ac89701a3466d0b65eee",
+    "metadata": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 540,
+          "height": 960,
+          "r_frame_rate": "30/1",
+          "nb_frames": "180",
+          "side_data_list": [
+            {}
+          ]
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "sample_rate": "48000",
+          "channels": 2,
+          "r_frame_rate": "0/0",
+          "nb_frames": "284"
+        }
+      ],
+      "format": {
+        "duration": "6.016000"
+      }
+    },
+    "decode": "pass",
+    "blackOrFrozen": [
+      "[Parsed_freezedetect_1 @ 000002327cd65a00] lavfi.freezedetect.freeze_start: 2.933333",
+      "[Parsed_freezedetect_1 @ 000002327cd65a00] lavfi.freezedetect.freeze_end: 3.4"
+    ],
+    "loudness": "Summary:\r\n\r\n  Integrated loudness:\r\n    I:         -20.3 LUFS\r\n    Threshold: -30.6 LUFS\r\n\r\n  Loudness range:\r\n    LRA:         1.7 LU\r\n    Threshold: -40.6 LUFS\r\n    LRA low:   -21.7 LUFS\r\n    LRA high:  -20.0 LUFS\r\n\r\n  True peak:\r\n    Peak:       -7.2 dBFS\r\n[out#0/null @ 000002327adb5880] video:75KiB audio:1128KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown\r\nframe=  180 fps=0.0 q=-0.0 Lsize=N/A time=00:00:06.01 bitrate=N/A speed=  58x elapsed=0:00:00.10    \r\n",
+    "listeningReview": false
+  },
+  {
+    "id": "DragonClaim",
+    "offset": 398,
+    "grid": "7x6",
+    "file": "C:\\Users\\Win 10\\Downloads\\new video edit\\dragon-fire-insurance\\proof\\DragonClaim-proof.mp4",
+    "sha256": "3f1b6a04079f593922ce1b81964de5e478a95138c98c7d74e61b425d61d32f78",
+    "metadata": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 540,
+          "height": 960,
+          "r_frame_rate": "30/1",
+          "nb_frames": "245",
+          "side_data_list": [
+            {}
+          ]
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "sample_rate": "48000",
+          "channels": 2,
+          "r_frame_rate": "0/0",
+          "nb_frames": "385"
+        }
+      ],
+      "format": {
+        "duration": "8.171000"
+      }
+    },
+    "decode": "pass",
+    "blackOrFrozen": [],
+    "loudness": "Summary:\r\n\r\n  Integrated loudness:\r\n    I:         -20.7 LUFS\r\n    Threshold: -31.3 LUFS\r\n\r\n  Loudness range:\r\n    LRA:         2.4 LU\r\n    Threshold: -41.3 LUFS\r\n    LRA low:   -22.6 LUFS\r\n    LRA high:  -20.3 LUFS\r\n\r\n  True peak:\r\n    Peak:       -4.5 dBFS\r\n[out#0/null @ 000001b890716200] video:101KiB audio:1532KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown\r\nframe=  245 fps=0.0 q=-0.0 Lsize=N/A time=00:00:08.17 bitrate=N/A speed=66.4x elapsed=0:00:00.12    \r\n",
+    "listeningReview": false
+  },
+  {
+    "id": "DragonEnding",
+    "offset": 764,
+    "grid": "8x6",
+    "file": "C:\\Users\\Win 10\\Downloads\\new video edit\\dragon-fire-insurance\\proof\\DragonEnding-proof.mp4",
+    "sha256": "9d2316b207300e655b59a1ca11e1543bd7630a082e3f28e9902f6ad03978ea50",
+    "metadata": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 540,
+          "height": 960,
+          "r_frame_rate": "30/1",
+          "nb_frames": "283",
+          "side_data_list": [
+            {}
+          ]
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "sample_rate": "48000",
+          "channels": 2,
+          "r_frame_rate": "0/0",
+          "nb_frames": "445"
+        }
+      ],
+      "format": {
+        "duration": "9.451000"
+      }
+    },
+    "decode": "pass",
+    "blackOrFrozen": [
+      "[Parsed_freezedetect_1 @ 000001b7e04a69c0] lavfi.freezedetect.freeze_start: 1.966667",
+      "[Parsed_freezedetect_1 @ 000001b7e04a69c0] lavfi.freezedetect.freeze_end: 2.366667",
+      "[Parsed_freezedetect_1 @ 000001b7e04a69c0] lavfi.freezedetect.freeze_start: 6.133333",
+      "[Parsed_freezedetect_1 @ 000001b7e04a69c0] lavfi.freezedetect.freeze_end: 6.6"
+    ],
+    "loudness": "Summary:\r\n\r\n  Integrated loudness:\r\n    I:         -21.1 LUFS\r\n    Threshold: -31.4 LUFS\r\n\r\n  Loudness range:\r\n    LRA:         1.8 LU\r\n    Threshold: -41.5 LUFS\r\n    LRA low:   -22.5 LUFS\r\n    LRA high:  -20.6 LUFS\r\n\r\n  True peak:\r\n    Peak:       -6.4 dBFS\r\n[out#0/null @ 000001b7de4e47c0] video:117KiB audio:1772KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown\r\nframe=  283 fps=0.0 q=-0.0 Lsize=N/A time=00:00:09.45 bitrate=N/A speed=75.1x elapsed=0:00:00.12    \r\n",
+    "listeningReview": false
+  }
+]

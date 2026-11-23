@@ -1,0 +1,47 @@
+{
+  "date": "2026-11-19",
+  "provenance": "Official anime character and episode1 pages; observed rendered assets exported through browser pageAssets",
+  "assets": [
+    {
+      "name": "rintaro-school.png",
+      "url": "https://kaoruhana-anime.com/assets/img/chara/img_main_chara_1.png",
+      "sha256": "2ca65034fc05cd953c0f6b27305b3c2784f6ce7210a79650e03779d877f28024"
+    },
+    {
+      "name": "kaoruko-school.png",
+      "url": "https://kaoruhana-anime.com/assets/img/chara/img_main_chara_2.png",
+      "sha256": "f3f18819e4415b846b2f0dcccfe58b7e968cf933200cdf15e7d2dc400331617b"
+    },
+    {
+      "name": "rintaro-expressions.png",
+      "url": "https://kaoruhana-anime.com/assets/img/chara/img_sub_chara_1.png",
+      "sha256": "3d90c97613a0f48b285b9b53712d7d9d68f62e3f01b514a3c254b1c260f25095"
+    },
+    {
+      "name": "kaoruko-expressions.png",
+      "url": "https://kaoruhana-anime.com/assets/img/chara/img_sub_chara_2.png",
+      "sha256": "8c4fdf07b4e4c34fc6d862d2089cbf0b529916e203b73f8620f68e260149933f"
+    },
+    {
+      "name": "episode-1-01.jpg",
+      "url": "https://kaoruhana-anime.com/story/SYS/CONTENTS/story_4079_photo_1751276525484413907",
+      "sha256": "40b115c394d9e9d3344937b0fa4e1b416a00f452f0c4ea6dba647de10301df96"
+    },
+    {
+      "name": "episode-1-02.jpg",
+      "url": "https://kaoruhana-anime.com/story/SYS/CONTENTS/story_4079_photo_1751276526133735614",
+      "sha256": "916a91316dc2a6ec8b1f494d5bfcbadbe5d560a7d48e7e1bebc90f63df35a1cc"
+    },
+    {
+      "name": "episode-1-03.jpg",
+      "url": "https://kaoruhana-anime.com/story/SYS/CONTENTS/story_4079_photo_1751276525727100714",
+      "sha256": "bea2d73230777b851f2078c8e269d651455787cf2cc5906eef07d55b8345117c"
+    },
+    {
+      "name": "episode-1-04.jpg",
+      "url": "https://kaoruhana-anime.com/story/SYS/CONTENTS/story_4079_photo_1751276525969735671",
+      "sha256": "3d450b5e44abf80c67f7ab0d0e657fef4873fbadab95c2527a304fe1ae675de8"
+    }
+  ],
+  "usage": "Private character design reference, not standalone film art"
+}

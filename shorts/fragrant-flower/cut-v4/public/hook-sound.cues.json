@@ -1,0 +1,76 @@
+{
+ "sampleRate": 48000,
+ "frames": 216,
+ "voiceGainDb": 0,
+ "addedSoundGainDb": -2.52,
+ "voiceSpeechRmsDbfs": -15.9,
+ "note": "ticks, clinks, tap, bell and piano are each 7-9 dB under the voice speech RMS; beds 10 dB under. Same fork buffer at every tick.",
+ "mixPeakDbfs": -1.49,
+ "events": [
+  {
+   "frame": 0,
+   "time": 0,
+   "name": "fork tick"
+  },
+  {
+   "frame": 11,
+   "time": 0.367,
+   "name": "fork tick"
+  },
+  {
+   "frame": 21,
+   "time": 0.7,
+   "name": "fork tick"
+  },
+  {
+   "frame": 32,
+   "time": 1.067,
+   "name": "fork tick"
+  },
+  {
+   "frame": 42,
+   "time": 1.4,
+   "name": "fork tick"
+  },
+  {
+   "frame": 72,
+   "time": 2.4,
+   "name": "low felt-piano note, on \"then\""
+  },
+  {
+   "frame": 80,
+   "time": 2.667,
+   "name": "door bell, offscreen, on \"came\""
+  },
+  {
+   "frame": 99,
+   "time": 3.3,
+   "name": "coin 1 clink, on \"buy\""
+  },
+  {
+   "frame": 103,
+   "time": 3.433,
+   "name": "coin 2 clink"
+  },
+  {
+   "frame": 112,
+   "time": 3.733,
+   "name": "box tap, on \"cake\""
+  },
+  {
+   "frame": 185,
+   "time": 6.167,
+   "name": "earring tick, on \"pierced\" (quiet)"
+  },
+  {
+   "frame": 46,
+   "time": 1.533,
+   "name": "case hum in (under \"his face\")"
+  },
+  {
+   "frame": 140,
+   "time": 4.667,
+   "name": "street air starts rising"
+  }
+ ]
+}

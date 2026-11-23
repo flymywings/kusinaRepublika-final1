@@ -1,0 +1,356 @@
+[
+ {
+  "start": 0.1,
+  "end": 0.67,
+  "word": "He thinks",
+  "frames": 18
+ },
+ {
+  "start": 0.67,
+  "end": 0.92,
+  "word": "his",
+  "frames": 7
+ },
+ {
+  "start": 0.92,
+  "end": 1.28,
+  "word": "face",
+  "frames": 11
+ },
+ {
+  "start": 1.28,
+  "end": 1.75,
+  "word": "scared",
+  "frames": 14
+ },
+ {
+  "start": 1.75,
+  "end": 2.08,
+  "word": "this",
+  "frames": 10
+ },
+ {
+  "start": 2.08,
+  "end": 2.5,
+  "word": "girl away.",
+  "frames": 12
+ },
+ {
+  "start": 2.9,
+  "end": 3.22,
+  "word": "Then",
+  "frames": 10
+ },
+ {
+  "start": 3.22,
+  "end": 3.46,
+  "word": "she",
+  "frames": 7
+ },
+ {
+  "start": 3.46,
+  "end": 4.02,
+  "word": "notices",
+  "frames": 17
+ },
+ {
+  "start": 4.02,
+  "end": 4.26,
+  "word": "him",
+  "frames": 7
+ },
+ {
+  "start": 4.26,
+  "end": 4.5,
+  "word": "and",
+  "frames": 7
+ },
+ {
+  "start": 4.5,
+  "end": 4.98,
+  "word": "rushes",
+  "frames": 15
+ },
+ {
+  "start": 4.98,
+  "end": 5.18,
+  "word": "out.",
+  "frames": 6
+ },
+ {
+  "start": 5.5,
+  "end": 5.65,
+  "word": "He",
+  "frames": 5
+ },
+ {
+  "start": 5.65,
+  "end": 6.19,
+  "word": "assumes",
+  "frames": 16
+ },
+ {
+  "start": 6.19,
+  "end": 6.49,
+  "word": "he's",
+  "frames": 9
+ },
+ {
+  "start": 6.49,
+  "end": 6.95,
+  "word": "ruined",
+  "frames": 14
+ },
+ {
+  "start": 6.95,
+  "end": 7.24,
+  "word": "it.",
+  "frames": 9
+ },
+ {
+  "start": 7.38,
+  "end": 7.84,
+  "word": "So when",
+  "frames": 14
+ },
+ {
+  "start": 7.84,
+  "end": 8.07,
+  "word": "she",
+  "frames": 7
+ },
+ {
+  "start": 8.07,
+  "end": 8.78,
+  "word": "returns,",
+  "frames": 21
+ },
+ {
+  "start": 8.78,
+  "end": 9.12,
+  "word": "he's",
+  "frames": 10
+ },
+ {
+  "start": 9.12,
+  "end": 9.56,
+  "word": "ready",
+  "frames": 13
+ },
+ {
+  "start": 9.56,
+  "end": 9.73,
+  "word": "to",
+  "frames": 5
+ },
+ {
+  "start": 9.73,
+  "end": 10.19,
+  "word": "apologise.",
+  "frames": 14
+ },
+ {
+  "start": 10.54,
+  "end": 10.84,
+  "word": "But",
+  "frames": 9
+ },
+ {
+  "start": 10.84,
+  "end": 11.13,
+  "word": "she's",
+  "frames": 8
+ },
+ {
+  "start": 11.13,
+  "end": 11.4,
+  "word": "the",
+  "frames": 8
+ },
+ {
+  "start": 11.4,
+  "end": 11.57,
+  "word": "one",
+  "frames": 6
+ },
+ {
+  "start": 11.57,
+  "end": 12.04,
+  "word": "saying",
+  "frames": 14
+ },
+ {
+  "start": 12.04,
+  "end": 12.33,
+  "word": "sorry.",
+  "frames": 8
+ },
+ {
+  "start": 13.66,
+  "end": 13.82,
+  "word": "She",
+  "frames": 5
+ },
+ {
+  "start": 13.82,
+  "end": 13.98,
+  "word": "was",
+  "frames": 5
+ },
+ {
+  "start": 13.98,
+  "end": 14.57,
+  "word": "embarrassed",
+  "frames": 18
+ },
+ {
+  "start": 14.57,
+  "end": 14.84,
+  "word": "about",
+  "frames": 8
+ },
+ {
+  "start": 14.84,
+  "end": 15.11,
+  "word": "being",
+  "frames": 8
+ },
+ {
+  "start": 15.11,
+  "end": 15.5,
+  "word": "watched",
+  "frames": 11
+ },
+ {
+  "start": 15.5,
+  "end": 15.82,
+  "word": "while",
+  "frames": 10
+ },
+ {
+  "start": 15.82,
+  "end": 16.24,
+  "word": "eating.",
+  "frames": 13
+ },
+ {
+  "start": 16.52,
+  "end": 16.72,
+  "word": "Now",
+  "frames": 6
+ },
+ {
+  "start": 16.72,
+  "end": 17.28,
+  "word": "she wants",
+  "frames": 17
+ },
+ {
+  "start": 17.28,
+  "end": 17.7,
+  "word": "to treat",
+  "frames": 12
+ },
+ {
+  "start": 17.7,
+  "end": 17.84,
+  "word": "him.",
+  "frames": 5
+ },
+ {
+  "start": 18.14,
+  "end": 18.44,
+  "word": "She",
+  "frames": 9
+ },
+ {
+  "start": 18.44,
+  "end": 18.67,
+  "word": "tells",
+  "frames": 7
+ },
+ {
+  "start": 18.67,
+  "end": 19,
+  "word": "him",
+  "frames": 9
+ },
+ {
+  "start": 19,
+  "end": 19.2,
+  "word": "she's",
+  "frames": 6
+ },
+ {
+  "start": 19.2,
+  "end": 19.53,
+  "word": "never",
+  "frames": 10
+ },
+ {
+  "start": 19.53,
+  "end": 19.87,
+  "word": "found",
+  "frames": 11
+ },
+ {
+  "start": 19.87,
+  "end": 20.06,
+  "word": "him",
+  "frames": 5
+ },
+ {
+  "start": 20.06,
+  "end": 20.24,
+  "word": "scary.",
+  "frames": 6
+ },
+ {
+  "start": 21.62,
+  "end": 21.92,
+  "word": "He's",
+  "frames": 9
+ },
+ {
+  "start": 21.92,
+  "end": 22.12,
+  "word": "used to",
+  "frames": 6
+ },
+ {
+  "start": 22.12,
+  "end": 22.48,
+  "word": "hearing",
+  "frames": 11
+ },
+ {
+  "start": 22.48,
+  "end": 22.67,
+  "word": "what",
+  "frames": 6
+ },
+ {
+  "start": 22.67,
+  "end": 22.98,
+  "word": "people",
+  "frames": 9
+ },
+ {
+  "start": 22.98,
+  "end": 23.35,
+  "word": "think",
+  "frames": 11
+ },
+ {
+  "start": 23.35,
+  "end": 23.69,
+  "word": "of his",
+  "frames": 10
+ },
+ {
+  "start": 23.69,
+  "end": 24.02,
+  "word": "face.",
+  "frames": 10
+ }
+]

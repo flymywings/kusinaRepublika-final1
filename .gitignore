@@ -1,0 +1,16 @@
+
+node_modules/
+__pycache__/
+uv-cache/
+.next/
+.audio-deps/
+.reference-tools/
+.diagnostics/
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+bom_work/deps/
+bom_work/pdfdeps/
+cloud-video-handoff/reference-videos/

@@ -1,0 +1,19 @@
+{
+  "acting.ts": "e682a9a30a38da49bd7cb1c4358648043f9acbbebdfb6948b34c1835fbf1fbe1",
+  "caption-display.ts": "fc4131d932afc3d01123647fbe0f3d3fa497d4e7c83efc738c9431886f88f7c4",
+  "captions.ts": "69c5393c45d2f87fefdb545ae66ae90da4614e1892ebebd32f6fbb3b46a9ca6e",
+  "Cast.tsx": "273f789fcd1af0b8fff919510816a41c2a075af045622d439c81b55053e5a152",
+  "check.cjs": "aaf7825442169e4fade2cbff5e06ceda881c6b1b7877bd26db360c1c2dad8c37",
+  "contract.ts": "e1fff0349ddc5465f742f927e7c0a4f4930420d6e631006258218cafeba4b4da",
+  "draw.ts": "c6fd589cadc657722bc0333f16a73d9659ce4766da492b6952ad10004fa9580e",
+  "index.tsx": "22f63c6df237ac505abc29749c2013b8f782aa969f7c59cfffab7c5e8e22efb8",
+  "NARRATION.txt": "510ce0e88f3211c9f1056e38c7f539bb3429f12d3d4414d829a11ed27024095a",
+  "pace.ts": "e3ab12ca2b08d6f5c28cc0ef1547ba1deca7a15d38a6e74b090ffe9a1bfd61e9",
+  "paint.ts": "bd20d59a18e9ca1868ecc18ecc2b54e39e735d9b3110ba96027186fe5038466c",
+  "props.tsx": "02bbb372f786ee8651e07b4bd4ecbc8b4627f753e81a1fdca1ec0be3de437e2b",
+  "render.mjs": "43aaf8e6a5a577760a074a624d3f8163063ad189d7f8e9e38c5a76addb6fec7b",
+  "story.ts": "7a117b413517f114ad2eb0ffc40bec54ed037ff69553b7d0ae8b3c00e734c81f",
+  "World.tsx": "7cf3bbf5de3f9e4bbc74a9e3c499712be452fe68213c85522a98eec1e0504ea9",
+  "public\\mix-paced.wav": "8d0a52de447e646c6f2e2bc69404f56baa516d31c30f379e221036cf2d4e79e0",
+  "public\\narration.mp3": "e2840643f9f771a24a6103d10fa6cb202f2f348846b08ee3e34693fcc79d9fae"
+}

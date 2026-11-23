@@ -1,0 +1,153 @@
+{
+  "approvedExport": {
+    "originalPath": "C:\\Users\\Win 10\\Downloads\\new video edit\\supermarket-after-hours\\proof\\After Hours - v8 - 2K.mp4",
+    "name": "After Hours - v8 - 2K.mp4",
+    "bytes": 49370479,
+    "expectedSha256": "d1db828fae00ffe835d5ea5df5c5b3bdfe9106fd037d7f2f689ab5d33663fad8",
+    "actualSha256": "d1db828fae00ffe835d5ea5df5c5b3bdfe9106fd037d7f2f689ab5d33663fad8",
+    "matches": true
+  },
+  "referenceCount": 20,
+  "references": [
+    {
+      "id": "01",
+      "originalPath": "C:\\Users\\Win 10\\Downloads\\How a Mirror Rigged a Horse Race.mp4",
+      "bundlePath": "reference-videos/01-How a Mirror Rigged a Horse Race.mp4",
+      "bytes": 9417231,
+      "sha256": "50f5cdb20b49f0f84473fb86110a0c34e2907f06f8d0f63606a446100404034e"
+    },
+    {
+      "id": "02",
+      "originalPath": "C:\\Users\\Win 10\\Downloads\\Why Perfect Railroads Don't Work.mp4",
+      "bundlePath": "reference-videos/02-Why Perfect Railroads Don't Work.mp4",
+      "bytes": 6073734,
+      "sha256": "1591c7b5fc8df95c3092586bbaaae0c4fdc633e54eac79fb5ce1db94dc645656"
+    },
+    {
+      "id": "03",
+      "originalPath": "C:\\Users\\Win 10\\Downloads\\Why Sailors Carried Storm Oil.mp4",
+      "bundlePath": "reference-videos/03-Why Sailors Carried Storm Oil.mp4",
+      "bytes": 8786519,
+      "sha256": "425ce671f48c68cf7725e793707e0713158b6afdf5b00ad7b3f32aaa0fbd12a1"
+    },
+    {
+      "id": "04",
+      "originalPath": "C:\\Users\\Win 10\\Downloads\\new video edit\\reference-study\\04-ZDy3xXA2iHk.mp4",
+      "bundlePath": "reference-videos/04-ZDy3xXA2iHk.mp4",
+      "bytes": 3531158,
+      "sha256": "789122ca05b826eec4ed49a031eee6a0d99e57fe930d156af97d953f22037fd8"
+    },
+    {
+      "id": "05",
+      "originalPath": "C:\\Users\\Win 10\\Downloads\\new video edit\\reference-study\\05-LC8hYwUZ-kU.mp4",
+      "bundlePath": "reference-videos/05-LC8hYwUZ-kU.mp4",
+      "bytes": 3053684,
+      "sha256": "58c6bf76c5a62395796df29ec1b12f3f3ad13d2135550affe122a7baeebfdb6a"
+    },
+    {
+      "id": "06",
+      "originalPath": "C:\\Users\\Win 10\\Downloads\\new video edit\\reference-study\\06-t3OXkhlI6NQ.mp4",
+      "bundlePath": "reference-videos/06-t3OXkhlI6NQ.mp4",
+      "bytes": 4040670,
+      "sha256": "cb5e197187a973f865cf5119070f9caf905decf0ba6fccfcbe83eb6554b528d8"
+    },
+    {
+      "id": "07",
+      "originalPath": "C:\\Users\\Win 10\\Downloads\\new video edit\\reference-study\\07-DEe0iKH4KIw.mp4",
+      "bundlePath": "reference-videos/07-DEe0iKH4KIw.mp4",
+      "bytes": 3323958,
+      "sha256": "f03bffe31de83800d567ab0b70f90b7d4a1f27ae581a7e6f33457cf17e4d5765"
+    },
+    {
+      "id": "08",
+      "originalPath": "C:\\Users\\Win 10\\Downloads\\new video edit\\reference-study\\08-GM9UKnZ6JFw.mp4",
+      "bundlePath": "reference-videos/08-GM9UKnZ6JFw.mp4",
+      "bytes": 3141602,
+      "sha256": "79c822768ca378fc4dfd296e0fa7e1d57ef4bf80dfa490ce11008e2a5c3d7e67"
+    },
+    {
+      "id": "09",
+      "originalPath": "C:\\Users\\Win 10\\Downloads\\new video edit\\reference-study\\09-VKsamN3Fk4U.mp4",
+      "bundlePath": "reference-videos/09-VKsamN3Fk4U.mp4",
+      "bytes": 3025855,
+      "sha256": "f21625b6832cd0231a3581ab556b65687082739167b380c157a1421aa80e9248"
+    },
+    {
+      "id": "10",
+      "originalPath": "C:\\Users\\Win 10\\Downloads\\new video edit\\reference-study\\10-0m6G8pDtzNs.mp4",
+      "bundlePath": "reference-videos/10-0m6G8pDtzNs.mp4",
+      "bytes": 3295549,
+      "sha256": "bed75dbcc24b6632fd0c2d51ac8de882711700c283c6bd90c9b0dae5ee78b952"
+    },
+    {
+      "id": "11",
+      "originalPath": "C:\\Users\\Win 10\\Downloads\\new video edit\\reference-study\\11-nzbkkEZFM8g.mp4",
+      "bundlePath": "reference-videos/11-nzbkkEZFM8g.mp4",
+      "bytes": 3232269,
+      "sha256": "678a95dfaeca2a07391c50ec368df4ac3fa9e3ba1ce3eeafb6132dd1497de49a"
+    },
+    {
+      "id": "12",
+      "originalPath": "C:\\Users\\Win 10\\Downloads\\new video edit\\reference-study\\12-VS1Z_Q-Klt8.mp4",
+      "bundlePath": "reference-videos/12-VS1Z_Q-Klt8.mp4",
+      "bytes": 3468498,
+      "sha256": "2b4f1f9407610242e58b029f7c127842ac1f8d6494d0ffa76607309732785511"
+    },
+    {
+      "id": "13",
+      "originalPath": "C:\\Users\\Win 10\\Downloads\\new video edit\\reference-study\\13-lnYLIWP2l-I.mp4",
+      "bundlePath": "reference-videos/13-lnYLIWP2l-I.mp4",
+      "bytes": 3419619,
+      "sha256": "059e5ae0e6ed824a79b1552bc8ce925f289baa26b8824b5bd689480ddff1272e"
+    },
+    {
+      "id": "14",
+      "originalPath": "C:\\Users\\Win 10\\Downloads\\new video edit\\reference-study\\14-jpFJ8Z_F-qU.mp4",
+      "bundlePath": "reference-videos/14-jpFJ8Z_F-qU.mp4",
+      "bytes": 2194657,
+      "sha256": "aef0232048987755132f2ef8862ba22c41b2cbf7339c22b300b6423beba200b6"
+    },
+    {
+      "id": "15",
+      "originalPath": "C:\\Users\\Win 10\\Downloads\\new video edit\\reference-study\\15-PLe2Gu3FDuA.mp4",
+      "bundlePath": "reference-videos/15-PLe2Gu3FDuA.mp4",
+      "bytes": 2367620,
+      "sha256": "bfd6f5bb2f33e21f5e6e0c3086a832c0a605af0573c0977aa4dd6cc231dba52f"
+    },
+    {
+      "id": "16",
+      "originalPath": "C:\\Users\\Win 10\\Downloads\\new video edit\\reference-study\\16-_sUAXTvJquk.mp4",
+      "bundlePath": "reference-videos/16-_sUAXTvJquk.mp4",
+      "bytes": 1887630,
+      "sha256": "3ff516a32404dbb9515bd394ee1dfd18addbf6c4871bea63fe446cb26fd9a001"
+    },
+    {
+      "id": "17",
+      "originalPath": "C:\\Users\\Win 10\\Downloads\\new video edit\\reference-study\\17-eQR3pgMiUF0.mp4",
+      "bundlePath": "reference-videos/17-eQR3pgMiUF0.mp4",
+      "bytes": 2303620,
+      "sha256": "c20b631ee27e46f6c76b2dc778eba8b863a5d877ca69217db13461954babc582"
+    },
+    {
+      "id": "18",
+      "originalPath": "C:\\Users\\Win 10\\Downloads\\new video edit\\reference-study\\18-CJwgTrfrHL0.mp4",
+      "bundlePath": "reference-videos/18-CJwgTrfrHL0.mp4",
+      "bytes": 1686717,
+      "sha256": "bc5906d5f1e6ab6c7ccc303f515899f354fba8f433fc155df6a65e4374324fec"
+    },
+    {
+      "id": "19",
+      "originalPath": "C:\\Users\\Win 10\\Downloads\\new video edit\\reference-study\\19-hdhggSABEws.mp4",
+      "bundlePath": "reference-videos/19-hdhggSABEws.mp4",
+      "bytes": 2183286,
+      "sha256": "eac020b24c79182a0ac7d9d56084a7095fecc3326ff5ea47584532861a4808a6"
+    },
+    {
+      "id": "20",
+      "originalPath": "C:\\Users\\Win 10\\Downloads\\new video edit\\reference-study\\20-TgyHSIttwdM.mp4",
+      "bundlePath": "reference-videos/20-TgyHSIttwdM.mp4",
+      "bytes": 2552927,
+      "sha256": "a7a1a5d87f3a5b5c69af84b35056f14c1cb442bd2f74ada09e70a4754143a365"
+    }
+  ]
+}

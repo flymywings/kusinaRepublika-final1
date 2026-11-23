@@ -1,0 +1,13 @@
+{
+  "method": "Local FFmpeg Whisper word timings matched against exact approved transcript; signal/text alignment, not a listening review.",
+  "words": 145,
+  "differences": [
+    {
+      "i": 49,
+      "word": "him",
+      "recognized": "in"
+    }
+  ],
+  "duration": 52.349396,
+  "frames": 1590
+}

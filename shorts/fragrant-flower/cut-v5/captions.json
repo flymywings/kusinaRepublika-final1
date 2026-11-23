@@ -1,0 +1,92 @@
+[
+ {
+  "from": 2,
+  "to": 10,
+  "word": "This"
+ },
+ {
+  "from": 10,
+  "to": 22,
+  "word": "girl"
+ },
+ {
+  "from": 22,
+  "to": 26,
+  "word": "looked"
+ },
+ {
+  "from": 26,
+  "to": 49,
+  "word": "terrified"
+ },
+ {
+  "from": 49,
+  "to": 54,
+  "word": "of his"
+ },
+ {
+  "from": 54,
+  "to": 63,
+  "word": "face..."
+ },
+ {
+  "from": 72,
+  "to": 80,
+  "word": "then"
+ },
+ {
+  "from": 80,
+  "to": 88,
+  "word": "came"
+ },
+ {
+  "from": 88,
+  "to": 95,
+  "word": "back"
+ },
+ {
+  "from": 95,
+  "to": 109,
+  "word": "to buy"
+ },
+ {
+  "from": 109,
+  "to": 122,
+  "word": "him cake."
+ },
+ {
+  "from": 137,
+  "to": 149,
+  "word": "Rintaro"
+ },
+ {
+  "from": 149,
+  "to": 156,
+  "word": "is"
+ },
+ {
+  "from": 156,
+  "to": 170,
+  "word": "tall,"
+ },
+ {
+  "from": 170,
+  "to": 185,
+  "word": "blond,"
+ },
+ {
+  "from": 185,
+  "to": 200,
+  "word": "pierced,"
+ },
+ {
+  "from": 200,
+  "to": 209,
+  "word": "and so"
+ },
+ {
+  "from": 209,
+  "to": 232,
+  "word": "intimidating"
+ }
+]

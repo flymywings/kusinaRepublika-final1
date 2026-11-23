@@ -1,0 +1,12 @@
+
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+*.mov filter=lfs diff=lfs merge=lfs -text
+*.mkv filter=lfs diff=lfs merge=lfs -text
+*.webm filter=lfs diff=lfs merge=lfs -text
+*.wav filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.blend filter=lfs diff=lfs merge=lfs -text
+*.whl filter=lfs diff=lfs merge=lfs -text
+"/shorts/fragrant-flower/cut-v4/tools/model.bin" filter=lfs diff=lfs merge=lfs -text
+"/shorts/fragrant-flower/cut-v5/tools/model.bin" filter=lfs diff=lfs merge=lfs -text
+"/shorts/fragrant-flower/cut-v6/tools/model.bin" filter=lfs diff=lfs merge=lfs -text

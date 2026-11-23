@@ -1,0 +1,40 @@
+{
+  "baseline": {
+    "words": 120,
+    "audioSeconds": 45.32245833333333,
+    "wpm": 158.8616386835445
+  },
+  "output": {
+    "audioSeconds": 37.29004166666667,
+    "exportSeconds": 37.940041666666666,
+    "frames": 1139,
+    "wpm": 193.08103928551077,
+    "tempo": 1.2932522409929306,
+    "targetWpm": 193,
+    "targetAudioSeconds": 37.30569948186528,
+    "errorSamples": -752,
+    "errorFrames": -0.4697344559584593,
+    "method": "pitch-preserving ffmpeg atempo on speech cores; original quiet and guards copied"
+  },
+  "quiet": {
+    "intervals": 20,
+    "durationSeconds": 8.9293125,
+    "exactPcmUnchanged": true,
+    "durationsUnchanged": true
+  },
+  "edgeGuards": {
+    "samples": 19200,
+    "durationSeconds": 0.4,
+    "exactPcmPreserved": true
+  },
+  "captions": {
+    "sameWords": true,
+    "count": 120,
+    "finalEndFrame": 1139
+  },
+  "map": {
+    "segments": 80,
+    "monotonic": true,
+    "maxRoundTripFrames": 4.547473508864641e-13
+  }
+}

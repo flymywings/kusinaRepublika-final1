@@ -1,0 +1,14 @@
+{
+  "file": "C:\\Users\\Win 10\\Downloads\\new video edit\\supermarket-after-hours\\proof\\After Hours - 2K.mp4",
+  "sha256": "C71B27851F63A2940E798289F0E47BC19F5747FC3A9825F49653BD65A0EE9C5C",
+  "width": 1440,
+  "height": 2560,
+  "fps": 30,
+  "frames": 1590,
+  "videoSeconds": 53,
+  "bytes": 41781260,
+  "decode": "All 1590 video frames and audio decoded without error",
+  "visualReview": "Whole-film chronological samples plus denser samples from five clips; final export critical frames 470,665,1095 inspected",
+  "audioReview": "Stereo AAC measured -16.6 LUFS integrated, -4.4 dBTP; original MP3 unchanged; no continuous listening review",
+  "acceptance": "User final acceptance pending"
+}

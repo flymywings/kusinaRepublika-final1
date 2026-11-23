@@ -1,0 +1,164 @@
+{
+  "file": "C:\\Users\\Win 10\\Downloads\\new video edit\\supermarket-after-hours\\proof\\After Hours - v7 - 2K.mp4",
+  "sha256": "6e358037bed0eb5bd8c0d0cc13d91e29f32ef4bd61b444efe7e43e98f8681415",
+  "bytes": 48759327,
+  "width": 1440,
+  "height": 2560,
+  "fps": 30,
+  "frames": 1139,
+  "videoSeconds": 37.966667,
+  "containerSeconds": 37.973,
+  "decode": "Entire video and audio decoded without error",
+  "decodedAudioSha256": "SHA256=c487ae8aeaba8d5759208a0285fbb0e281385a0bc5b0535ea4ccbc73e5ff70b1",
+  "sourceMixSha256": "22cb6de72067a646d80afdadc513cfb205ff6151a13a7edf3e4552a8922b8051",
+  "exportAudioCorrelation": [
+    {
+      "second": 0,
+      "correlation": 0.9999689945636928
+    },
+    {
+      "second": 4,
+      "correlation": 0.9999714241489963
+    },
+    {
+      "second": 8,
+      "correlation": 0.9999674200700344
+    },
+    {
+      "second": 12,
+      "correlation": 0.9999649299505877
+    },
+    {
+      "second": 16,
+      "correlation": 0.9999762817325719
+    },
+    {
+      "second": 20,
+      "correlation": 0.9999728194463747
+    },
+    {
+      "second": 24,
+      "correlation": 0.9999627640606855
+    },
+    {
+      "second": 28,
+      "correlation": 0.9999732059894794
+    },
+    {
+      "second": 32,
+      "correlation": 0.9999700157867126
+    },
+    {
+      "second": 35,
+      "correlation": 0.9999681099834687
+    }
+  ],
+  "pace": {
+    "audioSeconds": 37.29004166666667,
+    "exportSeconds": 37.940041666666666,
+    "frames": 1139,
+    "wpm": 193.08103928551077,
+    "tempo": 1.2932522409929306,
+    "targetWpm": 193,
+    "targetAudioSeconds": 37.30569948186528,
+    "errorSamples": -752,
+    "errorFrames": -0.4697344559584593,
+    "method": "pitch-preserving ffmpeg atempo on speech cores; original quiet and guards copied"
+  },
+  "quiet": {
+    "intervals": 20,
+    "durationSeconds": 8.9293125,
+    "exactPcmUnchanged": true,
+    "durationsUnchanged": true
+  },
+  "approvedAppearanceSha256": "7d235635a1a314a198720f973ce20803603827e6260bfed362f9fe079440570f",
+  "previousExportUnchanged": true,
+  "sources": {
+    "Cast.tsx": "7b75a8973bcc42583bccbb1a200ac43ddd39b67338aad6dfdd5cbaccfa8b3e34",
+    "CastSheet.tsx": "120c4701268989c2200bab261c2262deaa53ec46519e53ecffdc628b02a259d9",
+    "check-connected.cjs": "df59a2be4b84eea7e2b34fbfbdcf928cdf9a6d643e908dcd3cdb5a66e31e15f8",
+    "check-gait.cjs": "e81a2a45efc96140c1d377f97c770a40fda0b87fceb6c501176d364d0a40c853",
+    "check-v5.cjs": "d26e348d2b83acbf6eabe6c9377db0e125fc4cd8ecadfa4f2a27410e5008b950",
+    "check-v6.cjs": "712864214d650980268546d68606a692dadef6ab8b8ebe9d8ff285da117aae50",
+    "check-v7.cjs": "1e76b09f916d595c32668febb29b7d8b71b154dbba37e6aea366413b9be7eab7",
+    "check.cjs": "20e3db6b505a4b6427dc3b0acfb4d9e84fb1b2d870b8893235878fd745d7ddce",
+    "Film.tsx": "cb3d2af68938fab5e68d58d5a138f054edac17cfefdae9f04155ec8b7fbb3da1",
+    "gait.ts": "44fea340044faa23f9211baf0a006a3b9533033b54e48739bf876a9c515a0393",
+    "index.tsx": "e7b692d46f2cef85edc0f3d562b27369e782ff363c58331ed130b56d85f0f997",
+    "pace-193.mjs": "5eddad2e22869ed6ca805e2099fd403b82098e3f27d00a3312a8d0ea2ea2865a",
+    "pace-193.ts": "dd83634f776ea1989be4d68826bae3fa337ec6ad9a055647ef34f0379728089d",
+    "pace-r2.ts": "ed0d9f24a2fff1ab36db11ccdc8742f0be0d24df7231a2cb9130a5e0437f6cea",
+    "pace.mjs": "f50ad21375d6a10c86d25273f56ccd362bf75d200b31f213e45dabe7a6664467",
+    "pace.ts": "43ea9dce939d5324ee959652eddda28834cd0dfac55ec70874b8b5a0a81dece5",
+    "prepare.mjs": "7204ca2bb9f080cb8545c8a26b4dd5631bee09dc68baa1e17445ce9550cffe17",
+    "ReferenceCast.tsx": "c7e7e3a8bbee7304a1a94cf5db65ab22fafbb51df46887f3d92fc10d3ea859fc",
+    "render-cast-sheet.mjs": "344a244351436418a37cb262fa1538487d1f7e25f612a7a099688fc71b6acaa3",
+    "render.mjs": "1fc0b52733fa1658a2cea8b5685731b4dd1f188589014f27e15dd5fda7441b9f",
+    "sound-175.mjs": "889e9fa89c8c379f86a1ea3fe87111c79fcd0ca1cbcb1be6788c45eb7dae1c8a",
+    "sound-193.mjs": "c787c4c5515c552f23883cd2a1a6ef4d16afe24579a83f1e3c12212d08bc15b8",
+    "sound-r2.mjs": "a2ec74487f9cff3e0da35d9577795bcc0a0ecccd61b65d074d7a9f3f26db5f8c",
+    "sound.mjs": "e46e43fc4af733d5cdee25b02e4c473d8a2c36eacd305ddae072f3f7145d83e4",
+    "staging.ts": "83b41cdc671312733c36d4cf59f6c4b30d7b523ae1ad9297ce872691a45564c2",
+    "StoreMaterials.ts": "c9ecdf704187eba257c522578c796b7265dcee883d40a465b2013d424765fb32",
+    "StoreProps.tsx": "263d532c3ea36d8aff132a64c6652a71d2945e4fbca7812a9b0b06e1487e214c",
+    "story.ts": "19af5b446c47f8e52607b57d65907fbcdb966c0791a1d011dbf1a037eb62ef48",
+    "World.tsx": "6626a5489f9d8b17af860fe3664b8dc7352eff433073dfdcb8989af75336f466"
+  },
+  "visualReview": {
+    "status": "Lead inspected actual final-export samples; no additional material regression identified in this coverage.",
+    "chronological": {
+      "files": [
+        "v7-final-01.png",
+        "v7-final-02.png",
+        "v7-final-03.png",
+        "v7-final-04.png",
+        "v7-final-05.png"
+      ],
+      "fps": 2,
+      "coverage": "Full film sampled every .5 seconds; unused final-sheet cells are black padding, not film frames."
+    },
+    "arrivalAndRegister": {
+      "files": [
+        "v7-final-register-01.png",
+        "v7-final-register-02.png"
+      ],
+      "startSeconds": 7.3,
+      "durationSeconds": 6.4,
+      "fps": 5,
+      "observations": "Walking has separate feet; cashier smile and replacement remain readable. Brief doorframe crossing during the camera transfer remains; obsolete display no longer obstructs either discovery."
+    },
+    "details": {
+      "file": "v7-final-details.png",
+      "frames": [
+        450,
+        465,
+        525,
+        800,
+        845,
+        1060,
+        1125
+      ],
+      "observations": "Light exchange, ear identity detail, sincere reaction and closing shared pullback retained."
+    }
+  },
+  "continuousAudiovisualReview": false,
+  "coverageLimit": "Chronological and consecutive visual samples, source PCM and signal checks. User performs the agreed continuous audiovisual review; automated checks and samples are supplementary.",
+  "acceptance": "User acceptance pending",
+  "exportAudioLoudness": {
+    "integratedLufs": -16.69,
+    "truePeakDbtp": -1.48,
+    "loudnessRangeLu": 2.2,
+    "log": "v7-export-loudness.log"
+  },
+  "renderAccounting": {
+    "fullEconomicalPreviews": 2,
+    "fullEconomicalFrames": 2278,
+    "targetedFrames": 763,
+    "totalEconomicalFrames": 3041,
+    "final2KExports": 1,
+    "final2KFrames": 1139,
+    "modelUsage": "Exact model tokens/cost unavailable",
+    "workers": "One bounded audio worker and one independent visual-sample reviewer"
+  },
+  "productionStatus": "Draft export complete; user continuous audiovisual feedback and acceptance pending"
+}

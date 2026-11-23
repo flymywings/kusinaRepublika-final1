@@ -1,0 +1,20 @@
+{
+  "status": "Rendered character design proposal; user approval pending",
+  "file": "proof/Fragrant Flower - Character Sheet v1.png",
+  "width": 2400,
+  "height": 2050,
+  "sha256": "a5ba090489e4210dfcb25f5e7be194c1a8f0cb808ecaac4639eb214c57cab649",
+  "sources": {
+    "CharacterArt.tsx": "c9b8a4e89c84cae70043396fcdcdb1eb80eef56ae4885db02a6293934c3979fa",
+    "CharacterSheet.tsx": "7e8de8fe2a80e06b4389f375283aed5e5c71a9a92934861b7e9477e6621831d9"
+  },
+  "references": "Eight inspected primary official assets; hashes verified",
+  "scope": "School identity study with full-body source comparison and three frontal facial states per character. Cafe wardrobe not locked by this sheet.",
+  "review": "Lead inspected final rendered sheet; independent findings on fringe, strap and attentive eyes addressed.",
+  "method": "Deterministic production Canvas2D functions using the accepted shared cartoon drawing library. No separate generated illustration.",
+  "renderEffort": {
+    "stillRenders": 3,
+    "filmRenders": 0
+  },
+  "modelUsage": "Exact tokens/cost unavailable"
+}
